@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-17T02:31:20.639Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="Ks8MZhjYk8_5qbfwjzqC" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-17T02:32:05.510Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="hrRem2idqPhBuPTfYX5D" version="12.9.14" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1673" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k9CPRZBm4vdzibTK0ZEi-52" value="BIMModelStructureTreeView" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="460" width="190" height="80" as="geometry" />
+          <mxGeometry x="845" y="460" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k9CPRZBm4vdzibTK0ZEi-53" value="SubUI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="440" width="50" height="20" as="geometry" />
