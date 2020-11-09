@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T11:06:41.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="3Jh7lOI8vvWEw_G8wugL" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T02:15:19.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="4M86bsQj5kVD-4ybjKxo" version="13.9.2" type="github">
   <diagram id="WTNj_Hdq__7ke6nhJa1Y" name="Page-1">
-    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,6 +136,69 @@
         </mxCell>
         <mxCell id="Dp4xrp-Sg3KwqESMtG_m-54" value="+ mcoder: char" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-53">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-64" value="定额编号" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-300" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-65" value="+ coder: char" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-64">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-70" value="项目（名称）" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-210" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-71" value="+ name: char" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-70">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-72" value="概算基价" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-120" width="200" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-73" value="+ rengongfei: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-72">
+          <mxGeometry y="26" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-74" value="+ cailiaofei: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-72">
+          <mxGeometry y="52" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-75" value="+ jixiefei: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-72">
+          <mxGeometry y="78" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-83" value="+ zhuyaogongchengliang: [{&quot;&quot;:&quot;&quot;,}]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-72">
+          <mxGeometry y="104" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-85" value="+ detailPrice: []" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-72">
+          <mxGeometry y="130" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dp4xrp-Sg3KwqESMtG_m-86" target="Dp4xrp-Sg3KwqESMtG_m-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-86" value="详细价格" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="50" width="220" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-88" value="+ CaiLiao:" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-86">
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-92" value="+quantity:float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-86">
+          <mxGeometry y="52" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dp4xrp-Sg3KwqESMtG_m-93" target="Dp4xrp-Sg3KwqESMtG_m-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-93" value="详细价格" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="50" width="220" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-94" value="+ category:Enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-93">
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-95" value="+ coder:char" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-93">
+          <mxGeometry y="52" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-96" value="+ name:char" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-93">
+          <mxGeometry y="78" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-97" value="+ unit:Enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-93">
+          <mxGeometry y="104" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-98" value="+ price:Enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-93">
+          <mxGeometry y="130" width="220" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
