@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T02:31:18.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="_LZQ8qm26D86xMbj54DA" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T02:38:08.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="_lRku7HhU0OofIetjkIt" version="13.9.2" type="github">
   <diagram id="WTNj_Hdq__7ke6nhJa1Y" name="Page-1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,7 +197,7 @@
         <mxCell id="Dp4xrp-Sg3KwqESMtG_m-97" value="+ unit:Enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-93">
           <mxGeometry y="104" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-98" value="+ price:Enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-93">
+        <mxCell id="Dp4xrp-Sg3KwqESMtG_m-98" value="+ price:float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dp4xrp-Sg3KwqESMtG_m-93">
           <mxGeometry y="130" width="220" height="26" as="geometry" />
         </mxCell>
       </root>
