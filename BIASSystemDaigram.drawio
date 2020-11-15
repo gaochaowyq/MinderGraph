@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-15T08:40:02.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="hluAA1lN6didC7yh8LaL" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-15T08:53:27.179Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="YLf2abb9Qei3e4U6gYaK" version="13.9.8" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="2016" dy="2196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2178" dy="2284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,7 +150,7 @@
           <mxGeometry x="220" y="90" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m-ctssJ2quEOxKzwu2zu-60" value="前端显示+交互" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="-1150" width="880" height="950" as="geometry" />
+          <mxGeometry x="-880" y="-1420" width="1470" height="950" as="geometry" />
         </mxCell>
         <mxCell id="m-ctssJ2quEOxKzwu2zu-61" value="三维可视化" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="m-ctssJ2quEOxKzwu2zu-60" vertex="1">
           <mxGeometry x="10" y="30" width="200" height="50" as="geometry" />
@@ -307,6 +307,18 @@
         </mxCell>
         <mxCell id="Zd3WpHDS-rCR1Q-dJC60-88" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Zd3WpHDS-rCR1Q-dJC60-86">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-89" value="MasterMenue" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="m-ctssJ2quEOxKzwu2zu-60">
+          <mxGeometry x="890" y="80" width="210" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-90" value="+ Widget_Timer: Widget" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zd3WpHDS-rCR1Q-dJC60-89">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-93" value="+ Widget_GlobalOutPut: Widget" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zd3WpHDS-rCR1Q-dJC60-89">
+          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-91" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="Zd3WpHDS-rCR1Q-dJC60-89">
+          <mxGeometry y="78" width="210" height="8" as="geometry" />
         </mxCell>
         <mxCell id="Zd3WpHDS-rCR1Q-dJC60-13" value="前端显示+交互" style="swimlane;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="-70" width="630" height="160" as="geometry" />
