@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-15T10:21:15.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="yRJc51lp6E0UMh-xxt--" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-15T11:37:08.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="FcfROgVcepMWtF2K_8S0" version="13.9.8" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="2016" dy="2196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2832" dy="2042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,6 +343,44 @@
         </mxCell>
         <mxCell id="Zd3WpHDS-rCR1Q-dJC60-19" value="MR" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="Zd3WpHDS-rCR1Q-dJC60-13">
           <mxGeometry x="430" y="90" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-96" value="中台API_BIM DateBase" style="swimlane;fillColor=none;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="-2080" y="-260" width="940" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Zd3WpHDS-rCR1Q-dJC60-96" source="Zd3WpHDS-rCR1Q-dJC60-108" target="Zd3WpHDS-rCR1Q-dJC60-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Zd3WpHDS-rCR1Q-dJC60-96" source="Zd3WpHDS-rCR1Q-dJC60-108" target="Zd3WpHDS-rCR1Q-dJC60-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-108" value="BIM_DB" style="html=1;" vertex="1" parent="Zd3WpHDS-rCR1Q-dJC60-96">
+          <mxGeometry x="20" y="72" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Zd3WpHDS-rCR1Q-dJC60-96" source="Zd3WpHDS-rCR1Q-dJC60-109" target="Zd3WpHDS-rCR1Q-dJC60-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-117" value="Return" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zd3WpHDS-rCR1Q-dJC60-116">
+          <mxGeometry x="0.25" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-109" value="Get_BIMDatas_By_GUID" style="html=1;" vertex="1" parent="Zd3WpHDS-rCR1Q-dJC60-96">
+          <mxGeometry x="230" y="72" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-113" value="Modify_BIMDatas_By_GUID" style="html=1;" vertex="1" parent="Zd3WpHDS-rCR1Q-dJC60-96">
+          <mxGeometry x="230" y="160" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-115" value="{&quot;name1&quot;:[&#39;value&#39;,&#39;unit&#39;],&quot;name2&quot;:[&#39;value&#39;,&#39;unit&#39;]}" style="html=1;" vertex="1" parent="Zd3WpHDS-rCR1Q-dJC60-96">
+          <mxGeometry x="500" y="72" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-119" value="Parameters" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Zd3WpHDS-rCR1Q-dJC60-96" source="Zd3WpHDS-rCR1Q-dJC60-118" target="Zd3WpHDS-rCR1Q-dJC60-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-118" value="{&quot;name1&quot;:[&#39;value&#39;,&#39;unit&#39;],&quot;name2&quot;:[&#39;value&#39;,&#39;unit&#39;]}" style="html=1;" vertex="1" parent="Zd3WpHDS-rCR1Q-dJC60-96">
+          <mxGeometry x="195" y="280" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd3WpHDS-rCR1Q-dJC60-103" value="中台API_BIM View" style="swimlane;fillColor=none;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="-270" width="940" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
