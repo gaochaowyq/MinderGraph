@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T04:56:23.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="lqG2_8GxoeKLkCOhOBUT" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T04:59:41.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="lt4Ak8NA9te50rUC4fzB" version="13.9.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="3385" dy="3165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -327,7 +327,7 @@
           <mxGeometry y="78" width="210" height="8" as="geometry" />
         </mxCell>
         <mxCell id="d3mLGaWf6AF9hgOQs2JB-1" value="BIMElement" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="m-ctssJ2quEOxKzwu2zu-60">
-          <mxGeometry x="30" y="1040" width="200" height="138" as="geometry" />
+          <mxGeometry x="30" y="1040" width="200" height="164" as="geometry" />
         </mxCell>
         <mxCell id="d3mLGaWf6AF9hgOQs2JB-2" value="+ Name: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="d3mLGaWf6AF9hgOQs2JB-1">
           <mxGeometry y="26" width="200" height="26" as="geometry" />
@@ -338,11 +338,14 @@
         <mxCell id="d3mLGaWf6AF9hgOQs2JB-6" value="+ Label: WidgetComponent" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="d3mLGaWf6AF9hgOQs2JB-1">
           <mxGeometry y="78" width="200" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="d3mLGaWf6AF9hgOQs2JB-25" value="+ LabelStatus: " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="d3mLGaWf6AF9hgOQs2JB-1">
+          <mxGeometry y="104" width="200" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="d3mLGaWf6AF9hgOQs2JB-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="d3mLGaWf6AF9hgOQs2JB-1">
-          <mxGeometry y="104" width="200" height="8" as="geometry" />
+          <mxGeometry y="130" width="200" height="8" as="geometry" />
         </mxCell>
         <mxCell id="d3mLGaWf6AF9hgOQs2JB-4" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="d3mLGaWf6AF9hgOQs2JB-1">
-          <mxGeometry y="112" width="200" height="26" as="geometry" />
+          <mxGeometry y="138" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="d3mLGaWf6AF9hgOQs2JB-7" value="BIMRoom" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="m-ctssJ2quEOxKzwu2zu-60">
           <mxGeometry x="450" y="990" width="200" height="86" as="geometry" />
