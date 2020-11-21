@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T05:45:02.802Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="s0f0ocEaiJaVTu9RpkJi" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T05:47:14.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="LlDS3gN_xHJOWyBFQvZU" version="13.10.0" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="2945" dy="3011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -499,7 +499,7 @@
         <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-40" value="三维图形" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-680" y="950" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-42" value="唯一标识&lt;br&gt;分类编码+TimeSpane+GUID" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-42" value="唯一标识&lt;br&gt;分类编码+TimeSpane+&lt;br&gt;geo+GUID" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-500" y="950" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
