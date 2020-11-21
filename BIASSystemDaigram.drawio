@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T04:58:38.681Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="VexopOUIlr1qyfaXm_8b" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T05:02:14.593Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="RI-Q2dqKUE7yRLTNKAq7" version="13.10.0" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="2852" dy="2996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
             <mxRectangle x="360" y="340" width="140" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m-ctssJ2quEOxKzwu2zu-10" value="时空参照（数字孪生）" style="swimlane;fillColor=none;" parent="m-ctssJ2quEOxKzwu2zu-3" vertex="1">
+        <mxCell id="m-ctssJ2quEOxKzwu2zu-10" value="空间" style="swimlane;fillColor=none;" parent="m-ctssJ2quEOxKzwu2zu-3" vertex="1">
           <mxGeometry x="20" y="40" width="220" height="215" as="geometry" />
         </mxCell>
         <mxCell id="bS8lpIofFMbCS8YV53wC-6" value="BIM数据库" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="m-ctssJ2quEOxKzwu2zu-10" vertex="1">
@@ -81,40 +81,6 @@
         </mxCell>
         <mxCell id="m-ctssJ2quEOxKzwu2zu-49" value="GIS数据库" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="m-ctssJ2quEOxKzwu2zu-10" vertex="1">
           <mxGeometry x="10" y="45.5" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="m-ctssJ2quEOxKzwu2zu-11" value="大数据" style="swimlane;fillColor=none;" parent="m-ctssJ2quEOxKzwu2zu-3" vertex="1">
-          <mxGeometry x="380" y="40" width="220" height="215" as="geometry" />
-        </mxCell>
-        <mxCell id="m-ctssJ2quEOxKzwu2zu-12" value="交网大数据" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="m-ctssJ2quEOxKzwu2zu-11" vertex="1">
-          <mxGeometry x="10" y="28" width="200" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="m-ctssJ2quEOxKzwu2zu-19" value="水网大数据" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="m-ctssJ2quEOxKzwu2zu-11" vertex="1">
-          <mxGeometry x="10" y="58" width="200" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="m-ctssJ2quEOxKzwu2zu-20" value="人文大数据" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="m-ctssJ2quEOxKzwu2zu-11" vertex="1">
-          <mxGeometry x="10" y="88" width="200" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="m-ctssJ2quEOxKzwu2zu-21" value="电网大数据" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="m-ctssJ2quEOxKzwu2zu-11" vertex="1">
-          <mxGeometry x="10" y="118" width="200" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="m-ctssJ2quEOxKzwu2zu-22" value="市政大数据" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="m-ctssJ2quEOxKzwu2zu-11" vertex="1">
-          <mxGeometry x="10" y="148" width="200" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="m-ctssJ2quEOxKzwu2zu-23" value="等等" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="m-ctssJ2quEOxKzwu2zu-11" vertex="1">
-          <mxGeometry x="10" y="180" width="200" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="m-ctssJ2quEOxKzwu2zu-42" value="索引" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="m-ctssJ2quEOxKzwu2zu-3" vertex="1">
-          <mxGeometry x="290" y="90" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="m-ctssJ2quEOxKzwu2zu-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m-ctssJ2quEOxKzwu2zu-42" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m-ctssJ2quEOxKzwu2zu-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m-ctssJ2quEOxKzwu2zu-42" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="480" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="m-ctssJ2quEOxKzwu2zu-46" value="中台API" style="swimlane;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="630" height="150" as="geometry" />
@@ -497,23 +463,14 @@
         <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-26" value="静态数据" style="swimlane;fillColor=none;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-1">
           <mxGeometry x="385" y="40" width="220" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-27" value="交网大数据" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-26">
+        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-27" value="地理信息图形元素" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-26">
           <mxGeometry x="10" y="28" width="200" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-28" value="水网大数据" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-26">
-          <mxGeometry x="10" y="58" width="200" height="25" as="geometry" />
+        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-28" value="建筑信息图形元素" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-26">
+          <mxGeometry x="10" y="70" width="200" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-29" value="人文大数据" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-26">
-          <mxGeometry x="10" y="88" width="200" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-30" value="电网大数据" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-26">
-          <mxGeometry x="10" y="118" width="200" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-31" value="市政大数据" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-26">
-          <mxGeometry x="10" y="148" width="200" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-32" value="等等" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-26">
-          <mxGeometry x="10" y="180" width="200" height="25" as="geometry" />
+        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-33" value="虚拟概念图形元素" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-26">
+          <mxGeometry x="10" y="120" width="200" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
