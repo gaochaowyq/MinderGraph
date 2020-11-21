@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T05:05:47.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Cf245HblV9s_JPTWNXcA" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T05:06:31.849Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="IihK2A_LjDhGW-f69CnP" version="13.10.0" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="2852" dy="2996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -435,12 +435,12 @@
           <mxGeometry x="-1000" y="-270" width="940" height="380" as="geometry" />
         </mxCell>
         <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-1" value="大数据平台" style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=1;containerType=tree;" vertex="1" parent="1">
-          <mxGeometry x="355" y="680" width="630" height="280" as="geometry">
+          <mxGeometry x="355" y="680" width="260" height="480" as="geometry">
             <mxRectangle x="360" y="340" width="140" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-5" value="动态数据" style="swimlane;fillColor=none;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-1">
-          <mxGeometry x="45" y="40" width="220" height="215" as="geometry" />
+          <mxGeometry x="20" y="40" width="220" height="215" as="geometry" />
         </mxCell>
         <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-6" value="交网大数据" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-5">
           <mxGeometry x="10" y="28" width="200" height="25" as="geometry" />
@@ -461,7 +461,7 @@
           <mxGeometry x="10" y="180" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-26" value="静态数据" style="swimlane;fillColor=none;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-1">
-          <mxGeometry x="385" y="40" width="220" height="215" as="geometry" />
+          <mxGeometry x="20" y="305" width="220" height="155" as="geometry" />
         </mxCell>
         <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-27" value="地理信息图形元素" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="bQSHPGJ8XmVZuHW0s5Cg-26">
           <mxGeometry x="10" y="28" width="200" height="25" as="geometry" />
@@ -474,8 +474,8 @@
         </mxCell>
         <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-34" value="信息分类编码+GUID+TimeSpane" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="bQSHPGJ8XmVZuHW0s5Cg-1" source="bQSHPGJ8XmVZuHW0s5Cg-5" target="bQSHPGJ8XmVZuHW0s5Cg-26">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="265" y="50" as="sourcePoint" />
-            <mxPoint x="425" y="50" as="targetPoint" />
+            <mxPoint x="240" y="50" as="sourcePoint" />
+            <mxPoint x="400" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
