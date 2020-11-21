@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T05:06:31.849Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="IihK2A_LjDhGW-f69CnP" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T05:26:29.894Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="H8lriKv6ciG2iYtVdjmi" version="13.10.0" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="2852" dy="2996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -73,14 +73,11 @@
             <mxRectangle x="360" y="340" width="140" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m-ctssJ2quEOxKzwu2zu-10" value="空间" style="swimlane;fillColor=none;" parent="m-ctssJ2quEOxKzwu2zu-3" vertex="1">
+        <mxCell id="m-ctssJ2quEOxKzwu2zu-10" value="  数据调度" style="swimlane;fillColor=none;" parent="m-ctssJ2quEOxKzwu2zu-3" vertex="1">
           <mxGeometry x="20" y="40" width="220" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="bS8lpIofFMbCS8YV53wC-6" value="BIM数据库" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="m-ctssJ2quEOxKzwu2zu-10" vertex="1">
-          <mxGeometry x="10" y="110" width="200" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="m-ctssJ2quEOxKzwu2zu-49" value="GIS数据库" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="m-ctssJ2quEOxKzwu2zu-10" vertex="1">
-          <mxGeometry x="10" y="45.5" width="200" height="50" as="geometry" />
+        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-35" value="  数据分析" style="swimlane;fillColor=none;" vertex="1" parent="m-ctssJ2quEOxKzwu2zu-3">
+          <mxGeometry x="250" y="40" width="220" height="215" as="geometry" />
         </mxCell>
         <mxCell id="m-ctssJ2quEOxKzwu2zu-46" value="中台API" style="swimlane;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="630" height="150" as="geometry" />
