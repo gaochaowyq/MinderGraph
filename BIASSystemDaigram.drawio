@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T11:06:36.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="w17Q5N-es9rZCSOhqCtv" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T11:07:38.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Go6n34pPgL8TehFbQKD7" version="13.10.0" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="4435" dy="3933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5180" dy="4393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -535,11 +535,20 @@
         <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-46" value="概念" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-310" y="1140" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bQSHPGJ8XmVZuHW0s5Cg-50" target="bQSHPGJ8XmVZuHW0s5Cg-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-50" value="BIM" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-90" y="950" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bQSHPGJ8XmVZuHW0s5Cg-52" target="bQSHPGJ8XmVZuHW0s5Cg-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-52" value="GIS" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-90" y="1050" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bQSHPGJ8XmVZuHW0s5Cg-54" target="bQSHPGJ8XmVZuHW0s5Cg-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bQSHPGJ8XmVZuHW0s5Cg-54" value="非标准化" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-90" y="1140" width="140" height="80" as="geometry" />
