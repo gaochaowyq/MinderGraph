@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T03:54:40.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="V55JJ8PHN81bXVHYA0rv" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T03:57:30.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="eH8Mq87NXvqoD_Jt0MJ3" version="13.10.4" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="3150" dy="4704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -774,6 +774,12 @@
         </mxCell>
         <mxCell id="k6g3ckzOCXiRNdKEeML7-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;" parent="k6g3ckzOCXiRNdKEeML7-2" source="k6g3ckzOCXiRNdKEeML7-35" target="k6g3ckzOCXiRNdKEeML7-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="208NYjFxgewR2U8htqxA-4" value="BIM的特点，构件化，产品化。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1065" y="-3710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="208NYjFxgewR2U8htqxA-5" value="管理基于BIM，即基于构件化管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="-3710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
