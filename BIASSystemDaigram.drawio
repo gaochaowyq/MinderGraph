@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T06:25:37.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="JYZrcYFvTCId7taYM5_g" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T06:29:28.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="WGqpPUl56nAketZZVXy7" version="13.10.4" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="201.72" dy="3684.08" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1107.4" dy="3727.38" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -828,10 +828,8 @@
         <mxCell id="208NYjFxgewR2U8htqxA-24" value="项目实施流程" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="-230" y="-3539" width="994" height="659" as="geometry" />
         </mxCell>
-        <mxCell id="208NYjFxgewR2U8htqxA-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="208NYjFxgewR2U8htqxA-24" source="208NYjFxgewR2U8htqxA-51">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="200.04879986439573" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="208NYjFxgewR2U8htqxA-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="208NYjFxgewR2U8htqxA-24" source="208NYjFxgewR2U8htqxA-51" target="208NYjFxgewR2U8htqxA-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-51" value="基础数据制作" style="swimlane;" vertex="1" parent="208NYjFxgewR2U8htqxA-24">
           <mxGeometry x="13" y="30" width="166" height="250" as="geometry" />
@@ -873,7 +871,7 @@
           <mxGeometry x="13" y="569" width="167" height="71" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-67" value="BIM+GIS数据库" style="swimlane;" vertex="1" parent="208NYjFxgewR2U8htqxA-24">
-          <mxGeometry x="250" y="30" width="166" height="350" as="geometry" />
+          <mxGeometry x="270" y="79" width="166" height="410" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-70" value="BIM+GIS的三维产品构件数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="208NYjFxgewR2U8htqxA-67">
           <mxGeometry x="25" y="48" width="120" height="60" as="geometry" />
@@ -884,8 +882,29 @@
         <mxCell id="208NYjFxgewR2U8htqxA-72" value="多维度建筑工程信息分类编码+唯一标识编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="208NYjFxgewR2U8htqxA-67">
           <mxGeometry x="25" y="189" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="208NYjFxgewR2U8htqxA-80" value="元素关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="208NYjFxgewR2U8htqxA-67">
+          <mxGeometry x="23" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-73" value="以建筑构件为基础索引其它数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="208NYjFxgewR2U8htqxA-67">
-          <mxGeometry x="25" y="269" width="120" height="60" as="geometry" />
+          <mxGeometry x="23" y="329" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="208NYjFxgewR2U8htqxA-82" value="应用" style="swimlane;" vertex="1" parent="208NYjFxgewR2U8htqxA-24">
+          <mxGeometry x="580" y="39" width="166" height="601" as="geometry" />
+        </mxCell>
+        <mxCell id="208NYjFxgewR2U8htqxA-83" value="建筑工程概预算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="208NYjFxgewR2U8htqxA-82">
+          <mxGeometry x="25" y="48" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="208NYjFxgewR2U8htqxA-84" value="施工进度管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="208NYjFxgewR2U8htqxA-82">
+          <mxGeometry x="25" y="118" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="208NYjFxgewR2U8htqxA-85" value="车辆管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="208NYjFxgewR2U8htqxA-82">
+          <mxGeometry x="25" y="189" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="208NYjFxgewR2U8htqxA-86" value="人员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="208NYjFxgewR2U8htqxA-82">
+          <mxGeometry x="23" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="208NYjFxgewR2U8htqxA-87" value="物料管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="208NYjFxgewR2U8htqxA-82">
+          <mxGeometry x="23" y="329" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
