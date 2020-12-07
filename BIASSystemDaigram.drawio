@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T04:01:28.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="plogZ0S_8ncaODz5o5BH" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T05:37:47.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="8jD5_4L1oS77Sfx1RIBO" version="13.10.4" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="3346" dy="4798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3150" dy="4704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -638,31 +638,25 @@
           <mxGeometry x="10" y="80" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="N-QkRDngdhlwxeqdpXlT-99" value="全时段安全管理" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
-          <mxGeometry x="130" y="80" width="230" height="20" as="geometry" />
+          <mxGeometry x="130" y="80" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-QkRDngdhlwxeqdpXlT-100" value="BIM+GIS可视化" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
           <mxGeometry x="130" y="110" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-QkRDngdhlwxeqdpXlT-101" value="全过程施工进度管理" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
-          <mxGeometry x="365" y="80" width="210" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="N-QkRDngdhlwxeqdpXlT-102" value="全周期质量监测" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
-          <mxGeometry x="585" y="80" width="345" height="20" as="geometry" />
+          <mxGeometry x="480" y="80" width="450" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-QkRDngdhlwxeqdpXlT-103" value="车辆定位" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
-          <mxGeometry x="230" y="110" width="60" height="20" as="geometry" />
+          <mxGeometry x="230" y="110" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-QkRDngdhlwxeqdpXlT-104" value="人员定位" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
-          <mxGeometry x="300" y="110" width="60" height="20" as="geometry" />
+          <mxGeometry x="380" y="110" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="N-QkRDngdhlwxeqdpXlT-105" value="点云与现场比对" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
-          <mxGeometry x="485" y="110" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="208NYjFxgewR2U8htqxA-1" value="基于BIM的物料管理" style="html=1;" vertex="1" parent="N-QkRDngdhlwxeqdpXlT-86">
-          <mxGeometry x="365" y="110" width="115" height="20" as="geometry" />
+        <mxCell id="208NYjFxgewR2U8htqxA-1" value="物料管理" style="html=1;" vertex="1" parent="N-QkRDngdhlwxeqdpXlT-86">
+          <mxGeometry x="480" y="110" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-3" value="点云与现场比对" style="html=1;" vertex="1" parent="N-QkRDngdhlwxeqdpXlT-86">
-          <mxGeometry x="585" y="110" width="90" height="20" as="geometry" />
+          <mxGeometry x="720" y="110" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k6g3ckzOCXiRNdKEeML7-2" value="图形数据库" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="-2190" y="-4150" width="960" height="515" as="geometry" />
@@ -776,19 +770,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-4" value="BIM的特点，构件化，产品化。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1065" y="-3710" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1120" y="-3720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-5" value="管理基于BIM，即基于构件化管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="-3710" width="120" height="60" as="geometry" />
+          <mxGeometry x="-965" y="-3720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-6" value="基于建筑构件的数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="-3650" width="120" height="60" as="geometry" />
+          <mxGeometry x="-815" y="-3660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-7" value="基于三维构件的数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="-3750" width="120" height="60" as="geometry" />
+          <mxGeometry x="-815" y="-3760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="-3710" width="120" height="60" as="geometry" />
+          <mxGeometry x="-615" y="-3720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
