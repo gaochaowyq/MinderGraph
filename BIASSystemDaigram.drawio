@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T06:25:19.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="sCiLzfJMTD68ArT-02NL" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T06:25:37.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="JYZrcYFvTCId7taYM5_g" version="13.10.4" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="201.72" dy="3684.08" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -872,7 +872,7 @@
         <mxCell id="208NYjFxgewR2U8htqxA-59" value="物联网大数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="208NYjFxgewR2U8htqxA-24">
           <mxGeometry x="13" y="569" width="167" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="208NYjFxgewR2U8htqxA-67" value="BIM数据库" style="swimlane;" vertex="1" parent="208NYjFxgewR2U8htqxA-24">
+        <mxCell id="208NYjFxgewR2U8htqxA-67" value="BIM+GIS数据库" style="swimlane;" vertex="1" parent="208NYjFxgewR2U8htqxA-24">
           <mxGeometry x="250" y="30" width="166" height="350" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-70" value="BIM+GIS的三维产品构件数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="208NYjFxgewR2U8htqxA-67">
