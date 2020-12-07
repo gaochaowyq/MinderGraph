@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T05:48:00.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="FPMS_7ghBSE9_V0kQQE_" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T05:57:32.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="m_6xtm9jPEAIf_ahIuGK" version="13.10.4" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="3585" dy="4912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1369.54" dy="3692.16" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -628,7 +628,7 @@
         <mxCell id="N-QkRDngdhlwxeqdpXlT-95" value="未来" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
           <mxGeometry x="130" y="180" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="N-QkRDngdhlwxeqdpXlT-96" value="以“BIM+GIS+时空的数据”为特色打造特色智慧工地" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
+        <mxCell id="N-QkRDngdhlwxeqdpXlT-96" value="以“BIM+GIS+时空的数据”为特色，建筑工程构件为基础，打造特色智慧工地" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
           <mxGeometry x="230" y="150" width="700" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-QkRDngdhlwxeqdpXlT-97" value="基于现阶段能力，深耕大型机械远程控制方面的应用" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
@@ -640,23 +640,32 @@
         <mxCell id="N-QkRDngdhlwxeqdpXlT-99" value="全时段安全管理" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
           <mxGeometry x="130" y="80" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="N-QkRDngdhlwxeqdpXlT-100" value="构件（产品）" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
+        <mxCell id="N-QkRDngdhlwxeqdpXlT-100" value="构件定位" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
           <mxGeometry x="130" y="110" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-QkRDngdhlwxeqdpXlT-101" value="全过程施工进度管理" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
           <mxGeometry x="480" y="80" width="450" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-QkRDngdhlwxeqdpXlT-103" value="车辆定位" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
-          <mxGeometry x="230" y="110" width="140" height="20" as="geometry" />
+          <mxGeometry x="230" y="110" width="73" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-QkRDngdhlwxeqdpXlT-104" value="人员定位" style="html=1;" parent="N-QkRDngdhlwxeqdpXlT-86" vertex="1">
-          <mxGeometry x="380" y="110" width="90" height="20" as="geometry" />
+          <mxGeometry x="308" y="110" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-1" value="物料管理" style="html=1;" vertex="1" parent="N-QkRDngdhlwxeqdpXlT-86">
-          <mxGeometry x="480" y="110" width="230" height="20" as="geometry" />
+          <mxGeometry x="480" y="110" width="103" height="20" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-3" value="点云与现场比对" style="html=1;" vertex="1" parent="N-QkRDngdhlwxeqdpXlT-86">
-          <mxGeometry x="720" y="110" width="210" height="20" as="geometry" />
+          <mxGeometry x="720" y="110" width="107" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="208NYjFxgewR2U8htqxA-19" value="造价管理" style="html=1;" vertex="1" parent="N-QkRDngdhlwxeqdpXlT-86">
+          <mxGeometry x="587" y="110" width="129" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="208NYjFxgewR2U8htqxA-20" value="人员监控" style="html=1;" vertex="1" parent="N-QkRDngdhlwxeqdpXlT-86">
+          <mxGeometry x="400" y="110" width="68" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="208NYjFxgewR2U8htqxA-21" value="其它感知数据接入" style="html=1;" vertex="1" parent="N-QkRDngdhlwxeqdpXlT-86">
+          <mxGeometry x="831" y="110" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k6g3ckzOCXiRNdKEeML7-2" value="图形数据库" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="-2190" y="-4150" width="960" height="515" as="geometry" />
