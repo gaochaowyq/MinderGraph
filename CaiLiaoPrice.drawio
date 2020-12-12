@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T03:29:38.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="SVuQxBNsAIYj4pSBTz9f" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T03:33:29.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="e4FKX1WFcYBC5qV-aUPk" version="14.0.1" type="github">
   <diagram id="WTNj_Hdq__7ke6nhJa1Y" name="Page-1">
-    <mxGraphModel dx="1973" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1618" dy="1547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,17 +383,47 @@
         <mxCell id="GQRF8PhWahuhVYAp_rSI-51" value="定额" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GQRF8PhWahuhVYAp_rSI-55" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="2690" width="80" height="30" as="geometry" />
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQRF8PhWahuhVYAp_rSI-55" target="GQRF8PhWahuhVYAp_rSI-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GQRF8PhWahuhVYAp_rSI-56" value="数据展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="2760" width="80" height="30" as="geometry" />
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQRF8PhWahuhVYAp_rSI-55" target="GQRF8PhWahuhVYAp_rSI-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQRF8PhWahuhVYAp_rSI-55" target="GQRF8PhWahuhVYAp_rSI-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-55" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="2630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQRF8PhWahuhVYAp_rSI-56" target="GQRF8PhWahuhVYAp_rSI-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GQRF8PhWahuhVYAp_rSI-56" target="GQRF8PhWahuhVYAp_rSI-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQRF8PhWahuhVYAp_rSI-56" target="GQRF8PhWahuhVYAp_rSI-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-56" value="主页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="2920" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GQRF8PhWahuhVYAp_rSI-57" value="使用文档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="2820" width="80" height="30" as="geometry" />
+          <mxGeometry x="-190" y="3000" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GQRF8PhWahuhVYAp_rSI-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="2620" width="80" height="30" as="geometry" />
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-58" value="注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="2580" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-59" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="2630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-60" value="登出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="2690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-64" value="时空大数据介绍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="2830" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-65" value="专项数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="2920" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
