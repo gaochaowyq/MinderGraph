@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T03:33:29.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="e4FKX1WFcYBC5qV-aUPk" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T03:36:35.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8SBr1W-ckO5j8yktREcY" version="14.0.1" type="github">
   <diagram id="WTNj_Hdq__7ke6nhJa1Y" name="Page-1">
-    <mxGraphModel dx="1618" dy="1547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2212" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -393,7 +393,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GQRF8PhWahuhVYAp_rSI-55" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="2630" width="80" height="30" as="geometry" />
+          <mxGeometry x="-330" y="2680" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GQRF8PhWahuhVYAp_rSI-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQRF8PhWahuhVYAp_rSI-56" target="GQRF8PhWahuhVYAp_rSI-64">
           <mxGeometry relative="1" as="geometry" />
@@ -411,19 +411,55 @@
           <mxGeometry x="-190" y="3000" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GQRF8PhWahuhVYAp_rSI-58" value="注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="2580" width="80" height="30" as="geometry" />
+          <mxGeometry x="-200" y="2630" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GQRF8PhWahuhVYAp_rSI-59" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="2630" width="80" height="30" as="geometry" />
+          <mxGeometry x="-200" y="2680" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GQRF8PhWahuhVYAp_rSI-60" value="登出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="2690" width="80" height="30" as="geometry" />
+          <mxGeometry x="-200" y="2740" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GQRF8PhWahuhVYAp_rSI-64" value="时空大数据介绍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="2830" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQRF8PhWahuhVYAp_rSI-65" target="GQRF8PhWahuhVYAp_rSI-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQRF8PhWahuhVYAp_rSI-65" target="GQRF8PhWahuhVYAp_rSI-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQRF8PhWahuhVYAp_rSI-65" target="GQRF8PhWahuhVYAp_rSI-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GQRF8PhWahuhVYAp_rSI-65" value="专项数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="2920" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQRF8PhWahuhVYAp_rSI-69" target="GQRF8PhWahuhVYAp_rSI-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GQRF8PhWahuhVYAp_rSI-69" target="GQRF8PhWahuhVYAp_rSI-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQRF8PhWahuhVYAp_rSI-69" target="GQRF8PhWahuhVYAp_rSI-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-69" value="建筑材料定额数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2860" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-71" value="建筑面积积算规范数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2908" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2960" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-75" value="用户自定义数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2780" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-77" value="用户选择如何读取数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2850" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQRF8PhWahuhVYAp_rSI-78" value="针对具体项目的数据建立" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2908" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
