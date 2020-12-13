@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T04:59:24.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="gqhqBj8XA4mNgmbKvo1m" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-13T05:00:42.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="FamCqsC0WfNNrKtoaKH7" version="14.0.1" type="github">
   <diagram id="n-tFotzcRK3HAxDXJtA-" name="Page-1">
-    <mxGraphModel dx="2374" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1385" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,7 +90,7 @@
         <mxCell id="Qnn75bxZcC1K6TdSmN_T-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-23" source="Qnn75bxZcC1K6TdSmN_T-39" target="Qnn75bxZcC1K6TdSmN_T-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qnn75bxZcC1K6TdSmN_T-85" value="区别与三维建模或三维仿真，&lt;br&gt;GIS+BIM均强调对事物的数&lt;br&gt;字化表达，其中包括形态、&lt;br&gt;功能、方法、特性、知识、&lt;br&gt;规则等等，并强调&lt;br&gt;这些数据来源于工业生产，&lt;br&gt;区别于动画、游戏、娱乐等。&lt;br&gt;这些数据具有非常强的行业&lt;br&gt;特性，并非某一家软件公司&lt;br&gt;或互联网公司可以完成。&lt;br&gt;需要由行业+信息化来完成" style="shape=partialRectangle;html=1;top=1;align=left;dashed=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-23">
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-85" value="区别与三维建模或三维仿真，&lt;br&gt;GIS+BIM均强调对事物的数&lt;br&gt;字化表达，其中包括形态、&lt;br&gt;功能、方法、特性、知识、&lt;br&gt;规则等等，并强调，这些数&lt;br&gt;据来源于工业生产，区别于&lt;br&gt;动画、游戏、娱乐等。&lt;br&gt;这些数据具有非常强的行业&lt;br&gt;特性，并非某一家软件公司&lt;br&gt;或互联网公司可以完成。&lt;br&gt;需要由行业+信息化来完成" style="shape=partialRectangle;html=1;top=1;align=left;dashed=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-23">
           <mxGeometry x="300" y="100" width="150" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Qnn75bxZcC1K6TdSmN_T-44" value="GIS+BIM+实时动态数据（相对实时）" style="swimlane;" vertex="1" parent="1">
@@ -154,6 +154,9 @@
         </mxCell>
         <mxCell id="Qnn75bxZcC1K6TdSmN_T-81" value="动态更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="767" y="790" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-86" value="我们选择" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
