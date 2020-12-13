@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T04:30:01.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="yNYrRfM9_lO1hUg3Lf3l" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-13T04:59:24.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="gqhqBj8XA4mNgmbKvo1m" version="14.0.1" type="github">
   <diagram id="n-tFotzcRK3HAxDXJtA-" name="Page-1">
-    <mxGraphModel dx="1146" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2374" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qnn75bxZcC1K6TdSmN_T-12" target="Qnn75bxZcC1K6TdSmN_T-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qnn75bxZcC1K6TdSmN_T-12" value="大数据的治理与应用，利用数据产生价值" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="180" y="160" width="580" height="60" as="geometry" />
         </mxCell>
@@ -22,8 +25,135 @@
         <mxCell id="Qnn75bxZcC1K6TdSmN_T-14" value="智慧城市" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-12">
           <mxGeometry x="130" y="30" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qnn75bxZcC1K6TdSmN_T-13" value="时空大数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="290" width="120" height="20" as="geometry" />
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qnn75bxZcC1K6TdSmN_T-16" target="Qnn75bxZcC1K6TdSmN_T-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-34" value="构建虚拟化空间与时间基础（无论范围的大小）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qnn75bxZcC1K6TdSmN_T-29">
+          <mxGeometry x="-0.2667" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-16" value="时空大数据" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="580" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-16" source="Qnn75bxZcC1K6TdSmN_T-18" target="Qnn75bxZcC1K6TdSmN_T-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-18" value="强调基于时间与空间关系对大数据管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-16">
+          <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-16" source="Qnn75bxZcC1K6TdSmN_T-19" target="Qnn75bxZcC1K6TdSmN_T-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-19" value="人对时间与空间的认知基本相同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-16">
+          <mxGeometry x="230" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-21" value="任何人，全球任何位置，都可通过空间与时间的统一方法管理和应用数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-16">
+          <mxGeometry x="440" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qnn75bxZcC1K6TdSmN_T-23" target="Qnn75bxZcC1K6TdSmN_T-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-23" value="GIS+BIM构建时空大数据的数据底图" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="180" y="510" width="600" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-23" source="Qnn75bxZcC1K6TdSmN_T-25" target="Qnn75bxZcC1K6TdSmN_T-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-25" value="GIS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-23">
+          <mxGeometry x="20" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-23" source="Qnn75bxZcC1K6TdSmN_T-32" target="Qnn75bxZcC1K6TdSmN_T-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-32" value="提供了对非人工信息基础信息的表述以及构建方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-23">
+          <mxGeometry x="100" y="50" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-36" value="BIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-23">
+          <mxGeometry x="20" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-23" source="Qnn75bxZcC1K6TdSmN_T-37" target="Qnn75bxZcC1K6TdSmN_T-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-37" value="提供了信息化描述人工要素的构建方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-23">
+          <mxGeometry x="100" y="110" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-23" source="Qnn75bxZcC1K6TdSmN_T-36" target="Qnn75bxZcC1K6TdSmN_T-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-39" value="强调抽象与功能表述（非视觉描述），即描述可视的物体，同时也描述概念、知识、系统等虚拟要素" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-23">
+          <mxGeometry x="300" y="35" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-42" value="虚拟世界" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-23">
+          <mxGeometry x="510" y="55" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-23" source="Qnn75bxZcC1K6TdSmN_T-39" target="Qnn75bxZcC1K6TdSmN_T-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-85" value="区别与三维建模或三维仿真，&lt;br&gt;GIS+BIM均强调对事物的数&lt;br&gt;字化表达，其中包括形态、&lt;br&gt;功能、方法、特性、知识、&lt;br&gt;规则等等，并强调&lt;br&gt;这些数据来源于工业生产，&lt;br&gt;区别于动画、游戏、娱乐等。&lt;br&gt;这些数据具有非常强的行业&lt;br&gt;特性，并非某一家软件公司&lt;br&gt;或互联网公司可以完成。&lt;br&gt;需要由行业+信息化来完成" style="shape=partialRectangle;html=1;top=1;align=left;dashed=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-23">
+          <mxGeometry x="300" y="100" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-44" value="GIS+BIM+实时动态数据（相对实时）" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="190" y="870" width="580" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-44" source="Qnn75bxZcC1K6TdSmN_T-56" target="Qnn75bxZcC1K6TdSmN_T-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-56" value="传统大数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-44">
+          <mxGeometry x="10" y="30" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-44" source="Qnn75bxZcC1K6TdSmN_T-58" target="Qnn75bxZcC1K6TdSmN_T-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-58" value="虚拟世界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-44">
+          <mxGeometry x="250" y="65" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-44" source="Qnn75bxZcC1K6TdSmN_T-59" target="Qnn75bxZcC1K6TdSmN_T-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-59" value="传统大数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-44">
+          <mxGeometry x="10" y="65" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-44" source="Qnn75bxZcC1K6TdSmN_T-60" target="Qnn75bxZcC1K6TdSmN_T-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-60" value="传统大数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-44">
+          <mxGeometry x="10" y="105" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-44" source="Qnn75bxZcC1K6TdSmN_T-61" target="Qnn75bxZcC1K6TdSmN_T-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-61" value="传统大数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-44">
+          <mxGeometry x="10" y="140" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Qnn75bxZcC1K6TdSmN_T-44" source="Qnn75bxZcC1K6TdSmN_T-73" target="Qnn75bxZcC1K6TdSmN_T-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-73" value="各类应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-44">
+          <mxGeometry x="360" y="30" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-75" value="各种形式的展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-44">
+          <mxGeometry x="490" y="30" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-72" value="实时交互" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Qnn75bxZcC1K6TdSmN_T-44">
+          <mxGeometry x="174" y="75" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qnn75bxZcC1K6TdSmN_T-79" target="Qnn75bxZcC1K6TdSmN_T-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-79" value="真实世界" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="780" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qnn75bxZcC1K6TdSmN_T-73" target="Qnn75bxZcC1K6TdSmN_T-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="1060" />
+              <mxPoint x="890" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnn75bxZcC1K6TdSmN_T-81" value="动态更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="790" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
