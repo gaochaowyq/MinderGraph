@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T14:44:22.834Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7Q7LxyGf6zSeSoaEyKY5" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T15:03:48.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="PnNwC2wtx2avBBdDvJm2" version="13.11.0" type="github">
   <diagram id="XaNpObv3Y3T2ZOU-7zWh" name="Page-1">
-    <mxGraphModel dx="1113" dy="2364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="2893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jn5YNnTQMBIH3l6vcv_w-20" value="砂浆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Jn5YNnTQMBIH3l6vcv_w-12">
-          <mxGeometry x="10" y="190" width="40" height="20" as="geometry" />
+          <mxGeometry x="20" y="190" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Jn5YNnTQMBIH3l6vcv_w-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Jn5YNnTQMBIH3l6vcv_w-12" source="Jn5YNnTQMBIH3l6vcv_w-21" target="Jn5YNnTQMBIH3l6vcv_w-23">
           <mxGeometry relative="1" as="geometry" />
@@ -155,10 +155,64 @@
           <mxGeometry x="520" y="180" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jn5YNnTQMBIH3l6vcv_w-13" value="砌体工程施工" style="swimlane;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="-800" width="420" height="200" as="geometry" />
+          <mxGeometry x="1390" y="-800" width="650" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Jn5YNnTQMBIH3l6vcv_w-13" source="Jn5YNnTQMBIH3l6vcv_w-59" target="Jn5YNnTQMBIH3l6vcv_w-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-59" value="砖砌体工程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Jn5YNnTQMBIH3l6vcv_w-13">
+          <mxGeometry x="10" y="60" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Jn5YNnTQMBIH3l6vcv_w-13" source="Jn5YNnTQMBIH3l6vcv_w-63" target="Jn5YNnTQMBIH3l6vcv_w-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-63" value="&lt;div&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;烧结普通砖&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;div&gt;&lt;span&gt;烧结多孔砖&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;蒸压灰沙砖&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;粉煤灰砖&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;等&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Jn5YNnTQMBIH3l6vcv_w-13">
+          <mxGeometry x="110" y="35" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Jn5YNnTQMBIH3l6vcv_w-13" source="Jn5YNnTQMBIH3l6vcv_w-65" target="Jn5YNnTQMBIH3l6vcv_w-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-65" value="&lt;div&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;砌筑工艺：&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;div&gt;&lt;span&gt;抄平&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;放线&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;立皮竖杆&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;铺灰砌砖&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;勾缝&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Jn5YNnTQMBIH3l6vcv_w-13">
+          <mxGeometry x="180" y="43.75" width="40" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-74" value="&lt;div&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;保证砌筑工程质量措施：&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Jn5YNnTQMBIH3l6vcv_w-13">
+          <mxGeometry x="250" y="43.75" width="70" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Jn5YNnTQMBIH3l6vcv_w-13" source="Jn5YNnTQMBIH3l6vcv_w-76" target="Jn5YNnTQMBIH3l6vcv_w-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-76" value="混凝土小型空心砌块砌体工程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Jn5YNnTQMBIH3l6vcv_w-13">
+          <mxGeometry x="10" y="130" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Jn5YNnTQMBIH3l6vcv_w-13" source="Jn5YNnTQMBIH3l6vcv_w-77" target="Jn5YNnTQMBIH3l6vcv_w-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-77" value="&lt;div&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;施工工艺：&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;div&gt;&lt;span&gt;铺灰&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;安装&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;校正&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;勾缝与灌注缝&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;镶砖&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Jn5YNnTQMBIH3l6vcv_w-13">
+          <mxGeometry x="180" y="120" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-79" value="&lt;div&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;小砌块砌筑质量要求：&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Jn5YNnTQMBIH3l6vcv_w-13">
+          <mxGeometry x="250" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Jn5YNnTQMBIH3l6vcv_w-13" source="Jn5YNnTQMBIH3l6vcv_w-81" target="Jn5YNnTQMBIH3l6vcv_w-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-81" value="石砌体工程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Jn5YNnTQMBIH3l6vcv_w-13">
+          <mxGeometry x="10" y="225" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Jn5YNnTQMBIH3l6vcv_w-13" source="Jn5YNnTQMBIH3l6vcv_w-82" target="Jn5YNnTQMBIH3l6vcv_w-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-82" value="&lt;div&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;主要材料与要求：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;毛石&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;料石&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;水泥砂浆&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Jn5YNnTQMBIH3l6vcv_w-13">
+          <mxGeometry x="110" y="215" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-85" value="&lt;div&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;石砌体工程的施工与质量要求&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Jn5YNnTQMBIH3l6vcv_w-13">
+          <mxGeometry x="250" y="215" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn5YNnTQMBIH3l6vcv_w-87" value="配筋砌体工程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Jn5YNnTQMBIH3l6vcv_w-13">
+          <mxGeometry x="10" y="340" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jn5YNnTQMBIH3l6vcv_w-14" value="砌体施工质量控制等级与冬期施工" style="swimlane;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="-570" width="420" height="200" as="geometry" />
+          <mxGeometry x="1390" y="-290" width="420" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
