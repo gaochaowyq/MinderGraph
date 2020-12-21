@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T04:27:35.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.0.5" etag="d0V6tMacB69pYlmKRSSf" type="github"><diagram id="hHgispylEL8m2tViPXUJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-21T04:32:58.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_gxXjEYGLbY8bgcZavsw" version="14.0.5" type="github">
+  <diagram id="hHgispylEL8m2tViPXUJ" name="Page-1">
+    <mxGraphModel dx="886" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C_hFZsvfH71DqQWPDSub-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C_hFZsvfH71DqQWPDSub-1" target="C_hFZsvfH71DqQWPDSub-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_hFZsvfH71DqQWPDSub-1" value="基于《建筑信息分类编码》标准的表12扩充" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C_hFZsvfH71DqQWPDSub-2" value="针对雄安城际站项目的建筑信息分类编码表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
