@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T04:36:58.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="THAvsqufBt2yOBCl4_tm" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T09:44:04.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="TN62cnPFGgZo4uW5Ew9F" version="14.0.5" type="github">
   <diagram id="hHgispylEL8m2tViPXUJ" name="Page-1">
-    <mxGraphModel dx="1266" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="109.93" dy="-439.81" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,42 @@
         </mxCell>
         <mxCell id="C_hFZsvfH71DqQWPDSub-8" value="基于分类编码的空间关系分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C_hFZsvfH71DqQWPDSub-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C_hFZsvfH71DqQWPDSub-10" target="C_hFZsvfH71DqQWPDSub-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_hFZsvfH71DqQWPDSub-10" value="Radiance&lt;br&gt;研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="81" y="601" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C_hFZsvfH71DqQWPDSub-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C_hFZsvfH71DqQWPDSub-11" target="C_hFZsvfH71DqQWPDSub-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_hFZsvfH71DqQWPDSub-11" value="Radicance输入文件研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="601" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C_hFZsvfH71DqQWPDSub-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C_hFZsvfH71DqQWPDSub-13" target="C_hFZsvfH71DqQWPDSub-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_hFZsvfH71DqQWPDSub-13" value="建筑信息模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="81" y="737" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C_hFZsvfH71DqQWPDSub-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C_hFZsvfH71DqQWPDSub-14" target="C_hFZsvfH71DqQWPDSub-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_hFZsvfH71DqQWPDSub-14" value="几何与非几何信息提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="737" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C_hFZsvfH71DqQWPDSub-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C_hFZsvfH71DqQWPDSub-17" target="C_hFZsvfH71DqQWPDSub-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="134" y="888" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="553" y="829" />
+              <mxPoint x="141" y="829" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_hFZsvfH71DqQWPDSub-17" value="全过程分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="601" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
