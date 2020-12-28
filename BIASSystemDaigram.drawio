@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T06:59:04.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="OB9tcYAgTvyE4P3wia9W" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T07:01:08.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="htumNgmwPrrKCnioJUXA" version="14.1.1" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="4862" dy="5193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -870,16 +870,6 @@
         <mxCell id="208NYjFxgewR2U8htqxA-59" value="物联网大数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="208NYjFxgewR2U8htqxA-24" vertex="1">
           <mxGeometry x="13" y="569" width="167" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="208NYjFxgewR2U8htqxA-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="208NYjFxgewR2U8htqxA-24" source="208NYjFxgewR2U8htqxA-67" target="208NYjFxgewR2U8htqxA-102" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="284" />
-              <mxPoint x="520" y="60" />
-              <mxPoint x="1000" y="60" />
-              <mxPoint x="1000" y="118" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-67" value="BIM+GIS数据库" style="swimlane;" parent="208NYjFxgewR2U8htqxA-24" vertex="1">
           <mxGeometry x="270" y="79" width="166" height="410" as="geometry" />
         </mxCell>
@@ -898,16 +888,11 @@
         <mxCell id="208NYjFxgewR2U8htqxA-73" value="以建筑构件为基础索引其它数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="208NYjFxgewR2U8htqxA-67" vertex="1">
           <mxGeometry x="23" y="329" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="208NYjFxgewR2U8htqxA-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="208NYjFxgewR2U8htqxA-24" source="208NYjFxgewR2U8htqxA-82" target="208NYjFxgewR2U8htqxA-96" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1070" y="284" />
-              <mxPoint x="1070" y="169" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="aHn_oshXARhC6bzG3cCm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="208NYjFxgewR2U8htqxA-24" source="208NYjFxgewR2U8htqxA-82" target="208NYjFxgewR2U8htqxA-96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-82" value="应用" style="swimlane;" parent="208NYjFxgewR2U8htqxA-24" vertex="1">
-          <mxGeometry x="680" y="80" width="166" height="400" as="geometry" />
+          <mxGeometry x="620" y="84" width="166" height="400" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-83" value="建筑工程概预算" style="rounded=0;whiteSpace=wrap;html=1;" parent="208NYjFxgewR2U8htqxA-82" vertex="1">
           <mxGeometry x="23" y="30" width="120" height="20" as="geometry" />
@@ -935,16 +920,17 @@
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="208NYjFxgewR2U8htqxA-24" source="208NYjFxgewR2U8htqxA-67" target="208NYjFxgewR2U8htqxA-82" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="284" as="targetPoint" />
+            <mxPoint x="670" y="284" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-95" value="产品化构件为基础" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="208NYjFxgewR2U8htqxA-92" vertex="1" connectable="0">
           <mxGeometry x="-0.4393" y="-2" relative="1" as="geometry">
-            <mxPoint x="29.43" y="-17.96" as="offset" />
+            <mxPoint x="60.21000000000001" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-96" value="展现层" style="swimlane;" parent="208NYjFxgewR2U8htqxA-24" vertex="1">
-          <mxGeometry x="1120" y="48" width="166" height="241" as="geometry" />
+          <mxGeometry x="980" y="163.5" width="166" height="241" as="geometry" />
         </mxCell>
         <mxCell id="208NYjFxgewR2U8htqxA-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="208NYjFxgewR2U8htqxA-96" source="208NYjFxgewR2U8htqxA-102" target="208NYjFxgewR2U8htqxA-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
