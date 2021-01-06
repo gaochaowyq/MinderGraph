@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T10:28:42.592Z" agent="5.0 (Windows)" version="14.1.8" etag="HgebXbmuA9T8sRhsOnuj" type="github"><diagram id="3dCrclQCHvSdzdvsUjCU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-06T11:18:36.574Z" agent="5.0 (Windows)" etag="sh-7331ltbMKZTQySx6P" version="14.1.8" type="github">
+  <diagram id="3dCrclQCHvSdzdvsUjCU" name="Page-1">
+    <mxGraphModel dx="677" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7QIUnNEgPh1dPNvk4fKF-1" value="&lt;div&gt;DownloadFile&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7QIUnNEgPh1dPNvk4fKF-3" value="UploadFile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7QIUnNEgPh1dPNvk4fKF-4" value="Create Attachment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7QIUnNEgPh1dPNvk4fKF-5" value="Create AppManagedBucket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7QIUnNEgPh1dPNvk4fKF-6" value="Publis a Cloud Workshared Revit Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7QIUnNEgPh1dPNvk4fKF-7" value="Delete and Restore Files in BIM 360 DocumentManagement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="690" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7QIUnNEgPh1dPNvk4fKF-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7QIUnNEgPh1dPNvk4fKF-10" value="Find the hub" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
