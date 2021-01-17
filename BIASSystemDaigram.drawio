@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T01:54:13.557Z" agent="5.0 (Windows)" etag="j7AFQBRVrBhUIyZmx7NM" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T23:55:43.277Z" agent="5.0 (Windows)" etag="nieLSIfWuC9W28vVWemN" version="14.2.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="4622" dy="5163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4385" dy="5036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2549,6 +2549,12 @@
         </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-746" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jX4zU0V4P26EBShSN6pY-711" target="jX4zU0V4P26EBShSN6pY-744">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jX4zU0V4P26EBShSN6pY-748" value="(SELECT attribute_id AS a, value_id AS b FROM _objects_eav WHERE entity_id=22998)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4780" y="-1690" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jX4zU0V4P26EBShSN6pY-750" value="SELECT _objects_attr.name,_objects_val.value  FROM _objects_attr,_objects_valINNER JOIN _objects_eavON Persons.Id_P = Orders.Id_P" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4670" y="-1510" width="550" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
