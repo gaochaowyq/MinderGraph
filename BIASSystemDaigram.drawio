@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T00:03:26.063Z" agent="5.0 (Windows)" etag="QhDx1FpP5AtFa2tu9JZz" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T00:08:16.821Z" agent="5.0 (Windows)" etag="NG7mbkSwdnZKwf-MN9wp" version="14.2.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="4622" dy="5163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2559,10 +2559,8 @@
         <mxCell id="jX4zU0V4P26EBShSN6pY-750" value="SELECT _objects_attr.name,_objects_val.value  FROM _objects_attr,_objects_valINNER JOIN _objects_eavON Persons.Id_P = Orders.Id_P" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6080" y="-1510" width="550" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jX4zU0V4P26EBShSN6pY-776" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jX4zU0V4P26EBShSN6pY-752">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4250" y="-3000" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="jX4zU0V4P26EBShSN6pY-795" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jX4zU0V4P26EBShSN6pY-752" target="jX4zU0V4P26EBShSN6pY-756">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-752" value="REST API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3870" y="-3030" width="120" height="60" as="geometry" />
@@ -2606,8 +2604,22 @@
         <mxCell id="jX4zU0V4P26EBShSN6pY-788" value="GetThum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jX4zU0V4P26EBShSN6pY-756">
           <mxGeometry x="830" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jX4zU0V4P26EBShSN6pY-793" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jX4zU0V4P26EBShSN6pY-756" source="jX4zU0V4P26EBShSN6pY-790" target="jX4zU0V4P26EBShSN6pY-792">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="220" />
+              <mxPoint x="890" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-790" value="GetDB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jX4zU0V4P26EBShSN6pY-756">
           <mxGeometry x="1010" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jX4zU0V4P26EBShSN6pY-792" value="GetElementByGUID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jX4zU0V4P26EBShSN6pY-756">
+          <mxGeometry x="830" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jX4zU0V4P26EBShSN6pY-794" value="Get" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jX4zU0V4P26EBShSN6pY-756">
+          <mxGeometry x="1010" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
