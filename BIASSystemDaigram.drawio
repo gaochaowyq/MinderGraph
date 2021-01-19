@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T03:11:51.272Z" agent="5.0 (Windows)" etag="7osLIFrszU5XGvgrd_SK" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T03:12:40.231Z" agent="5.0 (Windows)" etag="0ejHF8bz90CefM0WPkbm" version="14.2.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="4622" dy="5163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2565,7 +2565,7 @@
         <mxCell id="jX4zU0V4P26EBShSN6pY-752" value="REST API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3870" y="-3030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jX4zU0V4P26EBShSN6pY-756" value="D" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="jX4zU0V4P26EBShSN6pY-756" value="BIM Data Plantform REST API" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="4240" y="-3210" width="1730" height="710" as="geometry" />
         </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-786" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jX4zU0V4P26EBShSN6pY-756" source="jX4zU0V4P26EBShSN6pY-753" target="jX4zU0V4P26EBShSN6pY-777">
