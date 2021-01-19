@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T03:18:35.049Z" agent="5.0 (Windows)" etag="nkMiqTy4e5L_le3Y1Rhd" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T03:20:54.231Z" agent="5.0 (Windows)" etag="KOz_74seIz3FNARwa80S" version="14.2.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="5231" dy="5490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2572,6 +2572,11 @@
               <mxPoint x="4100" y="-3562" />
               <mxPoint x="4100" y="-3945" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jX4zU0V4P26EBShSN6pY-816" value="权限请求，user,password" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jX4zU0V4P26EBShSN6pY-814">
+          <mxGeometry x="-0.0256" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-756" value="BIM Data Plantform REST API" style="swimlane;" vertex="1" parent="1">
