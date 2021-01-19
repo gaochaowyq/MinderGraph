@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T03:12:40.231Z" agent="5.0 (Windows)" etag="0ejHF8bz90CefM0WPkbm" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T03:14:09.082Z" agent="5.0 (Windows)" etag="JGzrvICbvyphnRiJ7o3I" version="14.2.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="4622" dy="5163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5570" dy="5672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2667,6 +2667,9 @@
               <mxPoint x="2223" y="-2630" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jX4zU0V4P26EBShSN6pY-811" value="Price Analysis" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="-4070" width="1250" height="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
