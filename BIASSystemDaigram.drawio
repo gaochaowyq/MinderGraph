@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T03:20:54.231Z" agent="5.0 (Windows)" etag="KOz_74seIz3FNARwa80S" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T03:22:17.689Z" agent="5.0 (Windows)" etag="SLLd8qoN9gaogJYhVhQ6" version="14.2.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="5231" dy="5490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5570" dy="6072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2682,13 +2682,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jX4zU0V4P26EBShSN6pY-811" value="Price Analysis" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="4230" y="-4140" width="1250" height="410" as="geometry" />
+        <mxCell id="jX4zU0V4P26EBShSN6pY-811" value="ProjectManageView" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="4360" y="-4550" width="1250" height="410" as="geometry" />
         </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-812" value="BIM Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jX4zU0V4P26EBShSN6pY-811">
           <mxGeometry x="27" y="165" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-815" value="as Echart View" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="jX4zU0V4P26EBShSN6pY-811">
+          <mxGeometry x="1080" y="156" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jX4zU0V4P26EBShSN6pY-817" value="Price Analysis" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="6240" y="-4570" width="1250" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="jX4zU0V4P26EBShSN6pY-818" value="BIM Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jX4zU0V4P26EBShSN6pY-817">
+          <mxGeometry x="27" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jX4zU0V4P26EBShSN6pY-819" value="as Echart View" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="jX4zU0V4P26EBShSN6pY-817">
           <mxGeometry x="1080" y="156" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
