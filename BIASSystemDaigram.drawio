@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T03:26:29.869Z" agent="5.0 (Windows)" etag="atmZBma6Twff-DR4EG0P" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T03:27:35.616Z" agent="5.0 (Windows)" etag="u2WcsHQ89twtNMyocgzJ" version="14.2.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="4385" dy="5436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2682,6 +2682,9 @@
         </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-822" value="ListProject/SubProject/Building" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jX4zU0V4P26EBShSN6pY-811">
           <mxGeometry x="180" y="160" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jX4zU0V4P26EBShSN6pY-824" value="BuildingManagement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jX4zU0V4P26EBShSN6pY-811">
+          <mxGeometry x="180" y="260" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-817" value="Price Analysis" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="6240" y="-4570" width="1250" height="410" as="geometry" />
