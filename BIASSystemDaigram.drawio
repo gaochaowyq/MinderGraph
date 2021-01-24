@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T02:17:11.758Z" agent="5.0 (Windows)" etag="xaLQ-eYPLzOIcATZ3xFV" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-24T02:19:40.969Z" agent="5.0 (Windows)" etag="wJLNx-sx5Nhn6pYPYQKt" version="14.2.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="5570" dy="6072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4873" dy="5698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2712,11 +2712,20 @@
         <mxCell id="jX4zU0V4P26EBShSN6pY-817" value="Price Analysis" style="swimlane;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="5730" y="-4590" width="1250" height="450" as="geometry" />
         </mxCell>
+        <mxCell id="FM-sHqx_2anu0S5q1HuY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jX4zU0V4P26EBShSN6pY-817" source="jX4zU0V4P26EBShSN6pY-818" target="FM-sHqx_2anu0S5q1HuY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-818" value="BIM Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="jX4zU0V4P26EBShSN6pY-817" vertex="1">
           <mxGeometry x="27" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-819" value="as Echart View" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="jX4zU0V4P26EBShSN6pY-817" vertex="1">
           <mxGeometry x="1110" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FM-sHqx_2anu0S5q1HuY-1" value="BIM Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jX4zU0V4P26EBShSN6pY-817">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FM-sHqx_2anu0S5q1HuY-3" value="BIM Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jX4zU0V4P26EBShSN6pY-817">
+          <mxGeometry x="240" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-847" value="BIM Data PlantForm REST API" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="4320" y="-3930" width="1250" height="450" as="geometry" />
