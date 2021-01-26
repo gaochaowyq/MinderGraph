@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T03:38:29.520Z" agent="5.0 (Windows)" etag="_0iwU7GUURg-l8JLMdVw" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T03:39:05.088Z" agent="5.0 (Windows)" etag="1i8bqhwlofy-3PrJbz3v" version="14.2.7" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="5570" dy="6472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -3004,7 +3004,7 @@
           <mxGeometry x="7300" y="-1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vHsZkt7WEBrt2UohLfmM-1" value="CIM/BIM项目建设" style="swimlane;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="9990" y="-3641" width="2100" height="771" as="geometry" />
+          <mxGeometry x="9990" y="-3641" width="2100" height="831" as="geometry" />
         </mxCell>
         <mxCell id="vHsZkt7WEBrt2UohLfmM-12" value="BIM 平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vHsZkt7WEBrt2UohLfmM-1">
           <mxGeometry x="30" y="81" width="2040" height="60" as="geometry" />
