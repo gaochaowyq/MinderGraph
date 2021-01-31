@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T23:27:27.966Z" agent="5.0 (Windows)" etag="1VlqkmkXJdasrspfnE7j" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T23:28:40.676Z" agent="5.0 (Windows)" etag="IegjafQB-noWSXb3hFq6" version="14.2.7" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="4622" dy="5963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2710,7 +2710,7 @@
           <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-817" value="Price Analysis" style="swimlane;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="5720" y="-4810" width="1640" height="680" as="geometry" />
+          <mxGeometry x="5720" y="-4810" width="1780" height="680" as="geometry" />
         </mxCell>
         <mxCell id="WAgmaaiNzxsvD9ngxo-4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jX4zU0V4P26EBShSN6pY-817" source="jX4zU0V4P26EBShSN6pY-818" target="WAgmaaiNzxsvD9ngxo-4-1">
           <mxGeometry relative="1" as="geometry" />
@@ -2719,7 +2719,7 @@
           <mxGeometry x="27" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jX4zU0V4P26EBShSN6pY-819" value="as Echart View" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="jX4zU0V4P26EBShSN6pY-817" vertex="1">
-          <mxGeometry x="1470" y="195" width="120" height="60" as="geometry" />
+          <mxGeometry x="1590" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FM-sHqx_2anu0S5q1HuY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="jX4zU0V4P26EBShSN6pY-817" source="FM-sHqx_2anu0S5q1HuY-4" target="FM-sHqx_2anu0S5q1HuY-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2734,7 +2734,7 @@
           <mxGeometry x="1160" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FM-sHqx_2anu0S5q1HuY-14" value="人、机、材比例 By KN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="jX4zU0V4P26EBShSN6pY-817" vertex="1">
-          <mxGeometry x="1150" y="195" width="140" height="20" as="geometry" />
+          <mxGeometry x="1150" y="235" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FM-sHqx_2anu0S5q1HuY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="jX4zU0V4P26EBShSN6pY-817" source="FM-sHqx_2anu0S5q1HuY-14" target="FM-sHqx_2anu0S5q1HuY-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
