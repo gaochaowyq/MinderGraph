@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T06:12:25.494Z" agent="5.0 (Windows)" etag="-N3jm4xafxupi9coHHzA" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T06:14:22.789Z" agent="5.0 (Windows)" etag="0u3V53eabAiH7zMg3Srh" version="14.2.7" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="6044" dy="6726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5570" dy="6472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3667,14 +3667,14 @@
         <mxCell id="KPK6nEgGbg3xAkfUQxrX-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KPK6nEgGbg3xAkfUQxrX-46" target="KPK6nEgGbg3xAkfUQxrX-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1gwdy_KKpZuu7c-TNyYc-11" value="综合管理节点" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="1gwdy_KKpZuu7c-TNyYc-11" value="GIS综合场景" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="9720" y="-1800" width="1960" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1gwdy_KKpZuu7c-TNyYc-70" value="三维可视化+2D图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1gwdy_KKpZuu7c-TNyYc-11">
-          <mxGeometry x="230" y="50" width="600" height="120" as="geometry" />
+          <mxGeometry x="900" y="40" width="600" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1gwdy_KKpZuu7c-TNyYc-71" value="2D图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1gwdy_KKpZuu7c-TNyYc-11">
-          <mxGeometry x="930" y="48" width="600" height="120" as="geometry" />
+          <mxGeometry x="240" y="40" width="600" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1gwdy_KKpZuu7c-TNyYc-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="1gwdy_KKpZuu7c-TNyYc-12">
           <mxGeometry relative="1" as="geometry">
@@ -3684,7 +3684,7 @@
         <mxCell id="1gwdy_KKpZuu7c-TNyYc-12" value="时空大数据平台2" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10870" y="-1430.5" width="200" height="700.5" as="geometry" />
         </mxCell>
-        <mxCell id="1gwdy_KKpZuu7c-TNyYc-23" value="时空大数据平台1" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="1gwdy_KKpZuu7c-TNyYc-23" value="BIAS" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="9720" y="-1430.5" width="1070" height="698" as="geometry" />
         </mxCell>
         <mxCell id="1gwdy_KKpZuu7c-TNyYc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1gwdy_KKpZuu7c-TNyYc-23" source="1gwdy_KKpZuu7c-TNyYc-25" target="1gwdy_KKpZuu7c-TNyYc-39">
@@ -3795,11 +3795,11 @@
         <mxCell id="1gwdy_KKpZuu7c-TNyYc-63" value="时空大数据平台3" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="11180" y="-1433" width="200" height="700.5" as="geometry" />
         </mxCell>
-        <mxCell id="1gwdy_KKpZuu7c-TNyYc-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="1gwdy_KKpZuu7c-TNyYc-58" target="1gwdy_KKpZuu7c-TNyYc-70">
+        <mxCell id="1gwdy_KKpZuu7c-TNyYc-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1gwdy_KKpZuu7c-TNyYc-58" target="1gwdy_KKpZuu7c-TNyYc-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="10643" y="-1520" />
-              <mxPoint x="10250" y="-1520" />
+              <mxPoint x="10920" y="-1520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3811,7 +3811,7 @@
         <mxCell id="1gwdy_KKpZuu7c-TNyYc-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="1gwdy_KKpZuu7c-TNyYc-71" target="1gwdy_KKpZuu7c-TNyYc-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="10950" y="-1500" />
+              <mxPoint x="10160" y="-1500" />
               <mxPoint x="10073" y="-1500" />
             </Array>
           </mxGeometry>
