@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T06:08:58.279Z" agent="5.0 (Windows)" etag="L0FmhYa7JBuTufv_uoaA" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T06:09:58.595Z" agent="5.0 (Windows)" etag="UU8XRb3Sfw4jGsKH6Tdj" version="14.2.7" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="5570" dy="6472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -3676,12 +3676,17 @@
         <mxCell id="1gwdy_KKpZuu7c-TNyYc-12" value="时空大数据平台2" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10870" y="-1430.5" width="200" height="700.5" as="geometry" />
         </mxCell>
-        <mxCell id="1gwdy_KKpZuu7c-TNyYc-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="1gwdy_KKpZuu7c-TNyYc-23" target="1gwdy_KKpZuu7c-TNyYc-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1gwdy_KKpZuu7c-TNyYc-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1gwdy_KKpZuu7c-TNyYc-58" target="1gwdy_KKpZuu7c-TNyYc-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10643" y="-1530" />
+              <mxPoint x="10700" y="-1530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1gwdy_KKpZuu7c-TNyYc-68" value="视频流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1gwdy_KKpZuu7c-TNyYc-65">
           <mxGeometry x="0.3556" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-38.5" y="55" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1gwdy_KKpZuu7c-TNyYc-23" value="时空大数据平台1" style="swimlane;" vertex="1" parent="1">
