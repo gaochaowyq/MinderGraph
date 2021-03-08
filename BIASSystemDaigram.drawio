@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T03:26:43.914Z" agent="5.0 (Windows)" etag="1DfEjMuee-m8OOVLOA1-" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T12:17:19.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="nd7PjpQow0vFIeBC-1_j" version="12.9.8" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="4622" dy="7163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3813" dy="6721" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3984,6 +3984,42 @@
         </mxCell>
         <mxCell id="KYhNbfhkuIhcGVrR-_jZ-38" value="安全保障" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14105" y="-830" width="60" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="cGOhc4i-mq-xIrALXvBQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cGOhc4i-mq-xIrALXvBQ-1" target="cGOhc4i-mq-xIrALXvBQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cGOhc4i-mq-xIrALXvBQ-1" value="get building ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14377" y="-3128" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cGOhc4i-mq-xIrALXvBQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cGOhc4i-mq-xIrALXvBQ-2" target="cGOhc4i-mq-xIrALXvBQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cGOhc4i-mq-xIrALXvBQ-2" value="Cal Building Estimation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14580" y="-3128" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cGOhc4i-mq-xIrALXvBQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cGOhc4i-mq-xIrALXvBQ-4" target="cGOhc4i-mq-xIrALXvBQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cGOhc4i-mq-xIrALXvBQ-4" value="Pandas Table" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14792" y="-3128" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cGOhc4i-mq-xIrALXvBQ-6" value="lots of time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="14587" y="-3152" width="107" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cGOhc4i-mq-xIrALXvBQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cGOhc4i-mq-xIrALXvBQ-7" target="cGOhc4i-mq-xIrALXvBQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cGOhc4i-mq-xIrALXvBQ-7" value="ToJson" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14993" y="-3128" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cGOhc4i-mq-xIrALXvBQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cGOhc4i-mq-xIrALXvBQ-9" target="cGOhc4i-mq-xIrALXvBQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cGOhc4i-mq-xIrALXvBQ-9" value="Save To Local" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14993" y="-3032" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cGOhc4i-mq-xIrALXvBQ-11" value="RenderAsDifferentChart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15207" y="-3032" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
