@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T07:44:11.562Z" agent="5.0 (Windows)" etag="brmPLY10cjNEZzBm8VEW" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T07:49:46.113Z" agent="5.0 (Windows)" etag="8rFaXZ6dYvx__dktfBWS" version="14.4.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="4385" dy="7036" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4622" dy="7163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4248,7 +4248,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l_zYHebZVzfGC9rIN-wo-39" value="GIS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-39" value="规划GIS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="12850" y="-61" width="48" height="26" as="geometry" />
         </mxCell>
         <mxCell id="l_zYHebZVzfGC9rIN-wo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-41" target="l_zYHebZVzfGC9rIN-wo-4">
@@ -4268,6 +4268,51 @@
         </mxCell>
         <mxCell id="l_zYHebZVzfGC9rIN-wo-46" value="BIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13341" y="-216" width="48" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-48" target="l_zYHebZVzfGC9rIN-wo-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-48" target="l_zYHebZVzfGC9rIN-wo-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-48" target="l_zYHebZVzfGC9rIN-wo-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-48" target="l_zYHebZVzfGC9rIN-wo-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-48" value="&lt;div&gt;项目基本信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12693" y="-313" width="89" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-49" value="规划" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="12840" y="-386" width="120" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-52" value="设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="12840" y="-324" width="120" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-54" target="l_zYHebZVzfGC9rIN-wo-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-54" value="施工" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12840" y="-260" width="120" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-56" value="运维" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="12840" y="-204" width="120" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-58" value="&lt;div&gt;施工单位&lt;/div&gt;&lt;div&gt;项目负责人&lt;/div&gt;&lt;div&gt;。&lt;/div&gt;&lt;div&gt;。&lt;/div&gt;&lt;div&gt;。&lt;/div&gt;&lt;div&gt;。&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13045" y="-320" width="120" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-60" target="l_zYHebZVzfGC9rIN-wo-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-60" value="&lt;div&gt;GIS数据&lt;/div&gt;&lt;div&gt;市政数据&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13208" y="-373" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-62" target="l_zYHebZVzfGC9rIN-wo-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-62" value="索引形式？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13415" y="-306" width="120" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
