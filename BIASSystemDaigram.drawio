@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T07:30:54.195Z" agent="5.0 (Windows)" etag="t9vwGmh5bLJSDaoCx-aM" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T07:33:44.072Z" agent="5.0 (Windows)" etag="XgSmC9Y65hEZStSbIibi" version="14.4.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="4181" dy="6926" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4013" dy="6836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4171,7 +4171,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l_zYHebZVzfGC9rIN-wo-1" value="企业级建设项目管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="12710" y="107" width="120" height="60" as="geometry" />
+          <mxGeometry x="12631" y="108" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_zYHebZVzfGC9rIN-wo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-4" target="l_zYHebZVzfGC9rIN-wo-15">
           <mxGeometry relative="1" as="geometry" />
@@ -4180,13 +4180,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l_zYHebZVzfGC9rIN-wo-4" value="建设项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="12903" y="24" width="120" height="60" as="geometry" />
+          <mxGeometry x="12824" y="25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_zYHebZVzfGC9rIN-wo-5" value="建设项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="12903" y="136" width="120" height="60" as="geometry" />
+          <mxGeometry x="12824" y="137" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_zYHebZVzfGC9rIN-wo-8" value="建设项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="12903" y="246" width="120" height="60" as="geometry" />
+          <mxGeometry x="12824" y="247" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_zYHebZVzfGC9rIN-wo-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-15" target="l_zYHebZVzfGC9rIN-wo-27">
           <mxGeometry relative="1" as="geometry" />
@@ -4212,11 +4212,17 @@
         <mxCell id="l_zYHebZVzfGC9rIN-wo-29" value="单位工程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13279" y="-43" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l_zYHebZVzfGC9rIN-wo-31" value="分步分项工程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-31" value="分步分项工程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="13452" y="-203" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l_zYHebZVzfGC9rIN-wo-33" value="分步分项工程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-33" value="分步分项工程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="13452" y="-121" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-35" target="l_zYHebZVzfGC9rIN-wo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-35" value="&lt;div&gt;项目基本信息&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12816" y="-128" width="136" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
