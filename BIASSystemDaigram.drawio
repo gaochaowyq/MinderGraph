@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T07:33:44.072Z" agent="5.0 (Windows)" etag="XgSmC9Y65hEZStSbIibi" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T07:39:27.560Z" agent="5.0 (Windows)" etag="13nW_qv36JmlK6-Gy7vB" version="14.4.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="4013" dy="6836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -4219,10 +4219,43 @@
           <mxGeometry x="13452" y="-121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_zYHebZVzfGC9rIN-wo-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-35" target="l_zYHebZVzfGC9rIN-wo-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="12768" y="-13" />
+              <mxPoint x="12884" y="-13" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-35" value="&lt;div&gt;项目基本信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12724" y="-61" width="89" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-37" target="l_zYHebZVzfGC9rIN-wo-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="13039" y="-122" />
+              <mxPoint x="13157" y="-122" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-37" value="&lt;div&gt;项目基本信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12991" y="-189" width="97" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-39" target="l_zYHebZVzfGC9rIN-wo-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="12874" y="-14" />
+              <mxPoint x="12884" y="-14" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-39" value="GIS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12850" y="-61" width="48" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_zYHebZVzfGC9rIN-wo-41" target="l_zYHebZVzfGC9rIN-wo-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l_zYHebZVzfGC9rIN-wo-35" value="&lt;div&gt;项目基本信息&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="12816" y="-128" width="136" height="79" as="geometry" />
+        <mxCell id="l_zYHebZVzfGC9rIN-wo-41" value="BIM场地" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12924" y="-61" width="48" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
