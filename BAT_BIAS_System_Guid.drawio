@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T05:35:30.725Z" agent="5.0 (Windows)" etag="CXFgZTr6dh_TpLOr6sRi" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-23T05:45:29.774Z" agent="5.0 (Windows)" etag="56oYgcXrzeKI-amlQ-_p" version="14.4.2" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
-    <mxGraphModel dx="-10732" dy="2067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-10983" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,6 +156,51 @@
         </mxCell>
         <mxCell id="F4ZqBa8maO5opNTSpiYB-46" value="索引形式？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13415" y="-306" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F4ZqBa8maO5opNTSpiYB-47" target="F4ZqBa8maO5opNTSpiYB-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F4ZqBa8maO5opNTSpiYB-47" target="F4ZqBa8maO5opNTSpiYB-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F4ZqBa8maO5opNTSpiYB-47" target="F4ZqBa8maO5opNTSpiYB-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F4ZqBa8maO5opNTSpiYB-47" target="F4ZqBa8maO5opNTSpiYB-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-47" value="建设项目周边业态管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="12631" y="560" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-48" value="道路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12830.5" y="440" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-50" value="基础设施" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12830.5" y="520" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-52" value="建筑（规划BIM）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12830.5" y="610" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-54" value="其它" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12830.5" y="690" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-56" value="项目区域信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="12631" y="840" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-57" value="施工进度管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12631" y="1090" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-58" value="建筑工程造价控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="12631" y="1310" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-59" value="施工进度数据读取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12840" y="1020" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F4ZqBa8maO5opNTSpiYB-60" target="F4ZqBa8maO5opNTSpiYB-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F4ZqBa8maO5opNTSpiYB-60" value="BIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12840" y="910" width="139" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
