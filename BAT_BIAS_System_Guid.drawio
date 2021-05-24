@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T04:53:14.774Z" agent="5.0 (Windows)" etag="aZgsviLOXt6JJjQL_Rfl" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T05:06:24.648Z" agent="5.0 (Windows)" etag="63gQdUR0bGv6FMrsWLbq" version="14.7.0" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-11220" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,13 +253,11 @@
         <mxCell id="EDLGChRiIiCTgM2huDiG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-17" target="EDLGChRiIiCTgM2huDiG-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EDLGChRiIiCTgM2huDiG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-17" target="EDLGChRiIiCTgM2huDiG-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="14569" y="-220" />
-              <mxPoint x="14799" y="-220" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-17" target="EDLGChRiIiCTgM2huDiG-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-17" target="EDLGChRiIiCTgM2huDiG-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EDLGChRiIiCTgM2huDiG-17" value="建设工程项目管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14507" y="-281" width="123" height="21" as="geometry" />
@@ -366,6 +364,39 @@
         </mxCell>
         <mxCell id="EDLGChRiIiCTgM2huDiG-59" value="决策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14900" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-61" target="EDLGChRiIiCTgM2huDiG-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-61" target="EDLGChRiIiCTgM2huDiG-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-61" target="EDLGChRiIiCTgM2huDiG-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-61" value="IOT数据接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15180" y="-186" width="20" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-64" value="视频流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15090" width="20" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-66" target="EDLGChRiIiCTgM2huDiG-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-66" target="EDLGChRiIiCTgM2huDiG-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-66" value="人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15130" width="20" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-68" value="基本信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15120" y="160" width="20" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-70" value="定位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15160" y="160" width="20" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-72" value="视频流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15250" width="20" height="126" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
