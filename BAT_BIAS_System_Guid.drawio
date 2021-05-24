@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T05:06:24.648Z" agent="5.0 (Windows)" etag="63gQdUR0bGv6FMrsWLbq" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T05:09:20.352Z" agent="5.0 (Windows)" etag="UUocLfYecBCjlmgfujQO" version="14.7.0" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
-    <mxGraphModel dx="-11220" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-11424" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -395,8 +395,36 @@
         <mxCell id="EDLGChRiIiCTgM2huDiG-70" value="定位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15160" y="160" width="20" height="126" as="geometry" />
         </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-72" target="EDLGChRiIiCTgM2huDiG-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="15310" y="150" />
+              <mxPoint x="15270" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-72" target="EDLGChRiIiCTgM2huDiG-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="15310" y="150" />
+              <mxPoint x="15320" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EDLGChRiIiCTgM2huDiG-72" value="视频流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15250" width="20" height="126" as="geometry" />
+          <mxGeometry x="15300" width="20" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-74" value="角度缩放控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15260" y="180" width="20" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-78" target="EDLGChRiIiCTgM2huDiG-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-78" value="获取设备信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15310" y="180" width="20" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-80" value="BIM三维视窗连动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15305" y="320" width="30" height="106" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
