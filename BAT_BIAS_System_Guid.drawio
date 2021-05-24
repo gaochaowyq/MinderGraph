@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T07:16:21.291Z" agent="5.0 (Windows)" etag="OO_BD1X_JHhrttHB-e_o" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T07:17:31.885Z" agent="5.0 (Windows)" etag="8XT18MR6FFgiLWW2EP76" version="14.7.0" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
-    <mxGraphModel dx="-11723" dy="763" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-11926" dy="654" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -597,7 +597,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EDLGChRiIiCTgM2huDiG-173" value="施工进度管理子系统业务流程" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="14240" y="1410" width="370" height="480" as="geometry" />
+          <mxGeometry x="14240" y="1410" width="420" height="480" as="geometry" />
         </mxCell>
         <mxCell id="EDLGChRiIiCTgM2huDiG-174" value="建设单位" style="swimlane;html=1;startSize=20;" vertex="1" parent="EDLGChRiIiCTgM2huDiG-173">
           <mxGeometry y="20" width="130" height="460" as="geometry" />
@@ -612,13 +612,19 @@
           <mxGeometry x="80" y="40" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EDLGChRiIiCTgM2huDiG-175" value="施工总包管理" style="swimlane;html=1;startSize=20;" vertex="1" parent="EDLGChRiIiCTgM2huDiG-173">
-          <mxGeometry x="130" y="20" width="120" height="460" as="geometry" />
+          <mxGeometry x="130" y="20" width="210" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EDLGChRiIiCTgM2huDiG-175" source="EDLGChRiIiCTgM2huDiG-180" target="EDLGChRiIiCTgM2huDiG-182">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EDLGChRiIiCTgM2huDiG-180" value="上传BIM数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EDLGChRiIiCTgM2huDiG-175">
-          <mxGeometry x="10" y="120" width="30" height="60" as="geometry" />
+          <mxGeometry x="10" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-182" value="版本控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EDLGChRiIiCTgM2huDiG-175">
+          <mxGeometry x="70" y="110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EDLGChRiIiCTgM2huDiG-176" value="施工分包管理" style="swimlane;html=1;startSize=20;" vertex="1" parent="EDLGChRiIiCTgM2huDiG-173">
-          <mxGeometry x="250" y="20" width="120" height="460" as="geometry" />
+          <mxGeometry x="340" y="20" width="80" height="460" as="geometry" />
         </mxCell>
         <mxCell id="EDLGChRiIiCTgM2huDiG-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EDLGChRiIiCTgM2huDiG-173" source="EDLGChRiIiCTgM2huDiG-178" target="EDLGChRiIiCTgM2huDiG-180">
           <mxGeometry relative="1" as="geometry" />
