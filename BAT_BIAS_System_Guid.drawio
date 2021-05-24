@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T05:11:58.818Z" agent="5.0 (Windows)" etag="PmPsPmaTge1ly8vcCT1h" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T05:12:16.217Z" agent="5.0 (Windows)" etag="wWkML__MqBMKws8-1iZL" version="14.7.0" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
-    <mxGraphModel dx="-10026" dy="1490" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-10030" dy="1672" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,7 +432,7 @@
         <mxCell id="EDLGChRiIiCTgM2huDiG-78" value="获取设备信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15120" y="185" width="20" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="EDLGChRiIiCTgM2huDiG-80" value="BIM三维视窗连动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EDLGChRiIiCTgM2huDiG-80" value="BIM三维视窗连动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="15115" y="325" width="30" height="106" as="geometry" />
         </mxCell>
       </root>
