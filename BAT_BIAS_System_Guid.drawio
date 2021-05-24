@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T06:20:00.180Z" agent="5.0 (Windows)" etag="LLzl7ObcwLCjIuz5DIFh" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T06:50:13.774Z" agent="5.0 (Windows)" etag="yJTMs4SwITwEGQFvNNJy" version="14.7.0" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
-    <mxGraphModel dx="-11587" dy="836" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-10727" dy="1298" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -563,8 +563,38 @@
         <mxCell id="EDLGChRiIiCTgM2huDiG-129" value="施工进度管理" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EDLGChRiIiCTgM2huDiG-126">
           <mxGeometry y="360" width="480" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EDLGChRiIiCTgM2huDiG-129" source="EDLGChRiIiCTgM2huDiG-156" target="EDLGChRiIiCTgM2huDiG-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-156" value="数据查阅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EDLGChRiIiCTgM2huDiG-129">
+          <mxGeometry x="190" y="20" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EDLGChRiIiCTgM2huDiG-129" source="EDLGChRiIiCTgM2huDiG-157" target="EDLGChRiIiCTgM2huDiG-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-157" value="数据更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EDLGChRiIiCTgM2huDiG-129">
+          <mxGeometry x="190" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EDLGChRiIiCTgM2huDiG-129" source="EDLGChRiIiCTgM2huDiG-158" target="EDLGChRiIiCTgM2huDiG-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-158" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EDLGChRiIiCTgM2huDiG-129">
+          <mxGeometry x="190" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-159" value="决策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EDLGChRiIiCTgM2huDiG-129">
+          <mxGeometry x="190" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="EDLGChRiIiCTgM2huDiG-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EDLGChRiIiCTgM2huDiG-126" source="EDLGChRiIiCTgM2huDiG-133" target="EDLGChRiIiCTgM2huDiG-148">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="EDLGChRiIiCTgM2huDiG-126" source="EDLGChRiIiCTgM2huDiG-133" target="EDLGChRiIiCTgM2huDiG-156">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="142" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="50" y="140" />
+              <mxPoint x="50" y="395" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
