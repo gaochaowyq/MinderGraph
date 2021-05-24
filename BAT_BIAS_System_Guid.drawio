@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T04:37:06.221Z" agent="5.0 (Windows)" etag="97mU4R5ZC2Kmr7HmWZ4z" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T04:46:30.610Z" agent="5.0 (Windows)" etag="BKBWeMdcO8ff8RNaEYA6" version="14.7.0" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-11220" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -250,8 +250,75 @@
         <mxCell id="EDLGChRiIiCTgM2huDiG-15" value="GIS数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14270" y="-43" width="20" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-17" target="EDLGChRiIiCTgM2huDiG-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-17" target="EDLGChRiIiCTgM2huDiG-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14569" y="-220" />
+              <mxPoint x="14799" y="-220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EDLGChRiIiCTgM2huDiG-17" value="建设工程项目管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14507" y="-281" width="123" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-18" target="EDLGChRiIiCTgM2huDiG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-18" value="建设项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14472" y="-186" width="18" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-20" target="EDLGChRiIiCTgM2huDiG-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-20" value="单项工程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14472" y="-95" width="18" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-22" target="EDLGChRiIiCTgM2huDiG-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-22" target="EDLGChRiIiCTgM2huDiG-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-22" target="EDLGChRiIiCTgM2huDiG-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-22" target="EDLGChRiIiCTgM2huDiG-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-22" target="EDLGChRiIiCTgM2huDiG-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-22" target="EDLGChRiIiCTgM2huDiG-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="14481" y="50" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-22" value="单位工程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14472" y="-10" width="18" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-24" value="项目创建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14404.5" y="100" width="18" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-27" value="模型上传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14430" y="100" width="18" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-28" value="三维可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14455" y="100" width="18" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-29" value="非集合数据获取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14480" y="100" width="18" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-30" value="几何数据获取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14507" y="100" width="18" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-31" value="非几何数据更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14530" y="100" width="18" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EDLGChRiIiCTgM2huDiG-38" value="建筑工程进度管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14790" y="-186" width="18" height="126" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
