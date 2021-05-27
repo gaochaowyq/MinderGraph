@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T07:06:07.974Z" agent="5.0 (Windows)" etag="7JcmImsqImSPzmFb7x-l" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T07:06:22.013Z" agent="5.0 (Windows)" etag="csHWyGq1Pd3kIERNE-kO" version="14.7.0" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-10978" dy="1163" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -868,7 +868,12 @@
           <mxGeometry x="14250" y="1380" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WXPLAT6OdIwsXOJX4d2Q-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="WXPLAT6OdIwsXOJX4d2Q-20" target="WXPLAT6OdIwsXOJX4d2Q-83">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14080" y="2493" />
+              <mxPoint x="14190" y="2493" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WXPLAT6OdIwsXOJX4d2Q-20" value="BIMStorageManagerAPI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="13810" y="2240" width="540" height="156" as="geometry" />
