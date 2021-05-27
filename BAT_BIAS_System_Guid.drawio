@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T06:13:18.597Z" agent="5.0 (Windows)" etag="lbxLb-_haXExIROP380i" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T06:21:59.180Z" agent="5.0 (Windows)" etag="0ejyTwpwhU_BuWpNdzK-" version="14.7.0" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
-    <mxGraphModel dx="-11215" dy="1036" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-10978" dy="1163" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -868,27 +868,54 @@
           <mxGeometry x="14250" y="1380" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WXPLAT6OdIwsXOJX4d2Q-20" value="BIMStorageManagerAPI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="13280" y="2260" width="470" height="104" as="geometry" />
+          <mxGeometry x="13210" y="2260" width="540" height="156" as="geometry" />
         </mxCell>
-        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-21" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-20">
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-21" value="+ post: http://www.batgreenbuild.com:90/bimmanage/api/building/:projectid/elementbyid/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-20">
+          <mxGeometry y="26" width="540" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-22" value="+ post: http://www.batgreenbuild.com:90/bimmanage/api/building/:projectid/element/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-20">
+          <mxGeometry y="52" width="540" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-23" value="+ post: http://www.batgreenbuild.com:90/bimmanage/api/building/:projectid/allkeynotes/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-20">
+          <mxGeometry y="78" width="540" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-37" value="+ post: http://www.batgreenbuild.com:90/bimmanage/api/building/:projectid/elementsbykn/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-20">
+          <mxGeometry y="104" width="540" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-38" value="+ post: http://www.batgreenbuild.com:90/bimmanage/api/building/:projectid/allguids/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-20">
+          <mxGeometry y="130" width="540" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-24" value="BuildingTableAPI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="14390" y="2260" width="440" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-25" value="+ http://www.batgreenbuild.com:90/buildingtable/api-buildingtable/:table/:coder/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-24">
+          <mxGeometry y="26" width="440" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-28" value="CaiLiaoPriceAPI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="13800" y="2260" width="560" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-29" value="+post: www.batgreenbuild.com:90/cailiaoprice/api/bprice/bymcoderandcoder/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-28">
+          <mxGeometry y="26" width="560" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-30" value="+ get: www.batgreenbuild.com:90/cailiaoprice/api/bprice/:id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-28">
+          <mxGeometry y="52" width="560" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-31" value="+ get: http://www.batgreenbuild.com:90/cailiaoprice/api/bitemprice/:id/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-28">
+          <mxGeometry y="78" width="560" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-36" value="+ post: http://www.batgreenbuild.com:90/cailiaoprice/api/bprice/bymcoderandcoderwithdetail/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-28">
+          <mxGeometry y="104" width="560" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-32" value="ProjectManagerAPI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="12680" y="2260" width="470" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-33" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-32">
           <mxGeometry y="26" width="470" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-22" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-20">
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-34" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-32">
           <mxGeometry y="52" width="470" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-23" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-20">
-          <mxGeometry y="78" width="470" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-24" value="CaiLiaoPriceAPI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="13780" y="2260" width="470" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-25" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-24">
-          <mxGeometry y="26" width="470" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-26" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-24">
-          <mxGeometry y="52" width="470" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-27" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-24">
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-35" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-32">
           <mxGeometry y="78" width="470" height="26" as="geometry" />
         </mxCell>
       </root>
