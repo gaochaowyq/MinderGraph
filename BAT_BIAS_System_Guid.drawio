@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T06:21:59.180Z" agent="5.0 (Windows)" etag="0ejyTwpwhU_BuWpNdzK-" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T06:24:51.172Z" agent="5.0 (Windows)" etag="W1IiFttxvsy0ji6YXeNe" version="14.7.0" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-10978" dy="1163" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -888,7 +888,7 @@
         <mxCell id="WXPLAT6OdIwsXOJX4d2Q-24" value="BuildingTableAPI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="14390" y="2260" width="440" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-25" value="+ http://www.batgreenbuild.com:90/buildingtable/api-buildingtable/:table/:coder/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-24">
+        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-25" value="+ get:http://www.batgreenbuild.com:90/buildingtable/api-buildingtable/:table/:coder/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WXPLAT6OdIwsXOJX4d2Q-24">
           <mxGeometry y="26" width="440" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WXPLAT6OdIwsXOJX4d2Q-28" value="CaiLiaoPriceAPI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
