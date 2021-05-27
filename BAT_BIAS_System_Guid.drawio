@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T03:47:34.251Z" agent="5.0 (Windows)" etag="clitYrJb2Zy79gOiA7ay" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T03:47:57.837Z" agent="5.0 (Windows)" etag="fT1hGDu3R6ZM-rsK7Vm8" version="14.7.0" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
-    <mxGraphModel dx="-11215" dy="1036" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-9556" dy="1926" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,7 +728,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WXPLAT6OdIwsXOJX4d2Q-1" value="项目创建流程" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="13150" y="1380" width="450" height="390" as="geometry">
+          <mxGeometry x="13310" y="1380" width="450" height="390" as="geometry">
             <mxRectangle x="14060" y="1440" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -804,11 +804,8 @@
         <mxCell id="WXPLAT6OdIwsXOJX4d2Q-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EDLGChRiIiCTgM2huDiG-148" target="WXPLAT6OdIwsXOJX4d2Q-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WXPLAT6OdIwsXOJX4d2Q-3" value="GIS数据导入" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="15040" y="1770" width="250" height="460" as="geometry" />
-        </mxCell>
         <mxCell id="WXPLAT6OdIwsXOJX4d2Q-4" value="BIM数据导入" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="13780" y="1380" width="360" height="700" as="geometry" />
+          <mxGeometry x="13840" y="1380" width="360" height="700" as="geometry" />
         </mxCell>
         <mxCell id="IlXu4htf0YLNPIyGXCNW-1" value="上传文件/.rvt" style="rounded=1;whiteSpace=wrap;html=1;" parent="WXPLAT6OdIwsXOJX4d2Q-4" vertex="1">
           <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
@@ -868,7 +865,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WXPLAT6OdIwsXOJX4d2Q-6" value="GIS数据导入" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="14180" y="1380" width="200" height="200" as="geometry" />
+          <mxGeometry x="14250" y="1380" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
