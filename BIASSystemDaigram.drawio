@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T03:44:46.908Z" agent="5.0 (Windows)" etag="ioqKCD4K_L9R9axtSQPF" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T03:57:50.916Z" agent="5.0 (Windows)" etag="hhSvvw01pvcoxSTrsSH2" version="14.7.0" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="4181" dy="6926" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -4294,7 +4294,7 @@
           <mxGeometry x="13415" y="-306" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="NOYn02QAg52AwoxWNrzh-2" value="BIAS v0.0.2" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="12182" y="-2480" width="1070" height="698" as="geometry" />
+          <mxGeometry x="12182" y="-2480" width="1070" height="963" as="geometry" />
         </mxCell>
         <mxCell id="NOYn02QAg52AwoxWNrzh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NOYn02QAg52AwoxWNrzh-2" source="NOYn02QAg52AwoxWNrzh-4" target="NOYn02QAg52AwoxWNrzh-18">
           <mxGeometry relative="1" as="geometry" />
@@ -4303,13 +4303,13 @@
           <mxGeometry x="13" y="30" width="166" height="250" as="geometry" />
         </mxCell>
         <mxCell id="NOYn02QAg52AwoxWNrzh-5" value="&lt;div&gt;图形&lt;/div&gt;&lt;div&gt;二维/三维/四维&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-4">
-          <mxGeometry x="23" y="27" width="120" height="60" as="geometry" />
+          <mxGeometry x="23" y="38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NOYn02QAg52AwoxWNrzh-6" value="非几何信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-4">
-          <mxGeometry x="23" y="91" width="120" height="60" as="geometry" />
+          <mxGeometry x="23" y="103" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NOYn02QAg52AwoxWNrzh-41" value="其它" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-4">
-          <mxGeometry x="23" y="161" width="120" height="60" as="geometry" />
+        <mxCell id="NOYn02QAg52AwoxWNrzh-41" value="方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-4">
+          <mxGeometry x="23" y="166" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NOYn02QAg52AwoxWNrzh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NOYn02QAg52AwoxWNrzh-2" source="NOYn02QAg52AwoxWNrzh-8" target="NOYn02QAg52AwoxWNrzh-23">
           <mxGeometry relative="1" as="geometry" />
@@ -4335,12 +4335,6 @@
         <mxCell id="NOYn02QAg52AwoxWNrzh-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-8">
           <mxGeometry x="10" y="230" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NOYn02QAg52AwoxWNrzh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NOYn02QAg52AwoxWNrzh-2" source="NOYn02QAg52AwoxWNrzh-16" target="NOYn02QAg52AwoxWNrzh-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NOYn02QAg52AwoxWNrzh-16" value="物联网大数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-2">
-          <mxGeometry x="12" y="588" width="167" height="71" as="geometry" />
-        </mxCell>
         <mxCell id="NOYn02QAg52AwoxWNrzh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NOYn02QAg52AwoxWNrzh-2" source="NOYn02QAg52AwoxWNrzh-18" target="NOYn02QAg52AwoxWNrzh-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -4349,29 +4343,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NOYn02QAg52AwoxWNrzh-18" value="BIM+GIS数据库" style="swimlane;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-2">
-          <mxGeometry x="270" y="79" width="166" height="410" as="geometry" />
+        <mxCell id="NOYn02QAg52AwoxWNrzh-18" value="通用数据库" style="swimlane;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-2">
+          <mxGeometry x="285" y="185" width="166" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="NOYn02QAg52AwoxWNrzh-19" value="BIM+GIS的三维产品构件数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-18">
-          <mxGeometry x="25" y="48" width="120" height="60" as="geometry" />
+        <mxCell id="NOYn02QAg52AwoxWNrzh-19" value="统一空间标识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-18">
+          <mxGeometry x="25" y="28" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NOYn02QAg52AwoxWNrzh-20" value="多维度建筑工程信息分类编码+唯一标识编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-18">
-          <mxGeometry x="25" y="118" width="120" height="60" as="geometry" />
+        <mxCell id="NOYn02QAg52AwoxWNrzh-20" value="统一编码标识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-18">
+          <mxGeometry x="25" y="112" width="120" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="NOYn02QAg52AwoxWNrzh-21" value="多维度建筑工程信息分类编码+唯一标识编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-18">
-          <mxGeometry x="25" y="189" width="120" height="60" as="geometry" />
+        <mxCell id="NOYn02QAg52AwoxWNrzh-22" value="统一关系标识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-18">
+          <mxGeometry x="23" y="158" width="120" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="NOYn02QAg52AwoxWNrzh-22" value="元素关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-18">
-          <mxGeometry x="23" y="259" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NOYn02QAg52AwoxWNrzh-23" value="以建筑构件为基础索引其它数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-18">
+        <mxCell id="NOYn02QAg52AwoxWNrzh-23" value="以物体为基本数据单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-18">
           <mxGeometry x="23" y="329" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYn02QAg52AwoxWNrzh-95" value="统一时间标识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-18">
+          <mxGeometry x="25" y="73" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYn02QAg52AwoxWNrzh-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-18">
+          <mxGeometry x="23" y="199" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYn02QAg52AwoxWNrzh-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-18">
+          <mxGeometry x="23" y="237" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYn02QAg52AwoxWNrzh-152" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-18">
+          <mxGeometry x="23" y="279" width="120" height="28" as="geometry" />
         </mxCell>
         <mxCell id="NOYn02QAg52AwoxWNrzh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NOYn02QAg52AwoxWNrzh-2" source="NOYn02QAg52AwoxWNrzh-25" target="NOYn02QAg52AwoxWNrzh-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NOYn02QAg52AwoxWNrzh-25" value="应用" style="swimlane;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-2">
-          <mxGeometry x="580" y="145.75" width="166" height="374.25" as="geometry" />
+          <mxGeometry x="600.57" y="145.75" width="166" height="374.25" as="geometry" />
         </mxCell>
         <mxCell id="NOYn02QAg52AwoxWNrzh-26" value="建筑工程概预算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-25">
           <mxGeometry x="23" y="30" width="120" height="20" as="geometry" />
@@ -4415,7 +4418,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NOYn02QAg52AwoxWNrzh-37" value="展现层" style="swimlane;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-2">
-          <mxGeometry x="840" y="48" width="166" height="241" as="geometry" />
+          <mxGeometry x="860.57" y="48" width="166" height="241" as="geometry" />
         </mxCell>
         <mxCell id="NOYn02QAg52AwoxWNrzh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NOYn02QAg52AwoxWNrzh-37" source="NOYn02QAg52AwoxWNrzh-39" target="NOYn02QAg52AwoxWNrzh-40">
           <mxGeometry relative="1" as="geometry" />
@@ -4425,6 +4428,33 @@
         </mxCell>
         <mxCell id="NOYn02QAg52AwoxWNrzh-40" value="二维图表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-37">
           <mxGeometry x="23" y="148" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYn02QAg52AwoxWNrzh-43" value="数学模型" style="swimlane;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-2">
+          <mxGeometry x="13" y="571" width="166" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYn02QAg52AwoxWNrzh-44" value="力学计算模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-43">
+          <mxGeometry x="10" y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYn02QAg52AwoxWNrzh-45" value="光学计算模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-43">
+          <mxGeometry x="10" y="110" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYn02QAg52AwoxWNrzh-46" value="流体计算模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-43">
+          <mxGeometry x="10" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYn02QAg52AwoxWNrzh-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-43">
+          <mxGeometry x="10" y="150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYn02QAg52AwoxWNrzh-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-43">
+          <mxGeometry x="10" y="190" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYn02QAg52AwoxWNrzh-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NOYn02QAg52AwoxWNrzh-43">
+          <mxGeometry x="10" y="230" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYn02QAg52AwoxWNrzh-16" value="物联网大数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12195" y="-1605" width="167" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYn02QAg52AwoxWNrzh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NOYn02QAg52AwoxWNrzh-16" target="NOYn02QAg52AwoxWNrzh-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
