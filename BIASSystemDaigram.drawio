@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T04:04:06.428Z" agent="5.0 (Windows)" etag="FpNseTqjf0z3Ryecqu1q" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T04:04:41.451Z" agent="5.0 (Windows)" etag="rRbOwHp_bj5VUPORJOCw" version="14.7.0" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="4873" dy="7298" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3769" dy="6705" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4293,7 +4293,7 @@
         <mxCell id="l_zYHebZVzfGC9rIN-wo-62" value="索引形式？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13415" y="-306" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="NOYn02QAg52AwoxWNrzh-2" value="BIAS v0.0.2" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="NOYn02QAg52AwoxWNrzh-2" value="时空大数据通用平台设想" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="12182" y="-2480" width="1234" height="963" as="geometry" />
         </mxCell>
         <mxCell id="NOYn02QAg52AwoxWNrzh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NOYn02QAg52AwoxWNrzh-2" source="NOYn02QAg52AwoxWNrzh-4" target="NOYn02QAg52AwoxWNrzh-18">
