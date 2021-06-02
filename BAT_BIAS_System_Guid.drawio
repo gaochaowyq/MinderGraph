@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T03:52:43.665Z" agent="5.0 (Windows)" etag="QzkTw4OIdchE4altH1ff" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T03:56:53.960Z" agent="5.0 (Windows)" etag="Jl6CfZ7LxdUoCou-qQAl" version="14.7.0" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
-    <mxGraphModel dx="-11215" dy="1036" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-11723" dy="763" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -964,6 +964,30 @@
           <mxGeometry x="12420" y="1560" width="450" height="390" as="geometry">
             <mxRectangle x="14060" y="1440" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E-vmiyUdx6wXTv_LQHUQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="E-vmiyUdx6wXTv_LQHUQ-1" source="E-vmiyUdx6wXTv_LQHUQ-20" target="E-vmiyUdx6wXTv_LQHUQ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-vmiyUdx6wXTv_LQHUQ-20" value="CreateProject" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="E-vmiyUdx6wXTv_LQHUQ-1">
+          <mxGeometry x="150" y="40" width="140" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="E-vmiyUdx6wXTv_LQHUQ-28" value="+ guid: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="E-vmiyUdx6wXTv_LQHUQ-20">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E-vmiyUdx6wXTv_LQHUQ-27" value="+ coder: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="E-vmiyUdx6wXTv_LQHUQ-20">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E-vmiyUdx6wXTv_LQHUQ-21" value="+ name: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="E-vmiyUdx6wXTv_LQHUQ-20">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E-vmiyUdx6wXTv_LQHUQ-22" value="+ info: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="E-vmiyUdx6wXTv_LQHUQ-20">
+          <mxGeometry y="104" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E-vmiyUdx6wXTv_LQHUQ-23" value="+ location: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="E-vmiyUdx6wXTv_LQHUQ-20">
+          <mxGeometry y="130" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E-vmiyUdx6wXTv_LQHUQ-25" value="项目已经存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="E-vmiyUdx6wXTv_LQHUQ-1">
+          <mxGeometry x="180" y="230" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
