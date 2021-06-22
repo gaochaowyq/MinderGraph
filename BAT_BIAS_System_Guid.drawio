@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T05:47:23.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="Qpk7gJCKScan9BbsOgJ8" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T06:16:56.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="xk4JgmGQxTpyfRRmCuZU" version="14.6.13" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-11019" dy="909" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1269,6 +1269,17 @@
         <mxCell id="yYLhyOkw_qwgX6CJN8WO-1" value="平台权限问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="16260" y="1040" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="yYLhyOkw_qwgX6CJN8WO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yYLhyOkw_qwgX6CJN8WO-3" target="yYLhyOkw_qwgX6CJN8WO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLhyOkw_qwgX6CJN8WO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yYLhyOkw_qwgX6CJN8WO-3" target="yYLhyOkw_qwgX6CJN8WO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLhyOkw_qwgX6CJN8WO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yYLhyOkw_qwgX6CJN8WO-3" target="yYLhyOkw_qwgX6CJN8WO-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="16590" y="969.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yYLhyOkw_qwgX6CJN8WO-3" value="建设单位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="16450" y="910" width="80" height="20" as="geometry" />
         </mxCell>
@@ -1280,6 +1291,27 @@
         </mxCell>
         <mxCell id="yYLhyOkw_qwgX6CJN8WO-8" value="运维管理单位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="16450" y="1180" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLhyOkw_qwgX6CJN8WO-11" value="领导" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16590" y="800" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLhyOkw_qwgX6CJN8WO-13" value="物资公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16590" y="870" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLhyOkw_qwgX6CJN8WO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yYLhyOkw_qwgX6CJN8WO-17" target="yYLhyOkw_qwgX6CJN8WO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLhyOkw_qwgX6CJN8WO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yYLhyOkw_qwgX6CJN8WO-17" target="yYLhyOkw_qwgX6CJN8WO-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLhyOkw_qwgX6CJN8WO-17" value="工程指挥部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16590" y="950" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLhyOkw_qwgX6CJN8WO-18" value="建设部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16720" y="930" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLhyOkw_qwgX6CJN8WO-19" value="工程部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16720" y="970" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
