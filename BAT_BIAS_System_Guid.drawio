@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T08:14:31.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Gj-xQ0S_2TxAA9mgp8IC" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T08:15:25.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="18X6T_hE78G6sswFaEBq" version="14.6.13" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
-    <mxGraphModel dx="-11041" dy="1771" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-10364" dy="2174" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1349,9 +1349,6 @@
         <mxCell id="yYLhyOkw_qwgX6CJN8WO-25" value="专家" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="16740" y="1250" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yYLhyOkw_qwgX6CJN8WO-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yYLhyOkw_qwgX6CJN8WO-30" target="yYLhyOkw_qwgX6CJN8WO-68" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="yYLhyOkw_qwgX6CJN8WO-30" value="专家" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="16590" y="940" width="80" height="20" as="geometry" />
         </mxCell>
@@ -1380,13 +1377,10 @@
           <mxGeometry x="16590" y="1410" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yYLhyOkw_qwgX6CJN8WO-62" value="只查阅结论性内容" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="16820" y="620" width="120" height="50" as="geometry" />
+          <mxGeometry x="16860" y="675" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yYLhyOkw_qwgX6CJN8WO-65" value="数据创建、维护审批&lt;br&gt;创建 总项目、单项工程、单位工程、上传GIS数据、上传BIM数据，管理其它IOT数据" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="16820" y="760" width="430" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yYLhyOkw_qwgX6CJN8WO-68" value="文字性意见" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="16820" y="910" width="120" height="50" as="geometry" />
+        <mxCell id="yYLhyOkw_qwgX6CJN8WO-65" value="数据创建、维护审批&lt;br&gt;创建 总项目、单项工程、单位工程、上传GIS数据、上传BIM数据，管理其它IOT数据" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="16850" y="810" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="viBmoYh_EWJFznncdnZA-1" value="BuildingInfo" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="13160" y="-550" width="180" height="160" as="geometry" />
