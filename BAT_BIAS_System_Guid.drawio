@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T06:49:12.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="by4qrwgYXCmx4Bk5sQwe" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T06:51:17.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="VohYbRyygPln59KanXbC" version="14.6.13" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-10364" dy="2174" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1486,7 +1486,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="viBmoYh_EWJFznncdnZA-31" value="质量第一负责人，参与与建设单位合同谈判，合同签订，组织工程质量策划，指导和监督项目质量工作实施" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="16840" y="1530" width="610" height="50" as="geometry" />
+          <mxGeometry x="16840" y="1560" width="610" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
