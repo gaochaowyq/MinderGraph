@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T06:31:42.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="W-eSJSWIijaUxMZWWsn6" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T06:48:27.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="wmax429ys_oBi9MkbXYm" version="14.6.13" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-10841" dy="1890" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1305,7 +1305,7 @@
           <mxGeometry x="16450" y="1090" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yYLhyOkw_qwgX6CJN8WO-8" value="运维管理单位" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="16450" y="1800" width="80" height="20" as="geometry" />
+          <mxGeometry x="16450" y="2120" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yYLhyOkw_qwgX6CJN8WO-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yYLhyOkw_qwgX6CJN8WO-11" target="yYLhyOkw_qwgX6CJN8WO-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1462,25 +1462,31 @@
           <mxGeometry x="16840" y="1360" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="viBmoYh_EWJFznncdnZA-17" value="项目副经理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16840" y="1400" width="70" height="20" as="geometry" />
+          <mxGeometry x="16840" y="1450" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="viBmoYh_EWJFznncdnZA-32" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;endArrow=none;endFill=0;" edge="1" parent="1" source="viBmoYh_EWJFznncdnZA-18" target="viBmoYh_EWJFznncdnZA-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="viBmoYh_EWJFznncdnZA-18" value="技术负责人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16840" y="1480" width="70" height="20" as="geometry" />
+          <mxGeometry x="16840" y="1610" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="viBmoYh_EWJFznncdnZA-19" value="合约经理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16840" y="1560" width="70" height="20" as="geometry" />
+          <mxGeometry x="16840" y="1760" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="viBmoYh_EWJFznncdnZA-20" value="工程部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16840" y="1640" width="70" height="20" as="geometry" />
+          <mxGeometry x="16840" y="1920" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="viBmoYh_EWJFznncdnZA-26" value="质量第一负责人，参与与建设单位合同谈判，合同签订，组织工程质量策划，指导和监督项目质量工作实施" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="16810" y="1280" width="610" height="50" as="geometry" />
+          <mxGeometry x="16840" y="1280" width="610" height="50" as="geometry" />
         </mxCell>
         <mxCell id="viBmoYh_EWJFznncdnZA-27" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="viBmoYh_EWJFznncdnZA-16" target="viBmoYh_EWJFznncdnZA-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="16760" y="1260" as="sourcePoint" />
             <mxPoint x="16920" y="1260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="viBmoYh_EWJFznncdnZA-31" value="质量第一负责人，参与与建设单位合同谈判，合同签订，组织工程质量策划，指导和监督项目质量工作实施" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="16840" y="1490" width="610" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
