@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T08:15:25.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="18X6T_hE78G6sswFaEBq" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T08:22:56.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="9nGW1DSgndAVFuEgPjaS" version="14.6.13" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-10364" dy="2174" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1496,6 +1496,12 @@
         </mxCell>
         <mxCell id="viBmoYh_EWJFznncdnZA-35" value="工程实施" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="16840" y="1870" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="viBmoYh_EWJFznncdnZA-37" value="权限" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="16560" y="400" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="viBmoYh_EWJFznncdnZA-38" value="Object" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="16720" y="300" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
