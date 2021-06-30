@@ -1,1 +1,136 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T01:08:16.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.6.13" etag="pz4WSuBQ0BLCsTuI-yi2" type="github"><diagram id="1U_yQEHiC2PffywXtrhS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-30T01:56:18.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="d_LPrqBvrk-VxCdwYVOM" version="14.6.13" type="github">
+  <diagram id="1U_yQEHiC2PffywXtrhS" name="Page-1">
+    <mxGraphModel dx="2249" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FaTQzz3bTDG0tKOUlcTL-1" target="FaTQzz3bTDG0tKOUlcTL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-1" value="提供军事分析所需的数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FaTQzz3bTDG0tKOUlcTL-2" target="FaTQzz3bTDG0tKOUlcTL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="FaTQzz3bTDG0tKOUlcTL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="630" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="390" />
+              <mxPoint x="410" y="300" />
+              <mxPoint x="700" y="300" />
+              <mxPoint x="700" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-14" value="短期" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FaTQzz3bTDG0tKOUlcTL-13">
+          <mxGeometry x="0.0667" y="1" relative="1" as="geometry">
+            <mxPoint x="-84" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-2" value="BIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaTQzz3bTDG0tKOUlcTL-3" target="FaTQzz3bTDG0tKOUlcTL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-3" value="现有BIM数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-6" value="军事应用分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FaTQzz3bTDG0tKOUlcTL-8" target="FaTQzz3bTDG0tKOUlcTL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-8" value="现有军事应用计算模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FaTQzz3bTDG0tKOUlcTL-10" target="FaTQzz3bTDG0tKOUlcTL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-10" value="CIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaTQzz3bTDG0tKOUlcTL-15" target="FaTQzz3bTDG0tKOUlcTL-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-17" value="信息补充" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FaTQzz3bTDG0tKOUlcTL-16">
+          <mxGeometry x="0.1333" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-15" value="结构计算、材料。。。。。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FaTQzz3bTDG0tKOUlcTL-18" target="FaTQzz3bTDG0tKOUlcTL-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-18" value="新建项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaTQzz3bTDG0tKOUlcTL-19" target="FaTQzz3bTDG0tKOUlcTL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-19" value="BIM标准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaTQzz3bTDG0tKOUlcTL-22" target="FaTQzz3bTDG0tKOUlcTL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-22" value="数据完善" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaTQzz3bTDG0tKOUlcTL-26" target="FaTQzz3bTDG0tKOUlcTL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-26" value="建筑表观识别" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="10" width="560" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FaTQzz3bTDG0tKOUlcTL-26" source="FaTQzz3bTDG0tKOUlcTL-32" target="FaTQzz3bTDG0tKOUlcTL-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-32" value="数据源：卫星影像，倾斜摄影。。。。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaTQzz3bTDG0tKOUlcTL-26">
+          <mxGeometry x="20" y="150" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="FaTQzz3bTDG0tKOUlcTL-26" source="FaTQzz3bTDG0tKOUlcTL-33" target="FaTQzz3bTDG0tKOUlcTL-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-33" value="建筑知识图谱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaTQzz3bTDG0tKOUlcTL-26">
+          <mxGeometry x="150" y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FaTQzz3bTDG0tKOUlcTL-26" source="FaTQzz3bTDG0tKOUlcTL-34" target="FaTQzz3bTDG0tKOUlcTL-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-34" value="人工智能识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaTQzz3bTDG0tKOUlcTL-26">
+          <mxGeometry x="150" y="172.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="FaTQzz3bTDG0tKOUlcTL-26" source="FaTQzz3bTDG0tKOUlcTL-36" target="FaTQzz3bTDG0tKOUlcTL-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-36" value="人工干预" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaTQzz3bTDG0tKOUlcTL-26">
+          <mxGeometry x="280" y="290" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FaTQzz3bTDG0tKOUlcTL-26" source="FaTQzz3bTDG0tKOUlcTL-39" target="FaTQzz3bTDG0tKOUlcTL-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-39" value="建立BIM模型参数化关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaTQzz3bTDG0tKOUlcTL-26">
+          <mxGeometry x="280" y="152.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-41" value="BIM模型生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaTQzz3bTDG0tKOUlcTL-26">
+          <mxGeometry x="420" y="152.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FaTQzz3bTDG0tKOUlcTL-28" target="FaTQzz3bTDG0tKOUlcTL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaTQzz3bTDG0tKOUlcTL-28" value="数据完善" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
