@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T13:36:43.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="kG4yxD_Pja5vT9qYpcHl" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T13:40:21.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="spoPa0KZfHdFe9prDbPj" version="14.8.5" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-10327" dy="3734" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1905,7 +1905,7 @@
         <mxCell id="SRsjBnM2cGzcFBLRTKMF-10" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="SRsjBnM2cGzcFBLRTKMF-9">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SRsjBnM2cGzcFBLRTKMF-11" value="metadate" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="SRsjBnM2cGzcFBLRTKMF-9">
+        <mxCell id="SRsjBnM2cGzcFBLRTKMF-11" value="metadata" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="SRsjBnM2cGzcFBLRTKMF-9">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SRsjBnM2cGzcFBLRTKMF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SRsjBnM2cGzcFBLRTKMF-1" source="SRsjBnM2cGzcFBLRTKMF-15" target="SRsjBnM2cGzcFBLRTKMF-16">
@@ -1914,8 +1914,17 @@
         <mxCell id="SRsjBnM2cGzcFBLRTKMF-15" value="RegisterAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SRsjBnM2cGzcFBLRTKMF-1">
           <mxGeometry x="67" y="329" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SRsjBnM2cGzcFBLRTKMF-16" value="判断metadate类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SRsjBnM2cGzcFBLRTKMF-1">
+        <mxCell id="SRsjBnM2cGzcFBLRTKMF-16" value="判断metadata类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SRsjBnM2cGzcFBLRTKMF-1">
           <mxGeometry x="343" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SRsjBnM2cGzcFBLRTKMF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SRsjBnM2cGzcFBLRTKMF-1" source="SRsjBnM2cGzcFBLRTKMF-18" target="SRsjBnM2cGzcFBLRTKMF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRsjBnM2cGzcFBLRTKMF-18" value="GetAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SRsjBnM2cGzcFBLRTKMF-1">
+          <mxGeometry x="64" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SRsjBnM2cGzcFBLRTKMF-19" value="metadata" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SRsjBnM2cGzcFBLRTKMF-1">
+          <mxGeometry x="341" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
