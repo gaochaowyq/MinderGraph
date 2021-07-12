@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T06:58:02.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="bCo4GjC4fvA14Uw5olbH" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T06:58:30.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="8spraBfRJfxjjXZvRvPc" version="14.8.5" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-10578" dy="3594" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1866,7 +1866,7 @@
         <mxCell id="ByS147ivbjnUWMiHn2xy-31" value="应兼备私有与公有得部署，&lt;br&gt;切可以统一注册服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
           <mxGeometry x="170" y="340" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ByS147ivbjnUWMiHn2xy-33" value="有能力为平台、行业软件、设备等提供同等资源" style="rounded=1;whiteSpace=wrap;html=1;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
+        <mxCell id="ByS147ivbjnUWMiHn2xy-33" value="有能力为平台、行业软件、设备等提供同等服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
           <mxGeometry x="380" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ByS147ivbjnUWMiHn2xy-39" value="容器化、微化" style="rounded=1;whiteSpace=wrap;html=1;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
