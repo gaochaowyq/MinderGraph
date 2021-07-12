@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T13:21:37.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="YRvxAK_qvTrIU8E2Pr1K" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T13:34:15.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="cHlRN0-2GScL3nrj3SBb" version="14.8.5" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-10327" dy="3734" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1876,10 +1876,10 @@
           <mxGeometry x="58" y="53" width="274" height="39" as="geometry" />
         </mxCell>
         <mxCell id="SRsjBnM2cGzcFBLRTKMF-1" value="注册服务" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="13728" y="-1746" width="1266" height="800" as="geometry" />
+          <mxGeometry x="13726" y="-1744" width="1266" height="800" as="geometry" />
         </mxCell>
         <mxCell id="SRsjBnM2cGzcFBLRTKMF-2" value="注册服务数据库" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="SRsjBnM2cGzcFBLRTKMF-1">
-          <mxGeometry x="64" y="113" width="180" height="130" as="geometry" />
+          <mxGeometry x="65" y="105" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="SRsjBnM2cGzcFBLRTKMF-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SRsjBnM2cGzcFBLRTKMF-2">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1908,8 +1908,14 @@
         <mxCell id="SRsjBnM2cGzcFBLRTKMF-11" value="metadate" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="SRsjBnM2cGzcFBLRTKMF-9">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SRsjBnM2cGzcFBLRTKMF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SRsjBnM2cGzcFBLRTKMF-1" source="SRsjBnM2cGzcFBLRTKMF-15" target="SRsjBnM2cGzcFBLRTKMF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SRsjBnM2cGzcFBLRTKMF-15" value="RegisterAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SRsjBnM2cGzcFBLRTKMF-1">
-          <mxGeometry x="287" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="329" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SRsjBnM2cGzcFBLRTKMF-16" value="判断metadate类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SRsjBnM2cGzcFBLRTKMF-1">
+          <mxGeometry x="314" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
