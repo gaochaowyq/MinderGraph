@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T08:43:04.778Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="sQbC0xhpPxcHtMgnLPw2" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T08:43:48.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="P4jWeLGuPg24sadB_U9H" version="14.8.4" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-10670" dy="3541" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1731,7 +1731,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IXm18n1mFBKhGo8A_hol-59" value="时空大数据通用平台总体架构" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="13670" y="-2560" width="1283" height="630" as="geometry" />
+          <mxGeometry x="13670" y="-2560" width="1030" height="630" as="geometry" />
         </mxCell>
         <mxCell id="ByS147ivbjnUWMiHn2xy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="IXm18n1mFBKhGo8A_hol-59" source="IXm18n1mFBKhGo8A_hol-96" target="ByS147ivbjnUWMiHn2xy-16" edge="1">
           <mxGeometry relative="1" as="geometry">
