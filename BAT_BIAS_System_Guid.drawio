@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T08:37:59.941Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Rp66d9Wn9D5U64ppqrGT" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T08:39:38.112Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="3MsnYZVZlI2qMOTEhYul" version="14.8.4" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-10670" dy="3541" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1782,6 +1782,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="K0pFGaQCrTKWIElV1Det-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IXm18n1mFBKhGo8A_hol-59" source="IXm18n1mFBKhGo8A_hol-96" target="K0pFGaQCrTKWIElV1Det-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="963" y="560" />
+              <mxPoint x="230" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IXm18n1mFBKhGo8A_hol-96" value="工作平台" style="swimlane;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
           <mxGeometry x="883" y="110" width="160" height="130" as="geometry" />
         </mxCell>
@@ -1874,6 +1882,12 @@
         </mxCell>
         <mxCell id="EGHIt11vX68y-nSGP2xE-1" value="兼容私有与公有部署" style="rounded=1;whiteSpace=wrap;html=1;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
           <mxGeometry x="58" y="53" width="274" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="K0pFGaQCrTKWIElV1Det-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IXm18n1mFBKhGo8A_hol-59" source="K0pFGaQCrTKWIElV1Det-2" target="ByS147ivbjnUWMiHn2xy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K0pFGaQCrTKWIElV1Det-2" value="专用资源池" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="IXm18n1mFBKhGo8A_hol-59">
+          <mxGeometry x="200" y="460" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SRsjBnM2cGzcFBLRTKMF-1" value="注册服务" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="13726" y="-1744" width="1266" height="800" as="geometry" />
