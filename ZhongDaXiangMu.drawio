@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T14:22:38.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="L1OqOQJWc9jdwlNWpNBB" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T14:24:10.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="QtNZYK-tNFYcAMoMIqWe" version="14.8.5" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
-    <mxGraphModel dx="3666" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6036" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,14 +75,32 @@
         <mxCell id="4ePM_mrX_eO2cXphhPyk-15" value="建筑信息数据网络服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ePM_mrX_eO2cXphhPyk-16" target="-WSbbYuiBx0uszV9ExOx-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ePM_mrX_eO2cXphhPyk-16" target="-WSbbYuiBx0uszV9ExOx-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4ePM_mrX_eO2cXphhPyk-16" value="倾斜摄影数据网络服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ePM_mrX_eO2cXphhPyk-17" target="-WSbbYuiBx0uszV9ExOx-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4ePM_mrX_eO2cXphhPyk-17" value="建筑知识图谱数据网络服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ePM_mrX_eO2cXphhPyk-18" target="-WSbbYuiBx0uszV9ExOx-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4ePM_mrX_eO2cXphhPyk-18" value="人文数据网络服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ePM_mrX_eO2cXphhPyk-19" target="-WSbbYuiBx0uszV9ExOx-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ePM_mrX_eO2cXphhPyk-19" target="-WSbbYuiBx0uszV9ExOx-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4ePM_mrX_eO2cXphhPyk-19" value="点云数据网络服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="610" width="120" height="60" as="geometry" />
@@ -309,6 +327,27 @@
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-61" value="非几何图形数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="20" y="900" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-63" value="影像数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="145" y="900" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-65" value="模型数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="900" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-67" value="知识结构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="369" y="900" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-69" value="人文数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="645" y="900" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-71" value="人文数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="645" y="900" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-72" value="坐标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="805" y="900" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-74" value="颜色" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="925" y="900" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
