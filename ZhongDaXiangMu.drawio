@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T10:10:50.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="FFiK4jLgCAdeoOMblXp0" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T10:16:21.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="lX60tUmyAP9YBpDCaQzn" version="14.9.0" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,22 +104,53 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4ePM_mrX_eO2cXphhPyk-26" value="网格服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ePM_mrX_eO2cXphhPyk-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4ePM_mrX_eO2cXphhPyk-32" target="4ePM_mrX_eO2cXphhPyk-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="1070" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4ePM_mrX_eO2cXphhPyk-32" value="网格服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4ePM_mrX_eO2cXphhPyk-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4ePM_mrX_eO2cXphhPyk-33" target="4ePM_mrX_eO2cXphhPyk-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4ePM_mrX_eO2cXphhPyk-33" value="网格服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ePM_mrX_eO2cXphhPyk-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ePM_mrX_eO2cXphhPyk-34" target="4ePM_mrX_eO2cXphhPyk-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4ePM_mrX_eO2cXphhPyk-34" value="网格服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4ePM_mrX_eO2cXphhPyk-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4ePM_mrX_eO2cXphhPyk-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4ePM_mrX_eO2cXphhPyk-35" value="网格服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4ePM_mrX_eO2cXphhPyk-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4ePM_mrX_eO2cXphhPyk-36" target="4ePM_mrX_eO2cXphhPyk-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4ePM_mrX_eO2cXphhPyk-36" value="网格服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ePM_mrX_eO2cXphhPyk-42" value="Web API 接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ePM_mrX_eO2cXphhPyk-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ePM_mrX_eO2cXphhPyk-48" target="4ePM_mrX_eO2cXphhPyk-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ePM_mrX_eO2cXphhPyk-48" value="REST 接口设计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ePM_mrX_eO2cXphhPyk-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
