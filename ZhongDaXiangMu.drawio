@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T14:32:12.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="2u9AAIl9Zwq6J3eAX1zT" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T14:33:00.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="9KSstXx62eb11M5bHv-2" version="14.8.5" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
     <mxGraphModel dx="4851" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -248,8 +248,11 @@
         <mxCell id="-WSbbYuiBx0uszV9ExOx-74" value="颜色" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="925" y="900" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WSbbYuiBx0uszV9ExOx-92" target="-WSbbYuiBx0uszV9ExOx-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-92" value="终端服务" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="-1325" y="1810" width="1730" height="200" as="geometry" />
+          <mxGeometry x="-1325" y="1810" width="1730" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-78" value="狙击位置分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="-WSbbYuiBx0uszV9ExOx-92">
           <mxGeometry x="160" y="60" width="90" height="30" as="geometry" />
@@ -292,6 +295,9 @@
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-91" value="室内最优路径分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="-WSbbYuiBx0uszV9ExOx-92">
           <mxGeometry x="30" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-94" value="三维可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="2130" width="460" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
