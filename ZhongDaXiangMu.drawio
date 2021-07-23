@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T02:08:31.465Z" agent="5.0 (Windows)" etag="28ROwtcg7RD3Hvsd94yL" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T05:44:57.843Z" agent="5.0 (Windows)" etag="xiGNlKYS8vR5eS5Pw274" version="14.8.6" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
-    <mxGraphModel dx="3022" dy="752" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2785" dy="627" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -555,6 +555,45 @@
         </mxCell>
         <mxCell id="pQje5xh-BZ4L-_6oTXLz-23" value="资源池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="458" y="2758" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-26" value="资源池分系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1417" y="2908" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pQje5xh-BZ4L-_6oTXLz-27" target="pQje5xh-BZ4L-_6oTXLz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-27" value="&lt;span&gt;建筑信息数据池子系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1239" y="2700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQje5xh-BZ4L-_6oTXLz-28" target="pQje5xh-BZ4L-_6oTXLz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-28" value="&lt;span&gt;倾斜摄影数据池子系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1386" y="2700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pQje5xh-BZ4L-_6oTXLz-29" target="pQje5xh-BZ4L-_6oTXLz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-29" value="&lt;span&gt;知识图谱数据池子系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="2702" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pQje5xh-BZ4L-_6oTXLz-30" target="pQje5xh-BZ4L-_6oTXLz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-30" value="&lt;span&gt;人文数据池子系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1835" y="2700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pQje5xh-BZ4L-_6oTXLz-31" target="pQje5xh-BZ4L-_6oTXLz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-31" value="&lt;span&gt;点云数据池子系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="2702" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQje5xh-BZ4L-_6oTXLz-32" target="pQje5xh-BZ4L-_6oTXLz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-32" value="&lt;span&gt;影像数据池子系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1536" y="2699" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
