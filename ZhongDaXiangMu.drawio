@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T01:18:45.234Z" agent="5.0 (Windows)" etag="X4QAKwgMgP9DnJqQ21qu" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T02:08:31.465Z" agent="5.0 (Windows)" etag="28ROwtcg7RD3Hvsd94yL" version="14.8.6" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
-    <mxGraphModel dx="2785" dy="627" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3022" dy="752" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -534,6 +534,27 @@
         </mxCell>
         <mxCell id="pQje5xh-BZ4L-_6oTXLz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V74qx7CCudUs-Qlw_BoU-5" target="V74qx7CCudUs-Qlw_BoU-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQje5xh-BZ4L-_6oTXLz-18" target="pQje5xh-BZ4L-_6oTXLz-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-18" value="数据转换子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="2626" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQje5xh-BZ4L-_6oTXLz-19" target="pQje5xh-BZ4L-_6oTXLz-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-19" value="专家子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="267" y="2626" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQje5xh-BZ4L-_6oTXLz-21" target="pQje5xh-BZ4L-_6oTXLz-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-21" value="建筑知识图谱子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="674" y="2626" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-23" value="资源池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="2758" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
