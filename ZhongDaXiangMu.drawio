@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T01:02:44.387Z" agent="5.0 (Windows)" etag="wWqocbyx6_PIuagsdh1n" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T01:04:24.211Z" agent="5.0 (Windows)" etag="rbiv49rs42rIm5z8MNh9" version="14.8.6" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
-    <mxGraphModel dx="3327" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3685" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,6 +265,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-WSbbYuiBx0uszV9ExOx-92" target="pQje5xh-BZ4L-_6oTXLz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-92" value="终端服务链" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="-885" y="1430" width="1730" height="140" as="geometry" />
         </mxCell>
@@ -335,16 +338,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-94" value="三维可视化系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="1660" width="460" height="60" as="geometry" />
+          <mxGeometry x="-250" y="1720" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-97" value="三维实时渲染图形引擎" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="1830" width="120" height="60" as="geometry" />
+          <mxGeometry x="-560" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-99" value="点、线、面的三维表达" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-385" y="1830" width="120" height="60" as="geometry" />
+          <mxGeometry x="-385" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-102" value="动态三维图形生成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-225" y="1830" width="120" height="60" as="geometry" />
+          <mxGeometry x="-225" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-WSbbYuiBx0uszV9ExOx-104" target="4ePM_mrX_eO2cXphhPyk-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -415,19 +418,19 @@
           <mxGeometry x="955" y="40" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-127" value="RemoteControl" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="1830" width="120" height="60" as="geometry" />
+          <mxGeometry x="-80" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-128" value="PixelStreaming" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="54" y="1830" width="120" height="60" as="geometry" />
+          <mxGeometry x="54" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-131" value="分析展示" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="212" y="1830" width="120" height="60" as="geometry" />
+          <mxGeometry x="212" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-133" value="硬件设备连接" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="368" y="1830" width="120" height="60" as="geometry" />
+          <mxGeometry x="368" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-135" value="物理模拟引擎" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="1830" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V74qx7CCudUs-Qlw_BoU-1" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in&quot;&gt;&lt;span style=&quot;text-indent: -0.38in&quot;&gt;城市建筑物数据反演和数据挖掘系统&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-220" y="2500" width="120" height="60" as="geometry" />
@@ -483,6 +486,17 @@
         </mxCell>
         <mxCell id="V74qx7CCudUs-Qlw_BoU-7" value="三维可视化系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="3130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pQje5xh-BZ4L-_6oTXLz-3" target="-WSbbYuiBx0uszV9ExOx-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="1650" />
+              <mxPoint x="570" y="1750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-3" value="辅助决策系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1620" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
