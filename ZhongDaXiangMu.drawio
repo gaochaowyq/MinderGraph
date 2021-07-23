@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T01:01:29.007Z" agent="5.0 (Windows)" etag="i5c9nb1E1JKKMwZo6mAm" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T01:02:44.387Z" agent="5.0 (Windows)" etag="wWqocbyx6_PIuagsdh1n" version="14.8.6" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
-    <mxGraphModel dx="4024" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3327" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,7 +234,7 @@
           <mxGeometry x="240" y="790" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-67" value="知识结构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="359" y="790" width="90" height="30" as="geometry" />
+          <mxGeometry x="405" y="790" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-69" value="人文数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="635" y="790" width="90" height="30" as="geometry" />
@@ -251,7 +251,21 @@
         <mxCell id="-WSbbYuiBx0uszV9ExOx-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-WSbbYuiBx0uszV9ExOx-92" target="-WSbbYuiBx0uszV9ExOx-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WSbbYuiBx0uszV9ExOx-92" value="终端服务" style="swimlane;" parent="1" vertex="1">
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-WSbbYuiBx0uszV9ExOx-92" target="4ePM_mrX_eO2cXphhPyk-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="1500" />
+              <mxPoint x="890" y="1060" />
+              <mxPoint x="130" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQje5xh-BZ4L-_6oTXLz-2" value="服务注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pQje5xh-BZ4L-_6oTXLz-1">
+          <mxGeometry x="-0.5599" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-WSbbYuiBx0uszV9ExOx-92" value="终端服务链" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="-885" y="1430" width="1730" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-WSbbYuiBx0uszV9ExOx-78" value="狙击位置分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="-WSbbYuiBx0uszV9ExOx-92" vertex="1">
