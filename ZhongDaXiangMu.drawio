@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T07:49:04.625Z" agent="5.0 (Windows)" etag="jT-c6vP71se5hPvc3_I0" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T08:14:36.341Z" agent="5.0 (Windows)" etag="vSIyCIu3XnyUy6nu7Nyj" version="14.8.6" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
-    <mxGraphModel dx="3022" dy="752" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3273" dy="885" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -588,6 +588,60 @@
         </mxCell>
         <mxCell id="pQje5xh-BZ4L-_6oTXLz-32" value="&lt;br/&gt;&lt;br/&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in&quot;&gt;&lt;span&gt;•&lt;/span&gt;&lt;span style=&quot;color: black ; font-weight: normal ; font-style: normal&quot;&gt;影像数据池子系统&lt;/span&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1536" y="2699" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1C44Lmjhqia7uQzUukSw-1" target="1C44Lmjhqia7uQzUukSw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-1" value="流体力学分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2826" y="2539" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1C44Lmjhqia7uQzUukSw-2" target="1C44Lmjhqia7uQzUukSw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-2" value="有限元力学分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2686" y="2539" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1C44Lmjhqia7uQzUukSw-3" target="1C44Lmjhqia7uQzUukSw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-3" value="热工性能分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2551" y="2539" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1C44Lmjhqia7uQzUukSw-4" target="1C44Lmjhqia7uQzUukSw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-4" value="光学子分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2416" y="2539" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1C44Lmjhqia7uQzUukSw-5" target="1C44Lmjhqia7uQzUukSw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-5" value="视觉分析子分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2276" y="2539" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1C44Lmjhqia7uQzUukSw-6" target="1C44Lmjhqia7uQzUukSw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-6" value="路径分析子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2146" y="2539" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-7" value="算法池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-8" value="算法池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2599" y="2752" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1C44Lmjhqia7uQzUukSw-9" target="1C44Lmjhqia7uQzUukSw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-9" value="数据统计子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2971" y="2537" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1C44Lmjhqia7uQzUukSw-10" target="1C44Lmjhqia7uQzUukSw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-10" value="人工智能子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3116" y="2538" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
