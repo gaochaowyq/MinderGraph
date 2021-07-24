@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T07:08:34.114Z" agent="5.0 (Windows)" etag="bmYR_v-28Ej9kea4jbtZ" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T07:49:04.625Z" agent="5.0 (Windows)" etag="jT-c6vP71se5hPvc3_I0" version="14.8.6" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
     <mxGraphModel dx="3022" dy="752" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -576,12 +576,6 @@
         </mxCell>
         <mxCell id="pQje5xh-BZ4L-_6oTXLz-29" value="&lt;br/&gt;&lt;br/&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in&quot;&gt;&lt;span&gt;•&lt;/span&gt;&lt;span style=&quot;color: black&quot;&gt;三维图形存储子系统&lt;/span&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1094" y="2702" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pQje5xh-BZ4L-_6oTXLz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pQje5xh-BZ4L-_6oTXLz-30" target="pQje5xh-BZ4L-_6oTXLz-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pQje5xh-BZ4L-_6oTXLz-30" value="&lt;span&gt;人文数据池子系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1835" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pQje5xh-BZ4L-_6oTXLz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pQje5xh-BZ4L-_6oTXLz-31" target="pQje5xh-BZ4L-_6oTXLz-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
