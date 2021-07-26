@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T10:00:11.203Z" agent="5.0 (Windows)" etag="8OSNdK01LfxVYldnjb8v" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T05:17:07.607Z" agent="5.0 (Windows)" etag="jcsH9ye380b7twDh5A3W" version="14.8.6" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
-    <mxGraphModel dx="2413" dy="830" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2413" dy="830" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -723,6 +723,21 @@
         </mxCell>
         <mxCell id="1C44Lmjhqia7uQzUukSw-49" value="三维可视化系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2830" y="440" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeColor=#000000;" edge="1" parent="1" source="1C44Lmjhqia7uQzUukSw-61" target="1C44Lmjhqia7uQzUukSw-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-61" value="影像数据获取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3507" y="204" width="106" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-62" value="通过表观构件，如门窗水平与竖向的间距，方案设计图纸等确立基本的基础埋深，轴线尺寸等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3500" y="294" width="120" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1C44Lmjhqia7uQzUukSw-64" target="1C44Lmjhqia7uQzUukSw-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1C44Lmjhqia7uQzUukSw-64" value="工程图纸（部分）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3378" y="206" width="106" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
