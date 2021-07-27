@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T14:26:35.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="Egbyyr49sINOrEaNQd53" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T15:10:53.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="ThkoCNoj1vQSE5YLOakL" version="14.9.1" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
-    <mxGraphModel dx="2439" dy="1184" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2179" dy="941" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1494,6 +1494,39 @@
         </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-298" value="民用建筑信息模型生成模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6850" y="920" width="15" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-304" target="kUdsLUoSPE4Vc8FTUZ0X-305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-304" target="kUdsLUoSPE4Vc8FTUZ0X-306">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-304" target="kUdsLUoSPE4Vc8FTUZ0X-307">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-304" target="kUdsLUoSPE4Vc8FTUZ0X-308">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-304" target="kUdsLUoSPE4Vc8FTUZ0X-309">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-304" value="交通工程子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="7020" y="800" width="142" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-305" value="交通工程图纸分析模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6980" y="920" width="15" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-306" value="倾斜摄影数据分析模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7040" y="920" width="15" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-307" value="影像数据分析模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7090" y="920" width="15" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-308" value="交通工程数据获取模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7140" y="920" width="15" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-309" value="建筑信息模型生成模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7190" y="920" width="15" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
