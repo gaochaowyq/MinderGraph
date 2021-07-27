@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T11:23:40.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="hPA0irqHL0xseKzfoa6M" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T12:06:51.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="RAZmGDPAvV33GBwZWYhw" version="14.9.1" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
-    <mxGraphModel dx="3052" dy="1968" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2101" dy="941" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1167,16 +1167,16 @@
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-163" value="建筑信息挖掘子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="5680" y="140" width="30" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-164" value="室内路径分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-164" value="路径分析模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5640" y="410" width="15" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-165" value="光学分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-165" value="视觉分析模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5660" y="410" width="15" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-166" value="声学分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-166" value="光学分析模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5680" y="410" width="15" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-167" value="有限元分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-167" value="有限元&lt;br&gt;力学分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5700" y="410" width="15" height="150" as="geometry" />
         </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-168" value="流体力学分析" style="rounded=1;whiteSpace=wrap;html=1;imageWidth=2;" vertex="1" parent="1">
@@ -1428,6 +1428,39 @@
         </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-275" value="暖通模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5940" y="920" width="15" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-282" target="kUdsLUoSPE4Vc8FTUZ0X-283">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-282" target="kUdsLUoSPE4Vc8FTUZ0X-284">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-282" target="kUdsLUoSPE4Vc8FTUZ0X-285">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-282" target="kUdsLUoSPE4Vc8FTUZ0X-286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-282" target="kUdsLUoSPE4Vc8FTUZ0X-287">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-282" value="建筑信息挖掘子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="6333" y="800" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-283" value="路径分析模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6280" y="920" width="15" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-284" value="视觉分析模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6340" y="920" width="15" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-285" value="光学分析模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6400" y="920" width="15" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-286" value="有限元&lt;br&gt;力学分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6460" y="920" width="15" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-287" value="流体力学分析" style="rounded=1;whiteSpace=wrap;html=1;imageWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="6520" y="920" width="15" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
