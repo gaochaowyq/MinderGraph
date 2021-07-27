@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T06:35:35.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="GYwbpLnsgwaLsjNU7lcv" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T06:37:47.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="2QLs2PJF7kkcslswyuGZ" version="14.9.1" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
-    <mxGraphModel dx="2581" dy="948" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2785" dy="1062" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -757,6 +757,9 @@
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-1" target="kUdsLUoSPE4Vc8FTUZ0X-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-1" target="kUdsLUoSPE4Vc8FTUZ0X-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-1" value="轴网尺寸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3750" y="348" width="83" height="21" as="geometry" />
         </mxCell>
@@ -766,23 +769,57 @@
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-2" value="地理位置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3750" y="300" width="76" height="21" as="geometry" />
         </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-3" target="kUdsLUoSPE4Vc8FTUZ0X-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4110" y="324" />
+              <mxPoint x="4110" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-3" target="kUdsLUoSPE4Vc8FTUZ0X-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-3" value="层高" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3970" y="313" width="83" height="21" as="geometry" />
         </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-4" target="kUdsLUoSPE4Vc8FTUZ0X-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4110" y="365" />
+              <mxPoint x="4110" y="175" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-4" target="kUdsLUoSPE4Vc8FTUZ0X-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4110" y="366" />
+              <mxPoint x="4110" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-4" target="kUdsLUoSPE4Vc8FTUZ0X-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-4" value="结构构件基本尺寸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3970" y="350" width="83" height="31" as="geometry" />
         </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-7" target="kUdsLUoSPE4Vc8FTUZ0X-29">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4110" y="417" />
+              <mxPoint x="4110" y="395" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-7" target="kUdsLUoSPE4Vc8FTUZ0X-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4110" y="417" />
+              <mxPoint x="4110" y="475" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-7" value="房间格局" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3970" y="406" width="83" height="21" as="geometry" />
@@ -798,8 +835,11 @@
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-9" value="地质条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3890" y="180" width="83" height="21" as="geometry" />
         </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-17" target="kUdsLUoSPE4Vc8FTUZ0X-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-17" value="柱子的强度、以及材料即大致配筋情况" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4120" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="4160" y="160" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-18" target="kUdsLUoSPE4Vc8FTUZ0X-17">
           <mxGeometry relative="1" as="geometry">
@@ -821,11 +861,29 @@
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-26" value="建筑性质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3750" y="450" width="83" height="21" as="geometry" />
         </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-29" target="kUdsLUoSPE4Vc8FTUZ0X-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-29" value="特殊房间位置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4130" y="380" width="120" height="30" as="geometry" />
+          <mxGeometry x="4160" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-32" target="kUdsLUoSPE4Vc8FTUZ0X-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-32" value="建筑内部交通环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4130" y="460" width="120" height="30" as="geometry" />
+          <mxGeometry x="4160" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-36" target="kUdsLUoSPE4Vc8FTUZ0X-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-36" target="kUdsLUoSPE4Vc8FTUZ0X-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-36" value="门窗特点与关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3970" y="280" width="90" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-39" value="反演建筑信息模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4390" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
