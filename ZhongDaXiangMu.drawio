@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T09:42:10.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="KxntBjecpmi64jJfpvH7" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T09:59:01.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="nwWK7hzKQVvpNvpInP9h" version="14.9.1" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
-    <mxGraphModel dx="3631" dy="1533" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2581" dy="947" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1260,6 +1260,69 @@
         </mxCell>
         <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-207" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: black; font-size: 15px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="6699" y="640" width="73" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-216" target="kUdsLUoSPE4Vc8FTUZ0X-220">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-216" target="kUdsLUoSPE4Vc8FTUZ0X-222">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-216" target="kUdsLUoSPE4Vc8FTUZ0X-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-216" value="专家子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="7220" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-218" target="kUdsLUoSPE4Vc8FTUZ0X-222">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-218" target="kUdsLUoSPE4Vc8FTUZ0X-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;startArrow=classic;startFill=1;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-218" target="kUdsLUoSPE4Vc8FTUZ0X-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-218" value="建筑知识图谱子系统" style="rounded=1;fontSize=15;align=center;verticalAlign=middle;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="7430" y="17" width="150" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-220" target="kUdsLUoSPE4Vc8FTUZ0X-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-220" value="民用建筑&lt;br style=&quot;font-size: 15px;&quot;&gt;工程子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="7280" y="104" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-222" target="kUdsLUoSPE4Vc8FTUZ0X-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-222" value="交通工程子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="7330" y="104" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-224" target="kUdsLUoSPE4Vc8FTUZ0X-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-224" value="古建筑子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="7380" y="104" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-226" target="kUdsLUoSPE4Vc8FTUZ0X-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-226" value="电力工程子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="7430" y="104" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-228" target="kUdsLUoSPE4Vc8FTUZ0X-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-228" value="水力工程子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="7480" y="104" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-230" value="建筑信息挖掘子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="7325" y="380" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="kUdsLUoSPE4Vc8FTUZ0X-234" target="kUdsLUoSPE4Vc8FTUZ0X-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUdsLUoSPE4Vc8FTUZ0X-234" value="建筑信息模型" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="7340" y="330" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
