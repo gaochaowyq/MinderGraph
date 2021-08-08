@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-08T02:49:28.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="3XZV7Vpb2R63V3RSmw_1" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-08T02:49:42.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="He-tqJcDZ-sIeQTgJdeS" version="14.9.2" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
     <mxGraphModel dx="3970" dy="1722" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2066,7 +2066,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VwWy1rsFRDLzqEZKDtYC-183" value="交互控制子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="6630" y="1600" width="30" height="190" as="geometry" />
+          <mxGeometry x="6580" y="1600" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="VwWy1rsFRDLzqEZKDtYC-185" value="日照模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6280" y="1860" width="15" height="200" as="geometry" />
@@ -2090,19 +2090,19 @@
           <mxGeometry x="6400" y="1860" width="15" height="200" as="geometry" />
         </mxCell>
         <mxCell id="VwWy1rsFRDLzqEZKDtYC-201" value="远程控制模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6600" y="1860" width="15" height="200" as="geometry" />
+          <mxGeometry x="6550" y="1860" width="15" height="200" as="geometry" />
         </mxCell>
         <mxCell id="VwWy1rsFRDLzqEZKDtYC-203" value="通用控制模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6620" y="1860" width="15" height="200" as="geometry" />
+          <mxGeometry x="6570" y="1860" width="15" height="200" as="geometry" />
         </mxCell>
         <mxCell id="VwWy1rsFRDLzqEZKDtYC-205" value="V/R控制模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6640" y="1860" width="15" height="200" as="geometry" />
+          <mxGeometry x="6590" y="1860" width="15" height="200" as="geometry" />
         </mxCell>
         <mxCell id="VwWy1rsFRDLzqEZKDtYC-207" value="A/R&lt;br&gt;控制模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6660" y="1860" width="15" height="200" as="geometry" />
+          <mxGeometry x="6610" y="1860" width="15" height="200" as="geometry" />
         </mxCell>
         <mxCell id="VwWy1rsFRDLzqEZKDtYC-209" value="眼动控制模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6680" y="1860" width="15" height="200" as="geometry" />
+          <mxGeometry x="6630" y="1860" width="15" height="200" as="geometry" />
         </mxCell>
         <mxCell id="VwWy1rsFRDLzqEZKDtYC-213" value="A&lt;br&gt;P&lt;br&gt;E&lt;br&gt;X&lt;br&gt;模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6430" y="1860" width="15" height="200" as="geometry" />
