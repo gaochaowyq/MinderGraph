@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T23:26:19.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="b6mNhIg_9QxcYN5qjHrQ" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-09T23:48:21.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="Az9gF9kwbvd9ehorNE4H" version="14.9.5" type="github">
   <diagram id="X45F6iHZQrVJbvX49tsV" name="Page-1">
-    <mxGraphModel dx="2305" dy="1100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2003" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2038,9 +2038,6 @@
         <mxCell id="VwWy1rsFRDLzqEZKDtYC-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="VwWy1rsFRDLzqEZKDtYC-179" target="VwWy1rsFRDLzqEZKDtYC-215" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VwWy1rsFRDLzqEZKDtYC-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="VwWy1rsFRDLzqEZKDtYC-179" target="VwWy1rsFRDLzqEZKDtYC-216" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VwWy1rsFRDLzqEZKDtYC-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VwWy1rsFRDLzqEZKDtYC-179" target="VwWy1rsFRDLzqEZKDtYC-217" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2109,9 +2106,6 @@
         </mxCell>
         <mxCell id="VwWy1rsFRDLzqEZKDtYC-215" value="约束模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6470" y="1860" width="15" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="VwWy1rsFRDLzqEZKDtYC-216" value="破坏模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="6490" y="1860" width="15" height="200" as="geometry" />
         </mxCell>
         <mxCell id="VwWy1rsFRDLzqEZKDtYC-217" value="阻尼与阻力模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6510" y="1860" width="15" height="200" as="geometry" />
@@ -2620,6 +2614,9 @@
           <mxGeometry x="7162" y="3983" width="186" height="42" as="geometry" />
         </mxCell>
         <mxCell id="STlKpX3ndPHv0IgX5oZA-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="STlKpX3ndPHv0IgX5oZA-90" target="STlKpX3ndPHv0IgX5oZA-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="STlKpX3ndPHv0IgX5oZA-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="STlKpX3ndPHv0IgX5oZA-90" target="STlKpX3ndPHv0IgX5oZA-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="STlKpX3ndPHv0IgX5oZA-90" value="专家子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
