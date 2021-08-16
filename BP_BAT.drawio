@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T22:27:02.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="8CdkfvERW_e9DD6FSG9o" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T22:27:52.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="55t0Izlk8gnG-SmK2VUm" version="14.9.5" type="github">
   <diagram id="MgygslrTmQnIvuTTrmRZ" name="Page-1">
-    <mxGraphModel dx="1293" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1521" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,6 +35,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sz0qDTGmKt2krswzqvD6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sz0qDTGmKt2krswzqvD6-4" target="sz0qDTGmKt2krswzqvD6-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sz0qDTGmKt2krswzqvD6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sz0qDTGmKt2krswzqvD6-4" target="sz0qDTGmKt2krswzqvD6-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sz0qDTGmKt2krswzqvD6-4" value="建筑信息数据销售" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -80,6 +83,9 @@
         </mxCell>
         <mxCell id="sz0qDTGmKt2krswzqvD6-30" value="数据发部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="620" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sz0qDTGmKt2krswzqvD6-31" value="军队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
