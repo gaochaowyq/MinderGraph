@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T15:05:03.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="_PLAnaN6SN663z6hKaCQ" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-11T15:07:22.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="VN-cs0enu2ik3p9zf0O8" version="14.9.8" type="github">
   <diagram id="EYx7yRkDoNkbsDe8O6uX" name="Page-1">
     <mxGraphModel dx="1185" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,6 +78,21 @@
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-16" value="装饰材料" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="800" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-246" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-17" target="9SA-EKRpE0z2929X97Th-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-247" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-17" target="9SA-EKRpE0z2929X97Th-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-17" target="9SA-EKRpE0z2929X97Th-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-17" target="9SA-EKRpE0z2929X97Th-223">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-17" target="9SA-EKRpE0z2929X97Th-250">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-17" value="其它材料1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1300" width="120" height="60" as="geometry" />
@@ -510,7 +525,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-175" value="石膏" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1420" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-177" target="9SA-EKRpE0z2929X97Th-182">
           <mxGeometry relative="1" as="geometry" />
@@ -697,6 +712,27 @@
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-242" value="提高措施" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1344" y="1990" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-250" target="9SA-EKRpE0z2929X97Th-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-250" target="9SA-EKRpE0z2929X97Th-252">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-250" value="砂浆" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="2100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-251" value="保水性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="2080" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-252" value="抹灰砂浆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="2160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-255" value="改善措施" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="2080" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-256" value="各层次" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="2160" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
