@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T03:29:28.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="1lzEKaEW5S8WKyH7smD4" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-11T14:31:21.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="uKfxN2kgc2qqTFoZT604" version="14.9.8" type="github">
   <diagram id="EYx7yRkDoNkbsDe8O6uX" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,17 +25,23 @@
         <mxCell id="9SA-EKRpE0z2929X97Th-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-13" target="9SA-EKRpE0z2929X97Th-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9SA-EKRpE0z2929X97Th-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-13" target="9SA-EKRpE0z2929X97Th-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9SA-EKRpE0z2929X97Th-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9SA-EKRpE0z2929X97Th-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="-310" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9SA-EKRpE0z2929X97Th-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-13" target="9SA-EKRpE0z2929X97Th-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9SA-EKRpE0z2929X97Th-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9SA-EKRpE0z2929X97Th-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="-310" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9SA-EKRpE0z2929X97Th-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-13" target="9SA-EKRpE0z2929X97Th-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9SA-EKRpE0z2929X97Th-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9SA-EKRpE0z2929X97Th-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="-310" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-13" value="材料的基本性质" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="800" y="-140" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-14" value="墙体材料" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="800" y="50" width="120" height="60" as="geometry" />
@@ -56,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-19" value="材料的分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-340" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-20" target="9SA-EKRpE0z2929X97Th-29">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-20" value="材料的结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-250" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="-430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-21" target="9SA-EKRpE0z2929X97Th-33">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-21" value="材料的物理性质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-22" target="9SA-EKRpE0z2929X97Th-41">
           <mxGeometry relative="1" as="geometry" />
@@ -92,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-22" value="材料的力学性质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-27" target="9SA-EKRpE0z2929X97Th-47">
           <mxGeometry relative="1" as="geometry" />
@@ -104,34 +110,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-27" value="常见材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1174" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-29" value="密实性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-250" width="120" height="20" as="geometry" />
+          <mxGeometry x="1170" y="-430" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-30" value="多孔性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-210" width="120" height="20" as="geometry" />
+          <mxGeometry x="1170" y="-390" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-33" value="重量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-160" width="120" height="20" as="geometry" />
+          <mxGeometry x="1170" y="-300" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-34" value="空气" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-120" width="120" height="20" as="geometry" />
+          <mxGeometry x="1170" y="-260" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-35" value="水" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-80" width="120" height="20" as="geometry" />
+          <mxGeometry x="1170" y="-220" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-36" value="导热性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-50" width="120" height="20" as="geometry" />
+          <mxGeometry x="1170" y="-180" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-41" value="强度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-10" width="120" height="20" as="geometry" />
+          <mxGeometry x="1170" y="-130" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-42" value="刚度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="30" width="120" height="20" as="geometry" />
+          <mxGeometry x="1170" y="-90" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-43" value="硬度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="60" width="120" height="20" as="geometry" />
+          <mxGeometry x="1170" y="-60" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-47" target="9SA-EKRpE0z2929X97Th-53">
           <mxGeometry relative="1" as="geometry" />
@@ -140,7 +146,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-47" value="无机材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="-590" width="120" height="20" as="geometry" />
+          <mxGeometry x="1344" y="-680" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-48" target="9SA-EKRpE0z2929X97Th-56">
           <mxGeometry relative="1" as="geometry" />
@@ -152,25 +158,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-48" value="有机材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="-500" width="120" height="20" as="geometry" />
+          <mxGeometry x="1344" y="-590" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-49" value="复合材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="-425" width="120" height="20" as="geometry" />
+          <mxGeometry x="1344" y="-515" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-53" value="非金属材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="-620" width="120" height="20" as="geometry" />
+          <mxGeometry x="1534" y="-710" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-54" value="金属材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="-580" width="120" height="20" as="geometry" />
+          <mxGeometry x="1534" y="-670" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-56" value="植物材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="-530" width="120" height="20" as="geometry" />
+          <mxGeometry x="1534" y="-620" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-57" value="沥青材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="-490" width="120" height="20" as="geometry" />
+          <mxGeometry x="1534" y="-580" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-58" value="合成高分子材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="-455" width="120" height="20" as="geometry" />
+          <mxGeometry x="1534" y="-545" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
