@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T14:36:21.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="bo-FUftRt55g98VlJoUw" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-11T14:51:06.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="ieIy_jyq0G_On78NNtAf" version="14.9.8" type="github">
   <diagram id="EYx7yRkDoNkbsDe8O6uX" name="Page-1">
-    <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,14 +13,11 @@
         <mxCell id="9SA-EKRpE0z2929X97Th-1" value="建筑材料与构造" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9SA-EKRpE0z2929X97Th-2" value="建筑构造" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-3" value="建筑材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-4" value="建筑构造" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-13" target="9SA-EKRpE0z2929X97Th-19">
           <mxGeometry relative="1" as="geometry" />
@@ -52,17 +49,41 @@
         <mxCell id="9SA-EKRpE0z2929X97Th-14" value="墙体材料" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="800" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-15" target="9SA-EKRpE0z2929X97Th-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-15" target="9SA-EKRpE0z2929X97Th-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-15" target="9SA-EKRpE0z2929X97Th-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-15" target="9SA-EKRpE0z2929X97Th-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-15" target="9SA-EKRpE0z2929X97Th-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-15" value="建筑钢材" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="800" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-16" target="9SA-EKRpE0z2929X97Th-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-16" target="9SA-EKRpE0z2929X97Th-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-16" target="9SA-EKRpE0z2929X97Th-166">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-16" value="装饰材料" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="800" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-17" value="其它材料1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-18" value="其它材料2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-19" target="9SA-EKRpE0z2929X97Th-27">
           <mxGeometry relative="1" as="geometry" />
@@ -243,6 +264,235 @@
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-84" value="蒸压加气混凝土砌块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="110" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-87" target="9SA-EKRpE0z2929X97Th-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-87" target="9SA-EKRpE0z2929X97Th-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-87" target="9SA-EKRpE0z2929X97Th-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-87" target="9SA-EKRpE0z2929X97Th-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-87" value="力学性能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-88" value="抗拉性能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-89" value="冷弯性能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-90" value="冲击性能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-91" value="耐疲劳性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="340" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-96" target="9SA-EKRpE0z2929X97Th-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-96" target="9SA-EKRpE0z2929X97Th-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-96" target="9SA-EKRpE0z2929X97Th-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-96" target="9SA-EKRpE0z2929X97Th-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-96" target="9SA-EKRpE0z2929X97Th-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-96" target="9SA-EKRpE0z2929X97Th-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-96" value="化学成分" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-97" value="碳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="390" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-98" value="硅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="420" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-99" value="锰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="450" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-100" value="硫" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="480" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-101" value="磷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="510" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-112" target="9SA-EKRpE0z2929X97Th-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-112" target="9SA-EKRpE0z2929X97Th-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-112" value="加工处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-113" value="冷加工" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="545" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-114" value="热加工" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="575" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-117" target="9SA-EKRpE0z2929X97Th-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-117" target="9SA-EKRpE0z2929X97Th-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-117" value="常用建筑钢材" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-118" value="钢筋" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="635" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-119" value="型钢" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="665" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-128" target="9SA-EKRpE0z2929X97Th-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-128" target="9SA-EKRpE0z2929X97Th-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-128" value="钢材防锈防火" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-129" value="防锈漆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="725" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-130" value="防火涂料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="755" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-132" target="9SA-EKRpE0z2929X97Th-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-132" target="9SA-EKRpE0z2929X97Th-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-132" target="9SA-EKRpE0z2929X97Th-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-132" value="石材" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-133" target="9SA-EKRpE0z2929X97Th-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-133" target="9SA-EKRpE0z2929X97Th-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-133" value="玻璃" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-134" target="9SA-EKRpE0z2929X97Th-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-134" target="9SA-EKRpE0z2929X97Th-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-134" value="花岗石" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="800" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-135" target="9SA-EKRpE0z2929X97Th-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-135" target="9SA-EKRpE0z2929X97Th-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-135" value="大理石" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="850" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-136" target="9SA-EKRpE0z2929X97Th-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-136" value="石材放射性分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="900" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-138" value="性质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="785" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-139" value="适用环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="815" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-140" value="性质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="840" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-141" value="适用环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="870" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-149" value="A、B、C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="900" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-152" target="9SA-EKRpE0z2929X97Th-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-152" target="9SA-EKRpE0z2929X97Th-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-152" value="安全玻璃" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="965" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-153" target="9SA-EKRpE0z2929X97Th-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-153" target="9SA-EKRpE0z2929X97Th-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-153" value="绝热玻璃" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1015" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-155" value="钢化玻璃" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="942.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-156" value="夹层玻璃" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="972.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-157" value="镀膜玻璃" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="1007.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-158" value="吸热玻璃" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="1037.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-166" target="9SA-EKRpE0z2929X97Th-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-166" target="9SA-EKRpE0z2929X97Th-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-166" target="9SA-EKRpE0z2929X97Th-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-166" value="建筑涂料" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1095" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-167" value="溶剂型涂料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1065" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-168" value="水溶性涂料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1115" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9SA-EKRpE0z2929X97Th-169" value="乳胶涂料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1160" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
