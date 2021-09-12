@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T03:05:16.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.44" etag="WGuk5ju9yiPkTRA_cGaI" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-12T03:07:45.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.44" etag="lxLQ_TtywcWrvl7Y0WWd" version="14.9.8" type="github">
   <diagram id="EYx7yRkDoNkbsDe8O6uX" name="Page-1">
     <mxGraphModel dx="1185" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,6 +35,9 @@
           <mxGeometry x="580" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_V6tOKEWzQAHCG0zDe0N-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-4" target="_V6tOKEWzQAHCG0zDe0N-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-4" target="_V6tOKEWzQAHCG0zDe0N-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-4" value="建筑构造" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1015,6 +1018,33 @@
         </mxCell>
         <mxCell id="_V6tOKEWzQAHCG0zDe0N-98" value="27" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="3940" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-101" target="_V6tOKEWzQAHCG0zDe0N-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-101" target="_V6tOKEWzQAHCG0zDe0N-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-101" target="_V6tOKEWzQAHCG0zDe0N-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-101" target="_V6tOKEWzQAHCG0zDe0N-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-101" value="地基基础" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="4430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-103" value="基础埋深" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="981" y="4320" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-105" value="基础种类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="981" y="4370" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-106" value="人防地下室" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="981" y="4420" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-107" value="地下室防水设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="981" y="4470" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
