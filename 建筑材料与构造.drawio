@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T02:56:00.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.44" etag="yCWFO_QVwuosn47mzFNK" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-12T03:04:11.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.44" etag="WzMtLc3N9p1zvhY7dMSN" version="14.9.8" type="github">
   <diagram id="EYx7yRkDoNkbsDe8O6uX" name="Page-1">
-    <mxGraphModel dx="2031" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-3" value="建筑材料" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SA-EKRpE0z2929X97Th-4" target="_V6tOKEWzQAHCG0zDe0N-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SA-EKRpE0z2929X97Th-4" value="建筑构造" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="4220" width="120" height="60" as="geometry" />
@@ -937,6 +940,81 @@
         </mxCell>
         <mxCell id="_V6tOKEWzQAHCG0zDe0N-55" value="隔声质量定律" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1344" y="3100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-71" target="_V6tOKEWzQAHCG0zDe0N-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-71" target="_V6tOKEWzQAHCG0zDe0N-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-71" target="_V6tOKEWzQAHCG0zDe0N-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-71" target="_V6tOKEWzQAHCG0zDe0N-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-71" target="_V6tOKEWzQAHCG0zDe0N-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-71" value="建筑分类与建筑等级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="4040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-72" target="_V6tOKEWzQAHCG0zDe0N-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-72" value="民用建筑分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="981" y="3910" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-74" value="耐久等级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="981" y="3980" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-75" target="_V6tOKEWzQAHCG0zDe0N-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-75" target="_V6tOKEWzQAHCG0zDe0N-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-75" value="耐火等级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="981" y="4070" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-76" value="地上建筑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="4050" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-77" value="地下建筑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="4090" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-80" target="_V6tOKEWzQAHCG0zDe0N-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-80" target="_V6tOKEWzQAHCG0zDe0N-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-80" value="材料的燃烧性能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="981" y="4180" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-81" value="分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="4160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-82" value="常用材料的耐火极限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="4200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-85" value="防火构造" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="981" y="4240" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-95" target="_V6tOKEWzQAHCG0zDe0N-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V6tOKEWzQAHCG0zDe0N-95" target="_V6tOKEWzQAHCG0zDe0N-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-95" value="建筑分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="3910" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-97" value="24" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="3850" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V6tOKEWzQAHCG0zDe0N-98" value="27" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="3940" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
