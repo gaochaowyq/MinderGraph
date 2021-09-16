@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T15:53:19.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="z80uvW_sA4tm_AQMzJlT" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T15:53:31.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="GAXWdH6PdlE5cJBER44q" version="15.1.4" type="github">
   <diagram id="8f4IC6x40EGdw_nBkvUM" name="Page-1">
     <mxGraphModel dx="1640" dy="1623" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
         </mxCell>
         <mxCell id="Q-wspTCD_tYuOhOlFXK1-11" value="注册存储空间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q-wspTCD_tYuOhOlFXK1-10">
           <mxGeometry x="0.7947" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="37" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q-wspTCD_tYuOhOlFXK1-2" value="委托我们为其创建云存储空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
