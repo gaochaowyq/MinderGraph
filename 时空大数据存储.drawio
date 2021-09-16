@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T00:00:11.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="omS1fpbxPYQofG5CppY5" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T00:01:29.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="CHHyYZAFjuXc8vfyFUoh" version="14.9.5" type="github">
   <diagram id="8f4IC6x40EGdw_nBkvUM" name="Page-1">
     <mxGraphModel dx="1627" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,6 +29,12 @@
         </mxCell>
         <mxCell id="cHxjSx5LAsx3Hu0MT63w-8" value="&lt;h1&gt;实际存储体&lt;/h1&gt;&lt;p&gt;实际数据存储空间由数据持有者建设、购买、管理、或由我们来托管。确保数据在用户的手里，不集中存储，保证数据安全&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="40" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cHxjSx5LAsx3Hu0MT63w-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cHxjSx5LAsx3Hu0MT63w-10" target="cHxjSx5LAsx3Hu0MT63w-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHxjSx5LAsx3Hu0MT63w-10" value="&lt;h1&gt;数据使用权限&lt;/h1&gt;&lt;p&gt;数据上传时，可控制数据的读、写、改与共享权限&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
