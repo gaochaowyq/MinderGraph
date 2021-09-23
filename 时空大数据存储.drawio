@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T16:49:19.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="-ZKKtrh2wNKVMtR0sq9K" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T03:05:49.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="iNXts1ouEBIfKqXD007e" version="14.8.6" type="github">
   <diagram id="8f4IC6x40EGdw_nBkvUM" name="Page-1">
-    <mxGraphModel dx="2012" dy="1831" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1758" dy="1631" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,46 +96,49 @@
         <mxCell id="cHxjSx5LAsx3Hu0MT63w-33" value="&lt;h1&gt;考虑有偿服务&lt;/h1&gt;&lt;p&gt;考虑数据服务的有偿转嫁（现阶段可预留）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Q-wspTCD_tYuOhOlFXK1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q-wspTCD_tYuOhOlFXK1-1" target="Q-wspTCD_tYuOhOlFXK1-3">
+        <mxCell id="Q-wspTCD_tYuOhOlFXK1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Q-wspTCD_tYuOhOlFXK1-1" target="Q-wspTCD_tYuOhOlFXK1-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q-wspTCD_tYuOhOlFXK1-1" value="数据持有者自己选择并创建云存储空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q-wspTCD_tYuOhOlFXK1-1" value="数据持有者自己选择并创建云存储空间" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-263" y="627" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q-wspTCD_tYuOhOlFXK1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q-wspTCD_tYuOhOlFXK1-2" target="Q-wspTCD_tYuOhOlFXK1-3">
+        <mxCell id="Q-wspTCD_tYuOhOlFXK1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Q-wspTCD_tYuOhOlFXK1-2" target="Q-wspTCD_tYuOhOlFXK1-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q-wspTCD_tYuOhOlFXK1-11" value="注册存储空间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q-wspTCD_tYuOhOlFXK1-10">
+        <mxCell id="Q-wspTCD_tYuOhOlFXK1-11" value="注册存储空间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Q-wspTCD_tYuOhOlFXK1-10" vertex="1" connectable="0">
           <mxGeometry x="0.7947" y="1" relative="1" as="geometry">
             <mxPoint x="-22" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q-wspTCD_tYuOhOlFXK1-2" value="委托我们为其创建云存储空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q-wspTCD_tYuOhOlFXK1-2" value="委托我们为其创建云存储空间" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-264" y="725" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q-wspTCD_tYuOhOlFXK1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-wspTCD_tYuOhOlFXK1-3" target="Q-wspTCD_tYuOhOlFXK1-8">
+        <mxCell id="Q-wspTCD_tYuOhOlFXK1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q-wspTCD_tYuOhOlFXK1-3" target="Q-wspTCD_tYuOhOlFXK1-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q-wspTCD_tYuOhOlFXK1-3" value="创建时空大数据资源池账户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q-wspTCD_tYuOhOlFXK1-3" value="创建时空大数据资源池账户" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="52" y="669" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q-wspTCD_tYuOhOlFXK1-8" value="提供统一的数据管理接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q-wspTCD_tYuOhOlFXK1-8" value="提供统一的数据管理接口" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="246" y="669" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q-wspTCD_tYuOhOlFXK1-13" value="&lt;h1&gt;统一权限&lt;/h1&gt;&lt;p&gt;保持资源池与存储空间有相同的权限，当权限修改后可自动识别&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q-wspTCD_tYuOhOlFXK1-13" value="&lt;h1&gt;统一权限&lt;/h1&gt;&lt;p&gt;保持资源池与存储空间有相同的权限，当权限修改后可自动识别&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-262" y="463" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Q-wspTCD_tYuOhOlFXK1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-wspTCD_tYuOhOlFXK1-15" target="Q-wspTCD_tYuOhOlFXK1-8">
+        <mxCell id="Q-wspTCD_tYuOhOlFXK1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q-wspTCD_tYuOhOlFXK1-15" target="Q-wspTCD_tYuOhOlFXK1-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q-wspTCD_tYuOhOlFXK1-15" value="&lt;h1&gt;时空元数据&lt;/h1&gt;&lt;p&gt;对数据进行时空标记&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q-wspTCD_tYuOhOlFXK1-15" value="&lt;h1&gt;时空元数据&lt;/h1&gt;&lt;p&gt;对数据进行时空标记&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="247" y="514" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q-wspTCD_tYuOhOlFXK1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-wspTCD_tYuOhOlFXK1-17" target="cHxjSx5LAsx3Hu0MT63w-2">
+        <mxCell id="Q-wspTCD_tYuOhOlFXK1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q-wspTCD_tYuOhOlFXK1-17" target="cHxjSx5LAsx3Hu0MT63w-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q-wspTCD_tYuOhOlFXK1-17" value="&lt;h1&gt;数据类型&lt;/h1&gt;&lt;p&gt;GIS、BIM、IOT、文本、图片、影像&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q-wspTCD_tYuOhOlFXK1-17" value="&lt;h1&gt;数据类型&lt;/h1&gt;&lt;p&gt;GIS、BIM、IOT、文本、图片、影像&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="498" y="375" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="873" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
