@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T03:05:49.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="iNXts1ouEBIfKqXD007e" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T03:16:26.246Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="Bpu0cttelwuIlL3kg45H" version="14.8.6" type="github">
   <diagram id="8f4IC6x40EGdw_nBkvUM" name="Page-1">
     <mxGraphModel dx="1758" dy="1631" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,8 +137,56 @@
         <mxCell id="Q-wspTCD_tYuOhOlFXK1-17" value="&lt;h1&gt;数据类型&lt;/h1&gt;&lt;p&gt;GIS、BIM、IOT、文本、图片、影像&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="498" y="375" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FJOLnP_yj5dmawIFLdg9-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="873" width="60" height="80" as="geometry" />
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJOLnP_yj5dmawIFLdg9-2" target="FJOLnP_yj5dmawIFLdg9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-2" value="国内外开源资源" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="967" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-4" value="API gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="146" y="1294" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-5" value="时空大数据通用平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="148" y="1266" width="111" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-7" value="验证服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-109" y="990" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-163" y="1175" width="63" height="393" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-10" value="阿里云存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="FJOLnP_yj5dmawIFLdg9-27">
+          <mxGeometry width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-12" value="华为云存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="FJOLnP_yj5dmawIFLdg9-27">
+          <mxGeometry y="100" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-13" value="腾讯云存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="FJOLnP_yj5dmawIFLdg9-27">
+          <mxGeometry y="208" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-14" value="其它云存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="FJOLnP_yj5dmawIFLdg9-27">
+          <mxGeometry x="3" y="313" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-435" y="1182" width="126" height="367" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-16" value="地理信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FJOLnP_yj5dmawIFLdg9-28">
+          <mxGeometry width="123.9344262295082" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-17" value="建筑信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FJOLnP_yj5dmawIFLdg9-28">
+          <mxGeometry y="100" width="123.9344262295082" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-18" value="人文信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FJOLnP_yj5dmawIFLdg9-28">
+          <mxGeometry x="2.0655737704918034" y="200" width="123.9344262295082" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-20" value="IOT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FJOLnP_yj5dmawIFLdg9-28">
+          <mxGeometry x="2.0655737704918034" y="307" width="123.9344262295082" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJOLnP_yj5dmawIFLdg9-29" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-304" y="1377" as="sourcePoint" />
+            <mxPoint x="-166" y="1377" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
