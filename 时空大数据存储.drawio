@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T14:15:48.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="QhHNPPwGPRw4vKmldaIX" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T14:18:10.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="YBBi99y_0P-vrCFrvCln" version="15.5.0" type="github">
   <diagram id="8f4IC6x40EGdw_nBkvUM" name="Page-1">
-    <mxGraphModel dx="1560" dy="1575" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1890" dy="1757" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -282,8 +282,8 @@
         <mxCell id="rMtVxVCQ7nUGHyIWK-qa-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rMtVxVCQ7nUGHyIWK-qa-13" target="rMtVxVCQ7nUGHyIWK-qa-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rMtVxVCQ7nUGHyIWK-qa-13" value="文件数据 资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="476" y="1864" width="120" height="60" as="geometry" />
+        <mxCell id="rMtVxVCQ7nUGHyIWK-qa-13" value="文件数据 资源/阿里OSS、百度、华为、自建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="477" y="1864" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rMtVxVCQ7nUGHyIWK-qa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rMtVxVCQ7nUGHyIWK-qa-14" target="rMtVxVCQ7nUGHyIWK-qa-2">
           <mxGeometry relative="1" as="geometry" />
@@ -294,8 +294,11 @@
         <mxCell id="rMtVxVCQ7nUGHyIWK-qa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rMtVxVCQ7nUGHyIWK-qa-15" target="rMtVxVCQ7nUGHyIWK-qa-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rMtVxVCQ7nUGHyIWK-qa-15" value="算法资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="478" y="1675" width="120" height="60" as="geometry" />
+        <mxCell id="rMtVxVCQ7nUGHyIWK-qa-15" value="算法资源/某个服务器以API形式发布的资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="478" y="1641" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rMtVxVCQ7nUGHyIWK-qa-20" value="所有的资源均又资源持有者自行创建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="651" y="1641" width="40" height="277" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
