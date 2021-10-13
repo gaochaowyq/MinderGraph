@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T07:50:50.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="CthiskLx_Cuz6beq8MJL" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T07:28:08.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="9grK8kvqZj3_6nTsc9iW" version="15.5.0" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
-    <mxGraphModel dx="-11187" dy="3254" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-10815" dy="3462" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2512,14 +2512,26 @@
         <mxCell id="rbJ7XUaDI8uLMKbT-fbn-69" value="比对/Comparison" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="18770" y="-2100" width="130" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="dgpjXrj1byvi2zT8I0v_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbJ7XUaDI8uLMKbT-fbn-74" target="dgpjXrj1byvi2zT8I0v_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rbJ7XUaDI8uLMKbT-fbn-74" value="资格/Qualifications" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="18770" y="-2050" width="130" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="dgpjXrj1byvi2zT8I0v_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbJ7XUaDI8uLMKbT-fbn-75" target="dgpjXrj1byvi2zT8I0v_-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rbJ7XUaDI8uLMKbT-fbn-75" value="能力/Availability" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="18770" y="-2030" width="130" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="dgpjXrj1byvi2zT8I0v_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbJ7XUaDI8uLMKbT-fbn-76" target="dgpjXrj1byvi2zT8I0v_-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rbJ7XUaDI8uLMKbT-fbn-76" value="实施能力Capacity" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="18770" y="-1990" width="130" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="dgpjXrj1byvi2zT8I0v_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbJ7XUaDI8uLMKbT-fbn-77" target="dgpjXrj1byvi2zT8I0v_-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rbJ7XUaDI8uLMKbT-fbn-77" value="稳定性/Stability" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="18770" y="-2010" width="130" height="15" as="geometry" />
@@ -2679,6 +2691,18 @@
         </mxCell>
         <mxCell id="dgpjXrj1byvi2zT8I0v_-17" value="EXCEL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="18960" y="-2080" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="dgpjXrj1byvi2zT8I0v_-19" value="PDF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18960" y="-2050" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="dgpjXrj1byvi2zT8I0v_-21" value="PDF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18960" y="-2030" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="dgpjXrj1byvi2zT8I0v_-23" value="PDF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18960" y="-2010" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="dgpjXrj1byvi2zT8I0v_-25" value="PDF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18960" y="-1990" width="120" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
