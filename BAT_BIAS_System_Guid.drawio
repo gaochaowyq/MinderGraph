@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T07:13:44.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="0KRcmDpeYAnKihUA7dzj" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T07:24:46.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="QjzxtCCnfDTv9rYt1f2k" version="15.5.5" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-10815" dy="3462" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2825,13 +2825,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B5pIVID4EdulD1Sd4BtY-40" value="土地初判" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20110" y="-2140" width="120" height="60" as="geometry" />
+          <mxGeometry x="20110" y="-2250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B5pIVID4EdulD1Sd4BtY-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B5pIVID4EdulD1Sd4BtY-41" target="B5pIVID4EdulD1Sd4BtY-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B5pIVID4EdulD1Sd4BtY-41" value="土地深判" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20110" y="-2060" width="120" height="60" as="geometry" />
+          <mxGeometry x="20110" y="-2170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5pIVID4EdulD1Sd4BtY-44" value="寻找合作资金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20110" y="-2080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5pIVID4EdulD1Sd4BtY-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B5pIVID4EdulD1Sd4BtY-45" target="B5pIVID4EdulD1Sd4BtY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5pIVID4EdulD1Sd4BtY-45" value="投标、摘牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20110" y="-1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5pIVID4EdulD1Sd4BtY-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B5pIVID4EdulD1Sd4BtY-46" target="B5pIVID4EdulD1Sd4BtY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5pIVID4EdulD1Sd4BtY-46" value="签订土地出让合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20110" y="-1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5pIVID4EdulD1Sd4BtY-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B5pIVID4EdulD1Sd4BtY-49" target="B5pIVID4EdulD1Sd4BtY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5pIVID4EdulD1Sd4BtY-49" value="取得用地规划许可证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20110" y="-1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5pIVID4EdulD1Sd4BtY-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B5pIVID4EdulD1Sd4BtY-51" target="B5pIVID4EdulD1Sd4BtY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5pIVID4EdulD1Sd4BtY-51" value="确权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20110" y="-1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5pIVID4EdulD1Sd4BtY-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B5pIVID4EdulD1Sd4BtY-52" target="B5pIVID4EdulD1Sd4BtY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5pIVID4EdulD1Sd4BtY-52" value="办理土地证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20110" y="-1670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
