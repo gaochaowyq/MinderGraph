@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T09:28:32.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="JoCsNpp233XKeUHn_Oev" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T06:46:55.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="uLOccQyuHb5x_4Wa0vc4" version="15.6.6" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
-    <mxGraphModel dx="-11019" dy="3309" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-10815" dy="3414" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1727,14 +1727,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IXm18n1mFBKhGo8A_hol-59" value="时空大数据通用平台总体架构" style="swimlane;" parent="1" vertex="1">
+        <mxCell id="IXm18n1mFBKhGo8A_hol-59" value="建筑时空大数据平台总体架构" style="swimlane;fontColor=default;fillColor=default;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="13670" y="-2560" width="1030" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="ByS147ivbjnUWMiHn2xy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="IXm18n1mFBKhGo8A_hol-59" source="IXm18n1mFBKhGo8A_hol-96" target="ByS147ivbjnUWMiHn2xy-16" edge="1">
+        <mxCell id="ByS147ivbjnUWMiHn2xy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="IXm18n1mFBKhGo8A_hol-59" source="IXm18n1mFBKhGo8A_hol-96" target="ByS147ivbjnUWMiHn2xy-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="260" />
-              <mxPoint x="857" y="260" />
+              <mxPoint x="885" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1743,16 +1743,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K0pFGaQCrTKWIElV1Det-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="IXm18n1mFBKhGo8A_hol-59" source="IXm18n1mFBKhGo8A_hol-96" target="K0pFGaQCrTKWIElV1Det-2" edge="1">
+        <mxCell id="K0pFGaQCrTKWIElV1Det-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="IXm18n1mFBKhGo8A_hol-59" source="IXm18n1mFBKhGo8A_hol-96" target="K0pFGaQCrTKWIElV1Det-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="963" y="560" />
+              <mxPoint x="994" y="155" />
+              <mxPoint x="994" y="560" />
               <mxPoint x="230" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IXm18n1mFBKhGo8A_hol-96" value="工作平台" style="swimlane;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
-          <mxGeometry x="610" y="90" width="160" height="130" as="geometry" />
+        <mxCell id="IXm18n1mFBKhGo8A_hol-96" value="建筑时空大数据应用系统" style="swimlane;fontColor=default;fillColor=default;strokeColor=default;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
+          <mxGeometry x="610" y="90" width="177" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ByS147ivbjnUWMiHn2xy-21" value="二三维一体化可视化平台B/S" style="rounded=1;whiteSpace=wrap;html=1;" parent="IXm18n1mFBKhGo8A_hol-96" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
@@ -1793,9 +1794,13 @@
         <mxCell id="ByS147ivbjnUWMiHn2xy-5" value="注册服务" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
           <mxGeometry x="350" y="247" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ByS147ivbjnUWMiHn2xy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="IXm18n1mFBKhGo8A_hol-59" source="ByS147ivbjnUWMiHn2xy-12" target="IXm18n1mFBKhGo8A_hol-96" edge="1">
+        <mxCell id="ByS147ivbjnUWMiHn2xy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="IXm18n1mFBKhGo8A_hol-59" source="ByS147ivbjnUWMiHn2xy-12" target="IXm18n1mFBKhGo8A_hol-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="636" y="287.125" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="287" />
+              <mxPoint x="570" y="155" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EGHIt11vX68y-nSGP2xE-2" value="权限、费用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ByS147ivbjnUWMiHn2xy-15" vertex="1" connectable="0">
@@ -1819,20 +1824,19 @@
             <mxPoint x="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K0pFGaQCrTKWIElV1Det-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="IXm18n1mFBKhGo8A_hol-59" source="ByS147ivbjnUWMiHn2xy-12" target="ByS147ivbjnUWMiHn2xy-16" edge="1">
+        <mxCell id="K0pFGaQCrTKWIElV1Det-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="IXm18n1mFBKhGo8A_hol-59" source="ByS147ivbjnUWMiHn2xy-12" target="ByS147ivbjnUWMiHn2xy-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="570" y="287" />
-              <mxPoint x="570" y="392" />
-              <mxPoint x="776" y="392" />
+              <mxPoint x="570" y="378" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ByS147ivbjnUWMiHn2xy-12" value="服务链" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
           <mxGeometry x="460" y="247" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ByS147ivbjnUWMiHn2xy-16" value="可视化展示" style="swimlane;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
-          <mxGeometry x="776" y="307" width="162" height="130" as="geometry" />
+        <mxCell id="ByS147ivbjnUWMiHn2xy-16" value="建筑时空大数据可视化系统" style="swimlane;fillColor=default;strokeColor=default;fontColor=default;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
+          <mxGeometry x="804" y="313" width="183" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ByS147ivbjnUWMiHn2xy-22" value="三维可视化&lt;br&gt;C/S" style="rounded=1;whiteSpace=wrap;html=1;" parent="ByS147ivbjnUWMiHn2xy-16" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
@@ -1852,8 +1856,8 @@
         <mxCell id="ByS147ivbjnUWMiHn2xy-39" value="容器化、微化" style="rounded=1;whiteSpace=wrap;html=1;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
           <mxGeometry x="180" y="145" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EGHIt11vX68y-nSGP2xE-1" value="兼容私有与公有部署" style="rounded=1;whiteSpace=wrap;html=1;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
-          <mxGeometry x="58" y="53" width="274" height="39" as="geometry" />
+        <mxCell id="EGHIt11vX68y-nSGP2xE-1" value="&lt;b&gt;建筑时空大数据资源管理系统&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="IXm18n1mFBKhGo8A_hol-59" vertex="1">
+          <mxGeometry x="58" y="53" width="452" height="39" as="geometry" />
         </mxCell>
         <mxCell id="K0pFGaQCrTKWIElV1Det-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="IXm18n1mFBKhGo8A_hol-59" source="K0pFGaQCrTKWIElV1Det-2" target="ByS147ivbjnUWMiHn2xy-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3421,13 +3425,13 @@
         <mxCell id="h1e03sq2Nyi0_lN9RLsf-199" value="Warranty" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="18580" y="740" width="130" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="uQjAKUatgZ7RStKDAMEn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="uQjAKUatgZ7RStKDAMEn-1" target="uQjAKUatgZ7RStKDAMEn-2">
+        <mxCell id="uQjAKUatgZ7RStKDAMEn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" parent="1" source="uQjAKUatgZ7RStKDAMEn-1" target="uQjAKUatgZ7RStKDAMEn-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uQjAKUatgZ7RStKDAMEn-1" value="UE4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="uQjAKUatgZ7RStKDAMEn-1" value="UE4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="19670" y="-52" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uQjAKUatgZ7RStKDAMEn-2" value="Building_Management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="uQjAKUatgZ7RStKDAMEn-2" value="Building_Management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="19920" y="-51" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
