@@ -1,1 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T12:56:26.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="15.9.6" etag="dkXJe9Y7FIwc3oI4_FEy" type="github"><diagram id="AIJF3Oic7q_McwjvXCk6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-17T13:15:54.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="DqKqy8ZFZSz8J3l3ow2I" version="15.9.6" type="github">
+  <diagram id="AIJF3Oic7q_McwjvXCk6" name="Page-1">
+    <mxGraphModel dx="1897" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-1" target="DEFahgf-sHBPr9w7SOHZ-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="310" />
+              <mxPoint x="170" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-1" value="建筑信息资源节点" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="270" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-2" target="DEFahgf-sHBPr9w7SOHZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-2" value="选一张构件级别的模型图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-4" target="DEFahgf-sHBPr9w7SOHZ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-4" target="DEFahgf-sHBPr9w7SOHZ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-4" target="DEFahgf-sHBPr9w7SOHZ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-4" value="某一专项数据：如幕墙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="195" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-5" target="DEFahgf-sHBPr9w7SOHZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-5" value="材料市场价数据节点" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-9" target="DEFahgf-sHBPr9w7SOHZ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-9" value="A厂家资源节点" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-11" target="DEFahgf-sHBPr9w7SOHZ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-11" value="B厂家资源节点" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-14" target="DEFahgf-sHBPr9w7SOHZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-14" value="建筑信息时空大数据应用系统（BIAS-S）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-25" target="DEFahgf-sHBPr9w7SOHZ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-25" value="智能分析选择的采购方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-35" target="DEFahgf-sHBPr9w7SOHZ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-35" value="A厂家管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-38" target="DEFahgf-sHBPr9w7SOHZ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-38" value="B厂家管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-42" target="DEFahgf-sHBPr9w7SOHZ-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-42" value="建筑信息时空大数据应用系统（BIAS-S）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="860" y="250" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DEFahgf-sHBPr9w7SOHZ-48" target="DEFahgf-sHBPr9w7SOHZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-51" value="厂家推荐" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DEFahgf-sHBPr9w7SOHZ-50">
+          <mxGeometry x="-0.0789" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DEFahgf-sHBPr9w7SOHZ-48" value="多方案比选分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
