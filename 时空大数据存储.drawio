@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T04:02:52.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="NW6-lcEI4P01RHStJBX7" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T04:05:58.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="6N2XUEP3NlHM37sJkZOB" version="16.6.1" type="github">
   <diagram id="8f4IC6x40EGdw_nBkvUM" name="Page-1">
-    <mxGraphModel dx="1289" dy="896" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1637" dy="1090" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -325,11 +325,11 @@
         <mxCell id="V0ouvpXcI6w8bm2sNuBI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V0ouvpXcI6w8bm2sNuBI-8" target="V0ouvpXcI6w8bm2sNuBI-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V0ouvpXcI6w8bm2sNuBI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;" edge="1" parent="1" source="V0ouvpXcI6w8bm2sNuBI-8" target="V0ouvpXcI6w8bm2sNuBI-23">
+        <mxCell id="V0ouvpXcI6w8bm2sNuBI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="V0ouvpXcI6w8bm2sNuBI-8" target="V0ouvpXcI6w8bm2sNuBI-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2320" y="1127" />
-              <mxPoint x="2320" y="1264" />
+              <mxPoint x="2320" y="1203" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -338,6 +338,19 @@
         </mxCell>
         <mxCell id="V0ouvpXcI6w8bm2sNuBI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V0ouvpXcI6w8bm2sNuBI-9" target="V0ouvpXcI6w8bm2sNuBI-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ouvpXcI6w8bm2sNuBI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V0ouvpXcI6w8bm2sNuBI-9" target="V0ouvpXcI6w8bm2sNuBI-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2250" y="1369" />
+              <mxPoint x="2798" y="1369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V0ouvpXcI6w8bm2sNuBI-38" value="RESTAPI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V0ouvpXcI6w8bm2sNuBI-37">
+          <mxGeometry x="-0.1973" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="V0ouvpXcI6w8bm2sNuBI-9" value="服务器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2190" y="1235" width="120" height="80" as="geometry" />
@@ -351,18 +364,20 @@
         <mxCell id="V0ouvpXcI6w8bm2sNuBI-22" value="几何数据:gltf&lt;br&gt;非几何数据:.xdb/json" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2314" y="1018" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V0ouvpXcI6w8bm2sNuBI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V0ouvpXcI6w8bm2sNuBI-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2753.8461538461534" y="1264" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V0ouvpXcI6w8bm2sNuBI-28" value="RESTAPI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V0ouvpXcI6w8bm2sNuBI-27">
-          <mxGeometry x="0.3009" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="V0ouvpXcI6w8bm2sNuBI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="V0ouvpXcI6w8bm2sNuBI-23" target="V0ouvpXcI6w8bm2sNuBI-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V0ouvpXcI6w8bm2sNuBI-23" value="数据服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2449" y="1234" width="120" height="60" as="geometry" />
+          <mxGeometry x="2402" y="1173" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ouvpXcI6w8bm2sNuBI-36" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2783" y="1271" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ouvpXcI6w8bm2sNuBI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="V0ouvpXcI6w8bm2sNuBI-39" target="V0ouvpXcI6w8bm2sNuBI-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ouvpXcI6w8bm2sNuBI-39" value="API路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2555" y="1262" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
