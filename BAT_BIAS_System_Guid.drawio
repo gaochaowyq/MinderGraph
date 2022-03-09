@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T03:22:19.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="f34VVT4CZyJjGJ24UFPa" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T03:39:32.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="BcgonFzkCEMF-RVPgWb-" version="16.6.4" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
-    <mxGraphModel dx="-10707" dy="3522" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-10707" dy="3522" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3580,19 +3580,31 @@
           <mxGeometry x="22760" y="-1960" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bc9g82rngxZaBfRHO5jr-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=none;strokeWidth=12;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="23397" y="-2203" width="496" height="496" as="geometry" />
+          <mxGeometry x="23397" y="-2203" width="603" height="603" as="geometry" />
         </mxCell>
         <mxCell id="bc9g82rngxZaBfRHO5jr-53" value="&lt;font style=&quot;font-size: 42px&quot;&gt;城市&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="23560" y="-2160" width="170" height="85" as="geometry" />
+          <mxGeometry x="23610" y="-2160" width="170" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="bc9g82rngxZaBfRHO5jr-54" value="&lt;font style=&quot;font-size: 42px&quot;&gt;城市&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="23400" y="-1960" width="170" height="85" as="geometry" />
+        <mxCell id="bc9g82rngxZaBfRHO5jr-58" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=none;strokeWidth=5;strokeColor=#33001A;" vertex="1" parent="1">
+          <mxGeometry x="23470" y="-2070" width="470" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="bc9g82rngxZaBfRHO5jr-55" value="&lt;font style=&quot;font-size: 42px&quot;&gt;城市&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="23560" y="-1960" width="170" height="85" as="geometry" />
+        <mxCell id="bc9g82rngxZaBfRHO5jr-60" value="&lt;font style=&quot;font-size: 36px&quot;&gt;建设&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="23610" y="-2060" width="170" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="bc9g82rngxZaBfRHO5jr-56" value="&lt;font style=&quot;font-size: 42px&quot;&gt;城市&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="23720" y="-1960" width="170" height="85" as="geometry" />
+        <mxCell id="bc9g82rngxZaBfRHO5jr-61" value="&lt;font style=&quot;font-size: 26px&quot;&gt;规划&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=none;strokeWidth=2;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="23490" y="-1990" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-62" value="&lt;font style=&quot;font-size: 26px&quot;&gt;设计&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=none;strokeWidth=2;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="23610" y="-1990" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-63" value="&lt;font style=&quot;font-size: 26px&quot;&gt;施工&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=none;strokeWidth=2;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="23550" y="-1880" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-64" value="&lt;font style=&quot;font-size: 26px&quot;&gt;运维&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=none;strokeWidth=2;strokeColor=#33001A;" vertex="1" parent="1">
+          <mxGeometry x="23770" y="-1940" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-65" value="&lt;font style=&quot;font-size: 26px&quot;&gt;物流&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=none;strokeWidth=2;strokeColor=#33001A;" vertex="1" parent="1">
+          <mxGeometry x="23630" y="-1770" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
