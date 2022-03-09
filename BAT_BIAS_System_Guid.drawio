@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T02:36:29.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="HIONdUZTGOHiSSJBSfH0" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T02:41:04.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="LNyr8uZeyYlycrEPqHLT" version="16.6.4" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-11231" dy="3229" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3455,11 +3455,26 @@
         <mxCell id="Cxi_s12CqftjqtZ6BJsI-6" value="阿里OSS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="19760" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bc9g82rngxZaBfRHO5jr-1" value="数字孪生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="22570" y="-2240" width="80" height="30" as="geometry" />
+        <mxCell id="bc9g82rngxZaBfRHO5jr-1" value="&lt;font color=&quot;#ff0000&quot;&gt;数字孪生&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="22560" y="-2240" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bc9g82rngxZaBfRHO5jr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="22550" y="-2160" width="120" height="60" as="geometry" />
+        <mxCell id="bc9g82rngxZaBfRHO5jr-4" value="自然环境" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="22480" y="-2200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-5" value="工业产品" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="22560" y="-2160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-6" value="经济" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="22680" y="-2200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-10" value="社会活动" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="22600" y="-2160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-11" value="人工环境" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="22520" y="-2160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-12" value="文化" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="22640" y="-2160" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
