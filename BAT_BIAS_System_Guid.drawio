@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T02:41:04.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="LNyr8uZeyYlycrEPqHLT" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T02:42:00.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="iAWfCeuwM1qlC3GtUCiY" version="16.6.4" type="github">
   <diagram id="0LZxZOL5OIN-Ff3b3fZE" name="Page-1">
     <mxGraphModel dx="-11231" dy="3229" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3454,6 +3454,24 @@
         </mxCell>
         <mxCell id="Cxi_s12CqftjqtZ6BJsI-6" value="阿里OSS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="19760" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="bc9g82rngxZaBfRHO5jr-1" target="bc9g82rngxZaBfRHO5jr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="1" source="bc9g82rngxZaBfRHO5jr-1" target="bc9g82rngxZaBfRHO5jr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="1" source="bc9g82rngxZaBfRHO5jr-1" target="bc9g82rngxZaBfRHO5jr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="bc9g82rngxZaBfRHO5jr-1" target="bc9g82rngxZaBfRHO5jr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="bc9g82rngxZaBfRHO5jr-1" target="bc9g82rngxZaBfRHO5jr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bc9g82rngxZaBfRHO5jr-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="bc9g82rngxZaBfRHO5jr-1" target="bc9g82rngxZaBfRHO5jr-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bc9g82rngxZaBfRHO5jr-1" value="&lt;font color=&quot;#ff0000&quot;&gt;数字孪生&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="22560" y="-2240" width="80" height="30" as="geometry" />
