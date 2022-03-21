@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T03:57:04.949Z" agent="5.0 (Windows)" etag="wXMBEBifjIFzePHVqbKw" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-21T03:59:14.653Z" agent="5.0 (Windows)" etag="BO91CVKaMDUK7I9uN8k0" version="17.1.3" type="github">
   <diagram id="WTNj_Hdq__7ke6nhJa1Y" name="Page-1">
     <mxGraphModel dx="1775" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -667,14 +667,20 @@
         <mxCell id="kLpagVWSNStTTluWsLIg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kLpagVWSNStTTluWsLIg-14" target="kLpagVWSNStTTluWsLIg-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kLpagVWSNStTTluWsLIg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kLpagVWSNStTTluWsLIg-14" target="kLpagVWSNStTTluWsLIg-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kLpagVWSNStTTluWsLIg-14" value="panda dataframe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2120" y="2975" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kLpagVWSNStTTluWsLIg-16" value="excel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2280" y="2863" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kLpagVWSNStTTluWsLIg-18" value="chart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2280" y="3045" width="120" height="60" as="geometry" />
+        <mxCell id="kLpagVWSNStTTluWsLIg-18" value="&lt;div&gt;echart&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="3035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLpagVWSNStTTluWsLIg-20" value="json" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="3140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
