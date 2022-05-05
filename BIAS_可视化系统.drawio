@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T06:40:03.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="hw0Uy0W6OK2dyPaKEe-m" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-05T03:03:04.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="bPGk4w7iKAYSD3AfA9Nf" version="17.5.0" type="github">
   <diagram id="nwSjNLSLKTwTbHizwymB" name="Page-1">
-    <mxGraphModel dx="1880" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="2492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,6 +159,9 @@
         </mxCell>
         <mxCell id="Y8aVyNZn06PXZhMtexIX-10" value="Separated BIM building Part" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2865" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8aVyNZn06PXZhMtexIX-12" value="UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
