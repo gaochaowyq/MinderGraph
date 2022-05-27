@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T08:20:31.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="AKNd6E9o9Ry_k80IEhOy" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T08:23:15.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="YYwllJ-l3OrS42KFc1JQ" version="18.1.3" type="github">
   <diagram id="LZ3-XVrk3gmFiRfig4vP" name="Page-1">
     <mxGraphModel dx="1754" dy="756" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -389,31 +389,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mWN2R51yfMy4Xp098p7W-42" value="is Brep" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1014" y="1807" width="130" height="90" as="geometry" />
+          <mxGeometry x="945" y="1807" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mWN2R51yfMy4Xp098p7W-43" value="is Mesh" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1014" y="1953.15" width="130" height="90" as="geometry" />
+          <mxGeometry x="945" y="1953.15" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mWN2R51yfMy4Xp098p7W-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mWN2R51yfMy4Xp098p7W-45" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="668.9999999999995" y="2043.15" as="targetPoint" />
+            <mxPoint x="699.9999999999995" y="2043.15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mWN2R51yfMy4Xp098p7W-45" value="Convert To Revit Brep" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="809" y="1829.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="760" y="1829.5" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="mWN2R51yfMy4Xp098p7W-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mWN2R51yfMy4Xp098p7W-47" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="668.9999999999995" y="2043.15" as="targetPoint" />
+            <mxPoint x="699.9999999999995" y="2043.15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mWN2R51yfMy4Xp098p7W-47" value="Convert To Revit Mesh" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="729.04" y="1976.2300000000002" width="100" height="45" as="geometry" />
+          <mxGeometry x="760.04" y="1976.2300000000002" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="mWN2R51yfMy4Xp098p7W-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="mWN2R51yfMy4Xp098p7W-43" target="mWN2R51yfMy4Xp098p7W-51" edge="1">
+        <mxCell id="mWN2R51yfMy4Xp098p7W-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mWN2R51yfMy4Xp098p7W-43" target="mWN2R51yfMy4Xp098p7W-47" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1014.1055555555558" y="1998.223076923077" as="sourcePoint" />
-            <mxPoint x="949" y="1998.15" as="targetPoint" />
+            <mxPoint x="945.1055555555558" y="1998.223076923077" as="sourcePoint" />
+            <mxPoint x="900.04" y="1998.15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mWN2R51yfMy4Xp098p7W-49" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mWN2R51yfMy4Xp098p7W-48" vertex="1" connectable="0">
@@ -421,14 +421,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mWN2R51yfMy4Xp098p7W-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mWN2R51yfMy4Xp098p7W-51" target="mWN2R51yfMy4Xp098p7W-47" edge="1">
+        <mxCell id="m8MskHfA4R2k5RRkeLUg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m8MskHfA4R2k5RRkeLUg-2" target="mWN2R51yfMy4Xp098p7W-42">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mWN2R51yfMy4Xp098p7W-51" value="get Mesh Parameters" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="869.04" y="1975.65" width="100" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="m8MskHfA4R2k5RRkeLUg-1" value="is Mesh" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="2079.15" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="m8MskHfA4R2k5RRkeLUg-2" value="GetGeometry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="1570" width="100" height="45" as="geometry" />
@@ -436,8 +430,20 @@
         <mxCell id="m8MskHfA4R2k5RRkeLUg-4" value="GetParameter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1570" width="100" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="m8MskHfA4R2k5RRkeLUg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="m8MskHfA4R2k5RRkeLUg-6" target="m8MskHfA4R2k5RRkeLUg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8MskHfA4R2k5RRkeLUg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m8MskHfA4R2k5RRkeLUg-6" target="m8MskHfA4R2k5RRkeLUg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m8MskHfA4R2k5RRkeLUg-6" value="GetInstance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1463" width="100" height="45" as="geometry" />
+          <mxGeometry x="770" y="1463" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="m8MskHfA4R2k5RRkeLUg-8" value="GetTransformation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1570" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="m8MskHfA4R2k5RRkeLUg-10" value="GetParameter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1570" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
