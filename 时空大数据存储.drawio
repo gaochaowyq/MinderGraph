@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T06:07:35.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="HH9rmHCHNTErlN2sDN8Q" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T06:15:36.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="H03ZPBs38HTunKAFD-XB" version="20.5.1" type="github">
   <diagram id="8f4IC6x40EGdw_nBkvUM" name="Page-1">
-    <mxGraphModel dx="1781" dy="948" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2222" dy="1194" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,21 +403,21 @@
           <mxGeometry x="2257" y="1231" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-1" value="城市建筑信息时空大数据平台架构图" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="2210" width="1050" height="620" as="geometry" />
+          <mxGeometry x="-540" y="2210" width="1050" height="630" as="geometry" />
         </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-3" value="建筑信息时空大数据资源存储系统" style="swimlane;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-1">
           <mxGeometry x="10" y="60" width="330" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-10" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-10" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="10" y="50" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-11" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-11" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="20" y="50" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-3" source="CWsnnPazkkyhk1xtJGiJ-6" target="CWsnnPazkkyhk1xtJGiJ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-6" value="地理信息数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-6" value="地理信息数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="30" y="50" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-12" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
@@ -432,40 +432,40 @@
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-7" value="建筑信息数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="30" y="150" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="10" y="250" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-15" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-15" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="20" y="250" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-3" source="CWsnnPazkkyhk1xtJGiJ-8" target="CWsnnPazkkyhk1xtJGiJ-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-8" value="实时感知信息数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-8" value="实时感知信息数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="30" y="250" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="10" y="360" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="20" y="360" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-3" source="CWsnnPazkkyhk1xtJGiJ-9" target="CWsnnPazkkyhk1xtJGiJ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-9" value="其它信息数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-9" value="其它信息数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="30" y="360" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-18" value="面像资源服务化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-18" value="面向资源服务化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="110" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-19" value="面像资源服务化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-19" value="面向资源服务化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="110" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-22" value="面像资源服务化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-22" value="面向资源服务化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="110" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-24" value="面像资源服务化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-24" value="面向资源服务化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-27" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
@@ -482,7 +482,7 @@
             <mxPoint x="110" y="500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-31" value="面像资源服务化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-31" value="面向资源服务化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-3">
           <mxGeometry x="110" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-4" value="建筑信息时空大数据资源管理系统" style="swimlane;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-1">
@@ -494,38 +494,17 @@
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-4" source="CWsnnPazkkyhk1xtJGiJ-32" target="CWsnnPazkkyhk1xtJGiJ-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-4" source="CWsnnPazkkyhk1xtJGiJ-32" target="CWsnnPazkkyhk1xtJGiJ-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-32" value="服务注册中心&lt;br&gt;子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-4">
           <mxGeometry x="40" y="110" width="40" height="330" as="geometry" />
         </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-4" source="CWsnnPazkkyhk1xtJGiJ-33" target="CWsnnPazkkyhk1xtJGiJ-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-4" source="CWsnnPazkkyhk1xtJGiJ-33" target="CWsnnPazkkyhk1xtJGiJ-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-33" value="服务资源目录&lt;br&gt;子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-4">
           <mxGeometry x="160" y="110" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-4" source="CWsnnPazkkyhk1xtJGiJ-34" target="CWsnnPazkkyhk1xtJGiJ-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="220" y="355" />
-              <mxPoint x="220" y="90" />
-              <mxPoint x="175" y="90" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-34" value="服务链&lt;br&gt;子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-4">
           <mxGeometry x="160" y="270" width="40" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-35" value="数据资源管理可视化子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-4">
-          <mxGeometry x="30" y="30" width="290" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-4" source="CWsnnPazkkyhk1xtJGiJ-36" target="CWsnnPazkkyhk1xtJGiJ-35">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-36" value="数据资源路由子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-4">
           <mxGeometry x="260" y="110" width="40" height="340" as="geometry" />
@@ -581,6 +560,27 @@
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-68" value="其它可视化系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-5">
           <mxGeometry x="120" y="270" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-5" source="CWsnnPazkkyhk1xtJGiJ-70" target="CWsnnPazkkyhk1xtJGiJ-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-5" source="CWsnnPazkkyhk1xtJGiJ-70" target="CWsnnPazkkyhk1xtJGiJ-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-5" source="CWsnnPazkkyhk1xtJGiJ-70" target="CWsnnPazkkyhk1xtJGiJ-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-70" value="非实时渲染图形引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-5">
+          <mxGeometry x="40" y="320" width="30" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-73" value="数据管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-5">
+          <mxGeometry x="120" y="320" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-74" value="定制化业务系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-5">
+          <mxGeometry x="120" y="390" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-76" value="数据可视化系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CWsnnPazkkyhk1xtJGiJ-5">
+          <mxGeometry x="120" y="460" width="50" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-1" source="CWsnnPazkkyhk1xtJGiJ-18" target="CWsnnPazkkyhk1xtJGiJ-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -627,11 +627,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-1" source="CWsnnPazkkyhk1xtJGiJ-36" target="CWsnnPazkkyhk1xtJGiJ-49">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="340" />
+              <mxPoint x="840" y="235" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-61" value="Web接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CWsnnPazkkyhk1xtJGiJ-60">
           <mxGeometry x="0.1541" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-61" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CWsnnPazkkyhk1xtJGiJ-1" source="CWsnnPazkkyhk1xtJGiJ-36" target="CWsnnPazkkyhk1xtJGiJ-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="340" />
+              <mxPoint x="840" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
