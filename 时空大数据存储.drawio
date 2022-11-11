@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T08:01:17.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="MAmaLIvPb1oLJv_ccyp3" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T08:04:51.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="7en-nSXzZCEJbKz5EgKH" version="16.6.7" type="github">
   <diagram id="8f4IC6x40EGdw_nBkvUM" name="Page-1">
     <mxGraphModel dx="1957" dy="849" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -659,17 +659,41 @@
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-2" value="地理信息数据" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="bW3SDSKAfJWVjNVbPNAc-1">
           <mxGeometry x="20" y="60" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bW3SDSKAfJWVjNVbPNAc-1" source="bW3SDSKAfJWVjNVbPNAc-3" target="bW3SDSKAfJWVjNVbPNAc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bW3SDSKAfJWVjNVbPNAc-1" source="bW3SDSKAfJWVjNVbPNAc-3" target="bW3SDSKAfJWVjNVbPNAc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-3" value="建筑信息数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bW3SDSKAfJWVjNVbPNAc-1">
           <mxGeometry x="20" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bW3SDSKAfJWVjNVbPNAc-1" source="bW3SDSKAfJWVjNVbPNAc-4" target="bW3SDSKAfJWVjNVbPNAc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bW3SDSKAfJWVjNVbPNAc-1" source="bW3SDSKAfJWVjNVbPNAc-4" target="bW3SDSKAfJWVjNVbPNAc-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-4" value="实时感知数据" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="bW3SDSKAfJWVjNVbPNAc-1">
           <mxGeometry x="20" y="260" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bW3SDSKAfJWVjNVbPNAc-1">
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-6" value="既有数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bW3SDSKAfJWVjNVbPNAc-1">
           <mxGeometry x="140" y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bW3SDSKAfJWVjNVbPNAc-1">
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-8" value="新建数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bW3SDSKAfJWVjNVbPNAc-1">
           <mxGeometry x="140" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-10" value="既有数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bW3SDSKAfJWVjNVbPNAc-1">
+          <mxGeometry x="140" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-11" value="新建数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bW3SDSKAfJWVjNVbPNAc-1">
+          <mxGeometry x="140" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-14" value="既有数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bW3SDSKAfJWVjNVbPNAc-1">
+          <mxGeometry x="140" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-15" value="新建数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bW3SDSKAfJWVjNVbPNAc-1">
+          <mxGeometry x="140" y="290" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
