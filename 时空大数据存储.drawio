@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T03:51:15.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="0sOpp5nn_fZ1eEbrunqu" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-13T04:04:59.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="1tNYOcAnbVWAHjegpRSH" version="16.6.7" type="github">
   <diagram id="8f4IC6x40EGdw_nBkvUM" name="Page-1">
-    <mxGraphModel dx="2575" dy="1194" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2818" dy="1334" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1243,7 +1243,7 @@
             <mxPoint x="727.0000000000002" y="3180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-190" value="API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bW3SDSKAfJWVjNVbPNAc-189">
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-190" value="Web API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bW3SDSKAfJWVjNVbPNAc-189">
           <mxGeometry x="-0.1429" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1251,16 +1251,16 @@
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-192" target="bW3SDSKAfJWVjNVbPNAc-205">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-192" value="时空大数据数据资源池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1157" y="3150" width="120" height="60" as="geometry" />
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-192" value="资源服务注册中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="3150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-194" target="bW3SDSKAfJWVjNVbPNAc-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-194" value="&lt;h1&gt;提供标准数据上传、修改、下载接口&lt;/h1&gt;&lt;p&gt;针对不同的云存储平台，时空大数据资源池提供统一的数据管理接口，所有数据的存储均具备时间与空间属性，利用元数据对所有数据进行描述（非地理信息元数据）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1027" y="2900" width="190" height="200" as="geometry" />
+          <mxGeometry x="890" y="2900" width="190" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-196">
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-196" target="bW3SDSKAfJWVjNVbPNAc-215">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="3150" as="targetPoint" />
           </mxGeometry>
@@ -1268,15 +1268,19 @@
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-196" value="&lt;h1&gt;资源节点&lt;br&gt;&lt;/h1&gt;&lt;p&gt;多样化资源节点&lt;/p&gt;&lt;p&gt;标准化接口&lt;/p&gt;&lt;p&gt;分为公有与私有&lt;/p&gt;&lt;p&gt;保持接口的简洁，不扩充已经被标准化的行业资源&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="2924" width="190" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-198" target="bW3SDSKAfJWVjNVbPNAc-192">
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-198" target="bW3SDSKAfJWVjNVbPNAc-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-198" value="&lt;h1&gt;数据使用权限&lt;/h1&gt;&lt;p&gt;数据上传时，可控制数据的读、写、改与共享权限&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1027" y="3310" width="190" height="120" as="geometry" />
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-198" value="&lt;h1&gt;虚拟组织管理&lt;/h1&gt;&lt;p&gt;数据上传时，可控制数据的读、写、改与共享权限&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="3300" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-200">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="779" y="3180" as="targetPoint" />
+            <mxPoint x="740" y="3180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="3325" />
+              <mxPoint x="740" y="3180" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-200" value="&lt;h1&gt;数据切断&lt;/h1&gt;&lt;p&gt;用户可随时通过物理、非物理手段切断数据供应&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
@@ -1285,60 +1289,70 @@
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-202" target="bW3SDSKAfJWVjNVbPNAc-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-202" value="成千上万的接口的汇总" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1277" y="3080" width="140" height="20" as="geometry" />
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-202" value="Web API 汇总" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="3080" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-205" target="bW3SDSKAfJWVjNVbPNAc-209">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-205" target="bW3SDSKAfJWVjNVbPNAc-212">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-205" value="公共API路由/微服务管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1527" y="3150" width="120" height="60" as="geometry" />
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-205" value="数据资源路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="3150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-207" target="bW3SDSKAfJWVjNVbPNAc-205">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-207" value="&lt;h1&gt;判断时间、空间、类型一致的数据&lt;/h1&gt;&lt;p&gt;通过时空标识，判断类型、功能、方法一致的接口，并选择速度、稳定性、可用性最好的接口，为使用者提供服务&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1417" y="2880" width="190" height="200" as="geometry" />
+          <mxGeometry x="1170" y="2920" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-209" target="bW3SDSKAfJWVjNVbPNAc-205">
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-209" target="bW3SDSKAfJWVjNVbPNAc-192">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1867" y="3280" />
-              <mxPoint x="1587" y="3280" />
+              <mxPoint x="1450" y="3280" />
+              <mxPoint x="1060" y="3280" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-209" value="API重组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1807" y="3150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-212" target="bW3SDSKAfJWVjNVbPNAc-216">
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-209" target="bW3SDSKAfJWVjNVbPNAc-212">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-212" target="bW3SDSKAfJWVjNVbPNAc-217">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-209" value="服务链" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="3150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-212" target="bW3SDSKAfJWVjNVbPNAc-216">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1680" y="3200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-212" target="bW3SDSKAfJWVjNVbPNAc-217">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1680" y="3200" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-212" value="发布服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1887" y="3020" width="120" height="60" as="geometry" />
+          <mxGeometry x="1560" y="3150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-214">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="912" y="3170" as="targetPoint" />
+            <mxPoint x="825" y="3170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-214" value="&lt;h1&gt;有偿服务&lt;/h1&gt;&lt;p&gt;考虑数据服务的有偿转嫁（现阶段可预留）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="817" y="3020" width="190" height="90" as="geometry" />
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-214" value="&lt;h1&gt;有偿服务&lt;/h1&gt;&lt;p&gt;考虑数据服务的有偿转嫁&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="3020" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-216" value="应用系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="3110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-217" value="可视化系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="3200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-215" value="资源存储系统" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="646" y="3126" width="60" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-216" value="应用系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2107" y="3020" width="120" height="60" as="geometry" />
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-220" target="bW3SDSKAfJWVjNVbPNAc-215">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-217" value="可视化系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2107" y="3160" width="120" height="60" as="geometry" />
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-220" value="入库处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="3150" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
