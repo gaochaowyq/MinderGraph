@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T09:08:06.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="a48dWusnqSNmPkyQOXB9" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-13T09:12:33.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="_NrXdcQU1QVCw4es46Ml" version="16.6.7" type="github">
   <diagram id="8f4IC6x40EGdw_nBkvUM" name="Page-1">
     <mxGraphModel dx="2818" dy="1334" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1272,7 +1272,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-198" value="&lt;h1&gt;虚拟组织管理&lt;/h1&gt;&lt;p&gt;数据上传时，可控制数据的读、写、改与共享权限&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="3300" width="200" height="120" as="geometry" />
+          <mxGeometry x="930" y="3360" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-200">
           <mxGeometry relative="1" as="geometry">
@@ -1380,12 +1380,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-229" value="&lt;h1&gt;C/S架构可视化系统&lt;/h1&gt;&lt;div&gt;利用C/S的架构特点，提供高效、高品质的二三维一体化数据可视化系统&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="3330" width="200" height="120" as="geometry" />
+          <mxGeometry x="1760" y="3360" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bW3SDSKAfJWVjNVbPNAc-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bW3SDSKAfJWVjNVbPNAc-231" target="bW3SDSKAfJWVjNVbPNAc-205">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bW3SDSKAfJWVjNVbPNAc-231" value="&lt;h1&gt;AI数据判断&lt;/h1&gt;&lt;p&gt;通过时空标识，判断类型、功能、方法一致的接口，并选择速度、稳定性、可用性最好的接口，为使用者提供服务&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bW3SDSKAfJWVjNVbPNAc-231" value="&lt;h1&gt;AI学习&lt;/h1&gt;&lt;p&gt;通过人工智能技术，培养机器学习评估、分析、选择资源&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1310" y="3010" width="180" height="100" as="geometry" />
         </mxCell>
       </root>
