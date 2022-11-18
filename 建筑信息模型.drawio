@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:41:26.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DMeK6Z2wuYWMkpLi9x2E" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:51:15.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DvnT9cxohomKAnOmmcwP" version="20.5.3" type="github">
   <diagram id="JT4Bz4pR1aiRmKoWo8_p" name="Page-1">
     <mxGraphModel dx="1897" dy="1236" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
           <mxGeometry x="1618" y="298" width="1049" height="900" as="geometry" />
         </mxCell>
         <mxCell id="06WXHrNAYd4CCUYUwNC0-2" value="专业领域层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-1">
-          <mxGeometry x="22" y="62" width="1008" height="248" as="geometry" />
+          <mxGeometry x="22" y="62" width="1008" height="178" as="geometry" />
         </mxCell>
         <mxCell id="06WXHrNAYd4CCUYUwNC0-3" value="建筑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
           <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
@@ -138,6 +138,21 @@
         </mxCell>
         <mxCell id="06WXHrNAYd4CCUYUwNC0-6" value="结构分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
           <mxGeometry x="460" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06WXHrNAYd4CCUYUwNC0-7" value="管道消防" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+          <mxGeometry x="600" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06WXHrNAYd4CCUYUwNC0-8" value="暖通空调" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+          <mxGeometry x="740" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06WXHrNAYd4CCUYUwNC0-9" value="电气" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+          <mxGeometry x="880" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06WXHrNAYd4CCUYUwNC0-10" value="智能控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+          <mxGeometry x="10" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06WXHrNAYd4CCUYUwNC0-20" value="施工管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+          <mxGeometry x="160" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
