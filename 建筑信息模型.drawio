@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T09:24:34.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wB6CykuYR_fVn52OYHoB" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T09:27:19.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZnAcvMxuYKU9smNLk85N" version="20.5.3" type="github">
   <diagram id="JT4Bz4pR1aiRmKoWo8_p" name="Page-1">
     <mxGraphModel dx="1897" dy="1236" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,10 +122,10 @@
           <mxGeometry x="-233" y="176" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="06WXHrNAYd4CCUYUwNC0-1" value="建筑信息模型数据框架" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1618" y="298" width="782" height="762" as="geometry" />
+          <mxGeometry x="1618" y="298" width="762" height="752" as="geometry" />
         </mxCell>
         <mxCell id="06WXHrNAYd4CCUYUwNC0-2" value="专业领域层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-1">
-          <mxGeometry x="10" y="42" width="760" height="178" as="geometry" />
+          <mxGeometry x="10" y="32" width="740" height="178" as="geometry" />
         </mxCell>
         <mxCell id="06WXHrNAYd4CCUYUwNC0-3" value="建筑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
           <mxGeometry x="10" y="40" width="110" height="60" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry x="490" y="110" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="06WXHrNAYd4CCUYUwNC0-21" value="共享层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-1">
-          <mxGeometry x="10" y="232" width="760" height="118" as="geometry" />
+          <mxGeometry x="10" y="222" width="740" height="118" as="geometry" />
         </mxCell>
         <mxCell id="06WXHrNAYd4CCUYUwNC0-22" value="共享建筑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-21">
           <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry x="600" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="06WXHrNAYd4CCUYUwNC0-31" value="核心层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-1">
-          <mxGeometry x="10" y="362" width="760" height="118" as="geometry" />
+          <mxGeometry x="10" y="352" width="740" height="118" as="geometry" />
         </mxCell>
         <mxCell id="06WXHrNAYd4CCUYUwNC0-32" value="控制扩展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-31">
           <mxGeometry x="10" y="40" width="210" height="60" as="geometry" />
@@ -191,7 +191,7 @@
           <mxGeometry x="520" y="40" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="06WXHrNAYd4CCUYUwNC0-37" value="资源层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-1">
-          <mxGeometry x="10" y="492" width="760" height="258" as="geometry" />
+          <mxGeometry x="10" y="482" width="740" height="258" as="geometry" />
         </mxCell>
         <mxCell id="06WXHrNAYd4CCUYUwNC0-38" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
           <mxGeometry x="10" y="40" width="70" height="60" as="geometry" />
