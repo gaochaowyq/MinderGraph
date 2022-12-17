@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T10:05:16.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tacMv5riX4CiFvoTRaMz" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-17T10:16:01.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="OItdEcKEsKX5ZZ-0x6sI" version="20.7.4" type="github" pages="2">
   <diagram id="JT4Bz4pR1aiRmKoWo8_p" name="Page-1">
-    <mxGraphModel dx="1897" dy="1236" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4216" dy="2184" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,139 +121,147 @@
         <mxCell id="yECXOM6g7LYcoKyOb9zG-39" value="感知信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-233" y="176" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-1" value="建筑信息模型数据框架" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1618" y="298" width="762" height="732" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LD8NUBsZGeuldhkSTyUo" name="Page-2">
+    <mxGraphModel dx="2330" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-1" value="建筑信息模型数据框架" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="170" width="762" height="732" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-2" value="专业领域层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-1">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-2" value="专业领域层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-1">
           <mxGeometry x="10" y="32" width="740" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-3" value="建筑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-3" value="建筑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-2">
           <mxGeometry x="10" y="30" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-4" value="结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-4" value="结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-2">
           <mxGeometry x="130" y="30" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-5" value="结构分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-5" value="结构分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-2">
           <mxGeometry x="250" y="30" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-6" value="结构分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-6" value="结构分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-2">
           <mxGeometry x="370" y="30" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-7" value="管道消防" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-7" value="管道消防" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-2">
           <mxGeometry x="490" y="30" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-8" value="暖通空调" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-8" value="暖通空调" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-2">
           <mxGeometry x="370" y="100" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-9" value="电气" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-9" value="电气" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-2">
           <mxGeometry x="250" y="100" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-10" value="智能控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-10" value="智能控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-2">
           <mxGeometry x="10" y="100" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-20" value="施工管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-11" value="施工管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-2">
           <mxGeometry x="130" y="100" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-41" value="铁路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-12" value="铁路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-2">
           <mxGeometry x="610" y="30" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-42" value="公路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-2">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-13" value="公路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-2">
           <mxGeometry x="490" y="100" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-21" value="共享层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-1">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-14" value="共享层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-1">
           <mxGeometry x="10" y="212" width="740" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-22" value="共享建筑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-21">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-15" value="共享建筑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-14">
           <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-23" value="共享服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-21">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-16" value="共享服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-14">
           <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-24" value="共享部件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-21">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-17" value="共享部件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-14">
           <mxGeometry x="310" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-25" value="共享设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-21">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-18" value="共享设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-14">
           <mxGeometry x="460" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-26" value="共享管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-21">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-19" value="共享管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-14">
           <mxGeometry x="600" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-31" value="核心层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-1">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-20" value="核心层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-1">
           <mxGeometry x="10" y="342" width="740" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-32" value="控制扩展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-31">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-21" value="控制扩展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-20">
           <mxGeometry x="10" y="40" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-33" value="产品扩展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-31">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-22" value="产品扩展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-20">
           <mxGeometry x="230" y="40" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-34" value="过程扩展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-31">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-23" value="过程扩展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-20">
           <mxGeometry x="520" y="40" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-37" value="资源层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-1">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-24" value="资源层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-1">
           <mxGeometry x="10" y="472" width="740" height="248" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-38" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-25" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="10" y="40" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-39" value="材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-26" value="材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="90" y="40" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-43" value="外部引用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-27" value="外部引用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="170" y="40" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-44" value="几何约束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-28" value="几何约束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="250" y="40" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-45" value="几何模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-29" value="几何模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="330" y="40" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-46" value="几何" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-30" value="几何" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="410" y="40" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-47" value="参与者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-31" value="参与者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="490" y="40" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-48" value="截面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-32" value="截面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="570" y="40" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-49" value="属性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-33" value="属性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="650" y="40" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-50" value="量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-34" value="量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="10" y="110" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-52" value="拓扑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-35" value="拓扑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="90" y="110" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-53" value="工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-36" value="工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="170" y="110" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-54" value="度量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-37" value="度量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="250" y="110" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-55" value="展示外观" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-38" value="展示外观" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="330" y="110" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-51" value="展示定义" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-39" value="展示定义" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="410" y="110" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-56" value="展示组织" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-40" value="展示组织" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="490" y="110" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-57" value="表达" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-41" value="表达" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="570" y="110" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-59" value="约束" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-42" value="约束" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="650" y="110" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-102" value="审批" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-43" value="审批" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="10" y="180" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-103" value="结构荷载" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-44" value="结构荷载" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="90" y="180" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06WXHrNAYd4CCUYUwNC0-104" value="成本" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="06WXHrNAYd4CCUYUwNC0-37">
+        <mxCell id="FMKa5McKjWR6eOr-cuKR-45" value="成本" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="FMKa5McKjWR6eOr-cuKR-24">
           <mxGeometry x="170" y="180" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
