@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T09:50:38.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ebktiq-fjPOBNu5Ksr4d" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T09:56:01.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="SXXYDBw3Fwj19VUZ17FD" version="20.7.4" type="github">
   <diagram id="U4cOe6F4wqsMGsTpdwjb" name="第 1 页">
     <mxGraphModel dx="1434" dy="740" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,6 +112,17 @@
         </mxCell>
         <mxCell id="isLCyID4mGVVPSBHjDfX-1" value="满足特定要求的非Revit模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="519" y="397" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3wow_7vZ4vvIChQnMGA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="P3wow_7vZ4vvIChQnMGA-1" target="fQdt8h1zAML1qWsqSuOJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P3wow_7vZ4vvIChQnMGA-3" value="吸收与模型整理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P3wow_7vZ4vvIChQnMGA-2">
+          <mxGeometry x="-0.1082" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3wow_7vZ4vvIChQnMGA-1" value="福斯特BIMI模型" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="499" y="89" width="89" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
