@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T05:09:31.162Z" agent="5.0 (Windows)" etag="IJQLPs0fovFbkhcKsRLK" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T05:33:14.203Z" agent="5.0 (Windows)" etag="EqUJxIvZMKiB4A64KGpG" version="21.0.6" type="github">
   <diagram name="第 1 页" id="oCZl_pkfP-L_GXJR5iHR">
     <mxGraphModel dx="2261" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="isAaHnTiM0ybuFo7a36o-21" value="PDF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="950" width="760" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="isAaHnTiM0ybuFo7a36o-22" value="管理目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="isAaHnTiM0ybuFo7a36o-22" value="管理目标（结论管理，非过程管理，结论交圈、互恰与关联）-&amp;gt;关键指标识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1000" width="760" height="30" as="geometry" />
         </mxCell>
         <mxCell id="isAaHnTiM0ybuFo7a36o-25" value="投资决策综合性咨询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -113,7 +113,28 @@
           <mxGeometry x="440" y="1300" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="isAaHnTiM0ybuFo7a36o-40" value="规划方案 （PDF）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1300" width="170" height="40" as="geometry" />
+          <mxGeometry x="620" y="1300" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isAaHnTiM0ybuFo7a36o-41" value="投资策划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1370" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isAaHnTiM0ybuFo7a36o-42" value="规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1370" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isAaHnTiM0ybuFo7a36o-43" value="运营策划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1370" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isAaHnTiM0ybuFo7a36o-44" value="设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1370" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isAaHnTiM0ybuFo7a36o-45" value="主管部门融资意见" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1620" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isAaHnTiM0ybuFo7a36o-47" value="主管部门规划意见" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1620" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isAaHnTiM0ybuFo7a36o-48" value="建设方案确定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1694" width="370" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
