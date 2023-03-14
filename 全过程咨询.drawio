@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T04:45:03.365Z" agent="5.0 (Windows)" etag="pKBoFzS-uajytPXhTBoZ" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T04:46:19.200Z" agent="5.0 (Windows)" etag="DmRHqEwHOSq4cdv1xhEC" version="21.0.6" type="github">
   <diagram name="第 1 页" id="oCZl_pkfP-L_GXJR5iHR">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,34 +29,37 @@
           <mxGeometry x="40" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isAaHnTiM0ybuFo7a36o-9" value="工程勘察设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isAaHnTiM0ybuFo7a36o-10" value="设计管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isAaHnTiM0ybuFo7a36o-11" value="技术咨询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isAaHnTiM0ybuFo7a36o-12" value="招标采购咨询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isAaHnTiM0ybuFo7a36o-13" value="工程监理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isAaHnTiM0ybuFo7a36o-14" value="施工招标代理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isAaHnTiM0ybuFo7a36o-15" value="材料设备采购管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isAaHnTiM0ybuFo7a36o-16" value="工程监理于项目管理服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isAaHnTiM0ybuFo7a36o-17" value="工程监理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isAaHnTiM0ybuFo7a36o-18" value="施工项目管理服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isAaHnTiM0ybuFo7a36o-19" value="文件类型：PDF、dwg、revit、ifc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="700" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
