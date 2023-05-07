@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T12:38:16.699Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="7rVXLuHZyvTB6Udewb5V" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-07T12:40:26.662Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="nrsF1vSI4FmI62GetJDw" version="21.2.9" type="github">
   <diagram name="Page-1" id="kg5Vm6Oi2As0jij2HQP2">
     <mxGraphModel dx="922" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,17 +28,29 @@
         <mxCell id="bjH7fD4pgpkKv8-tsCGC-1" value="总责任师" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bjH7fD4pgpkKv8-tsCGC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bjH7fD4pgpkKv8-tsCGC-2" target="bjH7fD4pgpkKv8-tsCGC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bjH7fD4pgpkKv8-tsCGC-2" value="总规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bjH7fD4pgpkKv8-tsCGC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bjH7fD4pgpkKv8-tsCGC-5" target="bjH7fD4pgpkKv8-tsCGC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bjH7fD4pgpkKv8-tsCGC-5" value="总设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjH7fD4pgpkKv8-tsCGC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bjH7fD4pgpkKv8-tsCGC-7" target="bjH7fD4pgpkKv8-tsCGC-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bjH7fD4pgpkKv8-tsCGC-7" value="总施工" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bjH7fD4pgpkKv8-tsCGC-9" value="总施工" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="280" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjH7fD4pgpkKv8-tsCGC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bjH7fD4pgpkKv8-tsCGC-11" target="bjH7fD4pgpkKv8-tsCGC-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bjH7fD4pgpkKv8-tsCGC-11" value="总策划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
