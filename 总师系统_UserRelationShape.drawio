@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T00:18:24.090Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="OuWMOO3Lg6QgS2OXVtSs" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T00:35:43.169Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="xRoCxfXmz5g2cJvR6PyM" version="21.2.9" type="github">
   <diagram name="Page-1" id="kg5Vm6Oi2As0jij2HQP2">
     <mxGraphModel dx="1272" dy="1956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,14 +164,65 @@
         <mxCell id="kQl6Yx525VU06WIrC9I_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQl6Yx525VU06WIrC9I_-8" target="kQl6Yx525VU06WIrC9I_-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kQl6Yx525VU06WIrC9I_-8" value="Router" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kQl6Yx525VU06WIrC9I_-24" value="&lt;div&gt;HaveTask&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kQl6Yx525VU06WIrC9I_-14">
+          <mxGeometry x="0.2622" y="-3" relative="1" as="geometry">
+            <mxPoint y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQl6Yx525VU06WIrC9I_-8" target="kQl6Yx525VU06WIrC9I_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-17" value="NoTask" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kQl6Yx525VU06WIrC9I_-16">
+          <mxGeometry x="0.2192" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-8" value="RouterByUserType" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQl6Yx525VU06WIrC9I_-10" target="kQl6Yx525VU06WIrC9I_-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="750" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kQl6Yx525VU06WIrC9I_-10" value="LoginPage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kQl6Yx525VU06WIrC9I_-13" value="Router" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="870" width="120" height="60" as="geometry" />
+        <mxCell id="kQl6Yx525VU06WIrC9I_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kQl6Yx525VU06WIrC9I_-13" target="kQl6Yx525VU06WIrC9I_-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQl6Yx525VU06WIrC9I_-13" target="kQl6Yx525VU06WIrC9I_-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQl6Yx525VU06WIrC9I_-13" target="kQl6Yx525VU06WIrC9I_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-13" value="UserTaskList" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kQl6Yx525VU06WIrC9I_-15" target="kQl6Yx525VU06WIrC9I_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-15" value="&lt;div&gt;Error:&lt;/div&gt;&lt;div&gt;请求分配任务&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-21" value="User:角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-22" value="TaskManagerOverPage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="970" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-25" value="BIMPage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-27" value="GISPage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQl6Yx525VU06WIrC9I_-29" value="DocumentPage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
