@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T11:37:22.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="EXzAeU4bfiEaWu0Ytepv" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T11:38:37.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="phCtsnNT3twrPtJKcp6Y" version="21.3.2" type="github">
   <diagram name="第 1 页" id="nfnzHy786rISAd0_TM_V">
     <mxGraphModel dx="2261" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,8 +62,8 @@
         <mxCell id="NH8UexvuGOOD8I5ICKm5-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-28" target="NH8UexvuGOOD8I5ICKm5-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NH8UexvuGOOD8I5ICKm5-28" value="&lt;h1&gt;统一地块类型编号&lt;/h1&gt;&lt;div&gt;参照国标&lt;/div&gt;&lt;div&gt;编制shp文件制作标准，包括图形类型与编码&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="50" width="230" height="120" as="geometry" />
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-28" value="&lt;h1&gt;统一地块类型编号&lt;/h1&gt;&lt;div&gt;参照国标&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;编制shp文件制作标准，包括图形类型与分类编码&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;唯一编码&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;时间戳&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="230" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
