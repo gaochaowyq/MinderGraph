@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T10:48:28.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="-GkwWCD4_sD68ONjXBDy" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T10:50:13.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="N7IoBBqsPeBm1QuDrVvN" version="21.3.2" type="github">
   <diagram name="第 1 页" id="nfnzHy786rISAd0_TM_V">
     <mxGraphModel dx="2261" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NH8UexvuGOOD8I5ICKm5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-1">
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-1" target="NH8UexvuGOOD8I5ICKm5-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="294" y="350" as="targetPoint" />
           </mxGeometry>
@@ -44,6 +44,20 @@
         </mxCell>
         <mxCell id="NH8UexvuGOOD8I5ICKm5-19" value="BS/3D可视" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="437.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-24" value="基于轮廓补充信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-25" target="NH8UexvuGOOD8I5ICKm5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-27" value="REST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH8UexvuGOOD8I5ICKm5-26">
+          <mxGeometry x="0.1902" y="-2" relative="1" as="geometry">
+            <mxPoint x="-2" y="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-25" value="基于权限的统一界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
