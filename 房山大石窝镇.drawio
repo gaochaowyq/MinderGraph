@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T06:54:23.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="IYJrAgk5xcRADAi0T8K7" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T06:56:19.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="BfDFFCFMpt2R9bQnSHWd" version="21.3.2" type="github">
   <diagram name="第 1 页" id="nfnzHy786rISAd0_TM_V">
     <mxGraphModel dx="2261" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,6 +8,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-1" target="NH8UexvuGOOD8I5ICKm5-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-1" target="NH8UexvuGOOD8I5ICKm5-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NH8UexvuGOOD8I5ICKm5-1" value="基于Shp的数据入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
@@ -39,14 +45,14 @@
         <mxCell id="NH8UexvuGOOD8I5ICKm5-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-15" target="NH8UexvuGOOD8I5ICKm5-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NH8UexvuGOOD8I5ICKm5-15" value="BS架构/2D可视" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-15" value="BS架构/2D可视" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NH8UexvuGOOD8I5ICKm5-17" value="BS架构/3D可视" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-17" value="BS架构/3D可视" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NH8UexvuGOOD8I5ICKm5-19" value="BS/3D可视" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="625" width="120" height="60" as="geometry" />
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-19" value="BS/3D可视" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="925" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NH8UexvuGOOD8I5ICKm5-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-28" target="NH8UexvuGOOD8I5ICKm5-1">
           <mxGeometry relative="1" as="geometry" />
@@ -101,6 +107,25 @@
         </mxCell>
         <mxCell id="NH8UexvuGOOD8I5ICKm5-48" value="&lt;h1&gt;框架&lt;br&gt;&lt;/h1&gt;&lt;div&gt;1、react.js&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2、从住界面跳转的权限继承&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3、rest权限通过token确认&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="-110" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-50" target="NH8UexvuGOOD8I5ICKm5-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-55" value="REST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH8UexvuGOOD8I5ICKm5-51">
+          <mxGeometry x="0.6154" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-50" target="NH8UexvuGOOD8I5ICKm5-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-56" value="REST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH8UexvuGOOD8I5ICKm5-52">
+          <mxGeometry x="0.7085" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-50" value="倾斜摄影采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
