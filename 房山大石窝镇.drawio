@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T06:56:19.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="BfDFFCFMpt2R9bQnSHWd" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T06:57:40.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="5mW0WIP2v0rQ9HoF-3yr" version="21.3.2" type="github">
   <diagram name="第 1 页" id="nfnzHy786rISAd0_TM_V">
     <mxGraphModel dx="2261" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NH8UexvuGOOD8I5ICKm5-46" value="&lt;h1&gt;补充信息可能性&lt;/h1&gt;&lt;div&gt;1、定额匡算&lt;/div&gt;&lt;div&gt;2、建设要求，目标、周期、&lt;/div&gt;&lt;div&gt;。&lt;/div&gt;&lt;div&gt;。&lt;/div&gt;&lt;div&gt;。&lt;/div&gt;&lt;div&gt;。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="640" width="230" height="170" as="geometry" />
+          <mxGeometry x="490" y="585" width="230" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NH8UexvuGOOD8I5ICKm5-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-48" target="NH8UexvuGOOD8I5ICKm5-40">
           <mxGeometry relative="1" as="geometry" />
@@ -126,6 +126,12 @@
         </mxCell>
         <mxCell id="NH8UexvuGOOD8I5ICKm5-50" value="倾斜摄影采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-57" target="NH8UexvuGOOD8I5ICKm5-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-57" value="&lt;h1&gt;采集要求&lt;/h1&gt;&lt;div&gt;目的：&lt;/div&gt;&lt;div&gt;1、满足使用精度&lt;/div&gt;&lt;div&gt;2、数据量优化&lt;/div&gt;&lt;div&gt;3、存储与部署方式&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="925" width="230" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
