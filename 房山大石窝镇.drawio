@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T07:39:00.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="b0LjVVFs7KlxnU_hRWTd" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T08:01:37.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="vxJM-MBAx4ElgZVCqnWm" version="21.3.2" type="github">
   <diagram name="第 1 页" id="nfnzHy786rISAd0_TM_V">
     <mxGraphModel dx="2620" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,14 +139,33 @@
         <mxCell id="NH8UexvuGOOD8I5ICKm5-65" value="其他信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NH8UexvuGOOD8I5ICKm5-63">
           <mxGeometry x="1250" y="655" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NH8UexvuGOOD8I5ICKm5-48" value="&lt;h1&gt;框架&lt;br&gt;&lt;/h1&gt;&lt;div&gt;1、react.js&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2、从住界面跳转的权限继承&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3、rest权限通过token确认&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="NH8UexvuGOOD8I5ICKm5-63">
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-48" value="&lt;h1&gt;框架&lt;br&gt;&lt;/h1&gt;&lt;div&gt;1、react.js&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2、从主界面跳转的权限继承&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3、rest权限通过token确认&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="NH8UexvuGOOD8I5ICKm5-63">
           <mxGeometry x="1940" y="385" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-72" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NH8UexvuGOOD8I5ICKm5-63">
+          <mxGeometry x="1720" y="85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NH8UexvuGOOD8I5ICKm5-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-64" target="NH8UexvuGOOD8I5ICKm5-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NH8UexvuGOOD8I5ICKm5-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-65" target="NH8UexvuGOOD8I5ICKm5-42">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-65" target="NH8UexvuGOOD8I5ICKm5-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-69" value="补充" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH8UexvuGOOD8I5ICKm5-68">
+          <mxGeometry x="0.1747" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="NH8UexvuGOOD8I5ICKm5-64" target="NH8UexvuGOOD8I5ICKm5-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH8UexvuGOOD8I5ICKm5-71" value="补充" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH8UexvuGOOD8I5ICKm5-70">
+          <mxGeometry x="-0.1606" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
