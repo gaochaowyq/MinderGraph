@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T06:26:13.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="5Yu5V4tz7DL3ThA_40rE" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T06:27:56.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="BaZU86qhDKBxFPkr5DjO" version="21.3.6" type="github">
   <diagram name="第 1 页" id="nfnzHy786rISAd0_TM_V">
     <mxGraphModel dx="2364" dy="1472" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -252,6 +252,12 @@
         </mxCell>
         <mxCell id="-7ZKZWxfKGiadQnBgDzU-18" value="Delete" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-275" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7ZKZWxfKGiadQnBgDzU-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="-7ZKZWxfKGiadQnBgDzU-19" target="-7ZKZWxfKGiadQnBgDzU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7ZKZWxfKGiadQnBgDzU-19" value="&lt;h1&gt;概算&lt;/h1&gt;&lt;p&gt;同过 一个list 的 parameter，list中包含多个定额，用于返回某个客观事物的定额信息。&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="1550" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
