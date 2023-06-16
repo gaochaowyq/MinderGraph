@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T05:25:17.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="SaGizd2_aFVTYG3q5icF" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T05:26:55.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="gDr3Lc2aZ_BBtce9k-CL" version="21.3.7" type="github">
   <diagram name="第 1 页" id="cNeXyacaS3HCfai4t9V_">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,14 +22,38 @@
         <mxCell id="YYZPUzSrGFXBIZA3czpT-2" value="成功案例梳理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YYZPUzSrGFXBIZA3czpT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YYZPUzSrGFXBIZA3czpT-4" target="YYZPUzSrGFXBIZA3czpT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YYZPUzSrGFXBIZA3czpT-4" value="自然语言类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYZPUzSrGFXBIZA3czpT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YYZPUzSrGFXBIZA3czpT-6" target="YYZPUzSrGFXBIZA3czpT-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YYZPUzSrGFXBIZA3czpT-6" value="图片类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YYZPUzSrGFXBIZA3czpT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YYZPUzSrGFXBIZA3czpT-8" target="YYZPUzSrGFXBIZA3czpT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YYZPUzSrGFXBIZA3czpT-8" value="生成式设计类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYZPUzSrGFXBIZA3czpT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YYZPUzSrGFXBIZA3czpT-10" target="YYZPUzSrGFXBIZA3czpT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYZPUzSrGFXBIZA3czpT-10" value="融合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYZPUzSrGFXBIZA3czpT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YYZPUzSrGFXBIZA3czpT-14" target="YYZPUzSrGFXBIZA3czpT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYZPUzSrGFXBIZA3czpT-14" value="设计流程梳理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYZPUzSrGFXBIZA3czpT-16" value="成果（？，论文，软件、网站、。。。）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
