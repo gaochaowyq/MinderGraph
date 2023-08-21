@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T05:25:56.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kF8N6hxmUVpRLR4oZcGg" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T05:28:03.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="3aE5dgdPYF4O6DTigogh" version="21.3.6" type="github">
   <diagram name="第 1 页" id="NKXv_h6Vj96IVA4Fjcek">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,17 +7,38 @@
         <mxCell id="PI_EQl_N4xML3odlSElJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZtNYFOFDFvPDf5sEN9P7-1" target="PI_EQl_N4xML3odlSElJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZtNYFOFDFvPDf5sEN9P7-1" target="PI_EQl_N4xML3odlSElJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZtNYFOFDFvPDf5sEN9P7-1" target="PI_EQl_N4xML3odlSElJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZtNYFOFDFvPDf5sEN9P7-1" value="江东新区CIM数据管理平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-1" value="江东新区零碳管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-3" target="PI_EQl_N4xML3odlSElJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-3" target="ZtNYFOFDFvPDf5sEN9P7-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-3" value="碳排放数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-4" target="PI_EQl_N4xML3odlSElJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-4" target="ZtNYFOFDFvPDf5sEN9P7-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-4" value="碳评估系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-9" value="海南省CIM平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
