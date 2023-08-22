@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T06:32:48.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="w_iM4Bm7F9lFw_BC-fR9" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T06:55:24.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="u5e9s6RUaHwJVKs8bqw1" version="21.3.6" type="github">
   <diagram name="第 1 页" id="NKXv_h6Vj96IVA4Fjcek">
-    <mxGraphModel dx="1147" dy="1054" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="1179" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -306,20 +306,117 @@
         <mxCell id="PI_EQl_N4xML3odlSElJ-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-126" target="PI_EQl_N4xML3odlSElJ-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-162" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-126" target="PI_EQl_N4xML3odlSElJ-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-163" value="城市底座数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-162">
+          <mxGeometry x="-0.4176" y="2" relative="1" as="geometry">
+            <mxPoint x="5" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-164" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-126" target="PI_EQl_N4xML3odlSElJ-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-165" value="城市数字底座" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-164">
+          <mxGeometry x="-0.2669" y="-1" relative="1" as="geometry">
+            <mxPoint x="10" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-168" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-126" target="PI_EQl_N4xML3odlSElJ-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-169" value="城市数字底座" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-168">
+          <mxGeometry x="0.1333" relative="1" as="geometry">
+            <mxPoint x="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-174" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-126" target="PI_EQl_N4xML3odlSElJ-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-175" value="城市数字底座" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-174">
+          <mxGeometry x="0.2139" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-126" value="海南省省级平台" style="swimlane;whiteSpace=wrap;html=1;startSize=23;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="2660" y="90" width="200" height="300" as="geometry" />
+          <mxGeometry x="2660" y="90" width="200" height="363" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="PI_EQl_N4xML3odlSElJ-126" source="PI_EQl_N4xML3odlSElJ-122" target="PI_EQl_N4xML3odlSElJ-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-184" value="业务共享" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-183">
+          <mxGeometry x="-0.2139" y="1" relative="1" as="geometry">
+            <mxPoint x="-4" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="PI_EQl_N4xML3odlSElJ-126" source="PI_EQl_N4xML3odlSElJ-122" target="PI_EQl_N4xML3odlSElJ-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-186" value="监督指导" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-185">
+          <mxGeometry x="-0.2291" y="-1" relative="1" as="geometry">
+            <mxPoint x="9" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-122" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;省级城市信息模型基础平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-126">
-          <mxGeometry x="20" y="40" width="160" height="60" as="geometry" />
+          <mxGeometry x="21" y="33" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PI_EQl_N4xML3odlSElJ-126" source="PI_EQl_N4xML3odlSElJ-123" target="PI_EQl_N4xML3odlSElJ-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-182" value="数据共享" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-181">
+          <mxGeometry x="0.3054" relative="1" as="geometry">
+            <mxPoint x="-5" y="13" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-123" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;市县级城市信息模型基础平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-126">
-          <mxGeometry x="20" y="130" width="160" height="60" as="geometry" />
+          <mxGeometry x="21" y="154" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PI_EQl_N4xML3odlSElJ-124" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;园区级城市信息模型基础平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-126">
-          <mxGeometry x="20" y="220" width="160" height="60" as="geometry" />
+        <mxCell id="PI_EQl_N4xML3odlSElJ-124" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;园区级城市信息模型基础平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-126">
+          <mxGeometry x="20" y="271" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="PI_EQl_N4xML3odlSElJ-126" source="PI_EQl_N4xML3odlSElJ-123" target="PI_EQl_N4xML3odlSElJ-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="218" as="sourcePoint" />
+            <mxPoint x="60" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-188" value="业务共享" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-187">
+          <mxGeometry x="-0.2139" y="1" relative="1" as="geometry">
+            <mxPoint x="-4" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="PI_EQl_N4xML3odlSElJ-126" source="PI_EQl_N4xML3odlSElJ-123" target="PI_EQl_N4xML3odlSElJ-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="218" as="sourcePoint" />
+            <mxPoint x="140" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-190" value="监督指导" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-189">
+          <mxGeometry x="-0.2291" y="-1" relative="1" as="geometry">
+            <mxPoint x="9" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PI_EQl_N4xML3odlSElJ-126" source="PI_EQl_N4xML3odlSElJ-124" target="PI_EQl_N4xML3odlSElJ-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="279" as="sourcePoint" />
+            <mxPoint x="100" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-192" value="数据共享" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-191">
+          <mxGeometry x="0.3054" relative="1" as="geometry">
+            <mxPoint x="-5" y="13" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-128" value="WEB API 上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2760" y="48" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-172" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-129" target="PI_EQl_N4xML3odlSElJ-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-173" value="工程建设&lt;br&gt;项目数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-172">
+          <mxGeometry x="-0.3649" y="-2" relative="1" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-129" value="与住建部门业务对接" style="swimlane;whiteSpace=wrap;html=1;startSize=23;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2380" y="-20" width="200" height="320" as="geometry" />
@@ -336,17 +433,81 @@
         <mxCell id="PI_EQl_N4xML3odlSElJ-133" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;省城市运行管理服务系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-129">
           <mxGeometry x="20" y="250" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-166" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-136" target="PI_EQl_N4xML3odlSElJ-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-167" value="实时监&lt;br&gt;控数据集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-166">
+          <mxGeometry x="-0.224" y="1" relative="1" as="geometry">
+            <mxPoint y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-136" value="与大数据局业务系统对接" style="swimlane;whiteSpace=wrap;html=1;startSize=23;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="2910" y="-20" width="200" height="120" as="geometry" />
+          <mxGeometry x="2940" y="-20" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-137" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;省大数据管理系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-136">
           <mxGeometry x="20" y="40" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-170" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-141" target="PI_EQl_N4xML3odlSElJ-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-171" value="生态环境&lt;br&gt;检测数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-170">
+          <mxGeometry x="-0.4454" y="2" relative="1" as="geometry">
+            <mxPoint x="-34" y="32" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-141" value="与生态环境部门业务系统对接" style="swimlane;whiteSpace=wrap;html=1;startSize=23;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="2910" y="140" width="200" height="110" as="geometry" />
+          <mxGeometry x="2940" y="110" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-142" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;省生态环境综合监管系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-141">
           <mxGeometry x="20" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-160" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-146" target="PI_EQl_N4xML3odlSElJ-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-161" value="燃气数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-160">
+          <mxGeometry x="0.3319" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-146" value="与相关企业业务系统对接" style="swimlane;whiteSpace=wrap;html=1;startSize=23;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="230" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-147" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;SCADA检测采集系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-146">
+          <mxGeometry x="20" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-148" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;燃气管网仿真系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-146">
+          <mxGeometry x="20" y="110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-149" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;燃气管网安全风险评估系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-146">
+          <mxGeometry x="20" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-150" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;GIS管网信息系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-146">
+          <mxGeometry x="20" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-156" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-151" target="PI_EQl_N4xML3odlSElJ-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-157" value="国土空间动&lt;br&gt;态更新数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-156">
+          <mxGeometry x="-0.1037" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-158" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-151" target="PI_EQl_N4xML3odlSElJ-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-159" value="规划及&lt;br&gt;相关数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PI_EQl_N4xML3odlSElJ-158">
+          <mxGeometry x="-0.2206" relative="1" as="geometry">
+            <mxPoint x="14" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-151" value="与自然资源、测绘部门系统对接" style="swimlane;whiteSpace=wrap;html=1;startSize=23;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="320" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-152" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;省国土空间基础信息平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-151">
+          <mxGeometry x="20" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-153" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;省实景三维服务系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-151">
+          <mxGeometry x="20" y="110" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
