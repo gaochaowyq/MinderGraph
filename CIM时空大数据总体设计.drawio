@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T06:06:41.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Y0mDaP-nj0PfWnmw0MnM" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T06:13:24.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HgLzUOMTnYMobACpMK2y" version="21.3.6" type="github">
   <diagram name="第 1 页" id="NKXv_h6Vj96IVA4Fjcek">
-    <mxGraphModel dx="1195" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1082" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,37 +223,19 @@
           <mxGeometry x="1860" y="715" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-81" value="设施层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="936" y="460" width="414" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_EQl_N4xML3odlSElJ-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PI_EQl_N4xML3odlSElJ-81" source="PI_EQl_N4xML3odlSElJ-82" target="PI_EQl_N4xML3odlSElJ-84">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="936" y="415" width="414" height="101" as="geometry" />
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-82" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;既有市政系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-81">
-          <mxGeometry x="14" y="95" width="122" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_EQl_N4xML3odlSElJ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PI_EQl_N4xML3odlSElJ-81" source="PI_EQl_N4xML3odlSElJ-83" target="PI_EQl_N4xML3odlSElJ-86">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="14" y="36" width="122" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-83" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;智能表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-81">
-          <mxGeometry x="144" y="95" width="122" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_EQl_N4xML3odlSElJ-84" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;接口封装/数据包封装&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-81">
-          <mxGeometry x="14" y="45" width="122" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_EQl_N4xML3odlSElJ-86" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;入库发布&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-81">
-          <mxGeometry x="144" y="45" width="122" height="35" as="geometry" />
+          <mxGeometry x="144" y="35" width="122" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-89" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;其它数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-81">
-          <mxGeometry x="274" y="95" width="122" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_EQl_N4xML3odlSElJ-90" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;入库发布&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-81">
-          <mxGeometry x="274" y="45" width="122" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_EQl_N4xML3odlSElJ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PI_EQl_N4xML3odlSElJ-81" source="PI_EQl_N4xML3odlSElJ-89" target="PI_EQl_N4xML3odlSElJ-90">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="274" y="35" width="122" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-91" value="CIM基础平台层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="936" y="300" width="414" height="105" as="geometry" />
+          <mxGeometry x="936" y="278" width="414" height="105" as="geometry" />
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-93" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;基础地理信息数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-91">
           <mxGeometry x="14" y="35" width="122" height="60" as="geometry" />
@@ -268,7 +250,7 @@
           <mxGeometry x="344" y="35" width="56" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-101" value="应用层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="936" y="135" width="414" height="105" as="geometry" />
+          <mxGeometry x="936" y="128" width="414" height="105" as="geometry" />
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-102" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;碳排放计算&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-101">
           <mxGeometry x="14" y="35" width="122" height="60" as="geometry" />
@@ -292,7 +274,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-113" value="提供动态数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="430" width="90" height="30" as="geometry" />
+          <mxGeometry x="1155" y="389" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-114" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-91" target="PI_EQl_N4xML3odlSElJ-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="295" as="sourcePoint" />
+            <mxPoint x="1150" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-115" value="提供以数字孪生为基础的统一数据索引" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-117" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-101" target="PI_EQl_N4xML3odlSElJ-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="130" as="sourcePoint" />
+            <mxPoint x="1180" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-118" value="提供业务数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-119" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;运维与安全保障体系&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="-10" width="56" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-120" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;海南省城市信息模型系列导则&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="857" y="-10" width="51" height="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
