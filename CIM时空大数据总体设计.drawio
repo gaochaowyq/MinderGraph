@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T06:21:39.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="qme4AlLAc2C4tu7rbxH7" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T06:32:48.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="w_iM4Bm7F9lFw_BC-fR9" version="21.3.6" type="github">
   <diagram name="第 1 页" id="NKXv_h6Vj96IVA4Fjcek">
-    <mxGraphModel dx="1195" dy="1082" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="1054" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,6 +299,54 @@
         </mxCell>
         <mxCell id="PI_EQl_N4xML3odlSElJ-120" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;海南省城市信息模型系列导则&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="857" y="-10" width="51" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-121" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;国家城市信息模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="-20" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PI_EQl_N4xML3odlSElJ-126" target="PI_EQl_N4xML3odlSElJ-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-126" value="海南省省级平台" style="swimlane;whiteSpace=wrap;html=1;startSize=23;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="90" width="200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-122" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;省级城市信息模型基础平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-126">
+          <mxGeometry x="20" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-123" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;市县级城市信息模型基础平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-126">
+          <mxGeometry x="20" y="130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-124" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;园区级城市信息模型基础平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-126">
+          <mxGeometry x="20" y="220" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-128" value="WEB API 上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="48" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-129" value="与住建部门业务对接" style="swimlane;whiteSpace=wrap;html=1;startSize=23;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="-20" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-130" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;省工程建设项目审批管理系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-129">
+          <mxGeometry x="20" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-131" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;省建筑市场全过程监管系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-129">
+          <mxGeometry x="20" y="110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-132" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;大集中房管系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-129">
+          <mxGeometry x="20" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-133" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;省城市运行管理服务系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-129">
+          <mxGeometry x="20" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-136" value="与大数据局业务系统对接" style="swimlane;whiteSpace=wrap;html=1;startSize=23;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="-20" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-137" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;省大数据管理系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-136">
+          <mxGeometry x="20" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-141" value="与生态环境部门业务系统对接" style="swimlane;whiteSpace=wrap;html=1;startSize=23;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="140" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PI_EQl_N4xML3odlSElJ-142" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;省生态环境综合监管系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PI_EQl_N4xML3odlSElJ-141">
+          <mxGeometry x="20" y="40" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
