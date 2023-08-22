@@ -1,11 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T09:53:42.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="M5Nm-MmCljmM3Ae2T4Lc" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T10:06:13.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Yyb54j2ieHvkDF_0Gtzm" version="21.3.6" type="github">
   <diagram name="第 1 页" id="T5nhlxBBcjZQmFqYQF76">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C_uT_jBKD8Ni-PDnoCpX-1" target="C_uT_jBKD8Ni-PDnoCpX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-1" value="Actor1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-2" value="Actor2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-3" value="Actor3" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C_uT_jBKD8Ni-PDnoCpX-6" target="C_uT_jBKD8Ni-PDnoCpX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-6" value="上传文件By Browser" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C_uT_jBKD8Ni-PDnoCpX-8" target="C_uT_jBKD8Ni-PDnoCpX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-8" value="get oss up load url with auth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="440" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C_uT_jBKD8Ni-PDnoCpX-10" target="C_uT_jBKD8Ni-PDnoCpX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-10" value="通过 Auth Url 上传文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C_uT_jBKD8Ni-PDnoCpX-12" target="C_uT_jBKD8Ni-PDnoCpX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-12" value="上传成功" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C_uT_jBKD8Ni-PDnoCpX-14" value="存储OSS URl，记录私有或共享" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
