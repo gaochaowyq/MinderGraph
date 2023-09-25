@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T10:05:00.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="7Ctx81YGyTS6II0sKQIW" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T11:53:42.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="VNkW_Ii8kgfaiCW1ovAb" version="21.6.8" type="github">
   <diagram name="第 1 页" id="6-zEqWDLABRJ-0VvF1WF">
-    <mxGraphModel dx="1434" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2359" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,8 +44,69 @@
         <mxCell id="fpNSDFRgm4avGdtvMv96-6" value="人工智能分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="225" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpNSDFRgm4avGdtvMv96-11" target="fpNSDFRgm4avGdtvMv96-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fpNSDFRgm4avGdtvMv96-11" target="fpNSDFRgm4avGdtvMv96-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-19" value="根绝选择模板，进入特定的项目基本信息输入界面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fpNSDFRgm4avGdtvMv96-18">
+          <mxGeometry x="0.2632" y="2" relative="1" as="geometry">
+            <mxPoint x="32" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fpNSDFRgm4avGdtvMv96-11" value="选择出最有限匹配的项目类型模板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-14" value="类似人工智能在google 搜索的应用，可以模糊检索最合适的内容" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpNSDFRgm4avGdtvMv96-15" target="fpNSDFRgm4avGdtvMv96-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-15" value="利用JinJia模板替换评估文本中需要替换掉的信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="428" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpNSDFRgm4avGdtvMv96-17" target="fpNSDFRgm4avGdtvMv96-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-21" value="传递替换信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fpNSDFRgm4avGdtvMv96-20">
+          <mxGeometry x="-0.2222" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="fpNSDFRgm4avGdtvMv96-17" target="fpNSDFRgm4avGdtvMv96-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-17" value="项目信息输入界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="428" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpNSDFRgm4avGdtvMv96-22" target="fpNSDFRgm4avGdtvMv96-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-22" value="以段落为基本单位，标题为索引，拆分段落" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpNSDFRgm4avGdtvMv96-24" target="fpNSDFRgm4avGdtvMv96-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-24" value="利用人工智能重写段落，形成表达类似内容的全新文字" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-26" value="支持人为调整" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="685" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-27" value="重写完所有段落后，输出信息的文本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpNSDFRgm4avGdtvMv96-30" target="fpNSDFRgm4avGdtvMv96-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-30" value="基本信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="488" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-32" value="需要计算的信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="588" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
