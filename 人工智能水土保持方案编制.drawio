@@ -1,11 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T09:59:53.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="l7v6Jm8jD9GKF3DsRM-C" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T10:04:23.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="f-RX9JktFPdtXCxceedS" version="21.6.8" type="github">
   <diagram name="第 1 页" id="6-zEqWDLABRJ-0VvF1WF">
     <mxGraphModel dx="1434" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fpNSDFRgm4avGdtvMv96-1" value="多个既有的评估报告案例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fpNSDFRgm4avGdtvMv96-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpNSDFRgm4avGdtvMv96-1" target="fpNSDFRgm4avGdtvMv96-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-1" value="多个既有的多类型评估报告案例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpNSDFRgm4avGdtvMv96-2" target="fpNSDFRgm4avGdtvMv96-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-10" value="样本" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fpNSDFRgm4avGdtvMv96-9">
+          <mxGeometry x="0.2444" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fpNSDFRgm4avGdtvMv96-2" target="fpNSDFRgm4avGdtvMv96-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-2" value="提炼每个类型的案例的特点，如报告中综述的某个段落，用于区分不同类型的报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpNSDFRgm4avGdtvMv96-4" target="fpNSDFRgm4avGdtvMv96-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-8" value="标记" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fpNSDFRgm4avGdtvMv96-7">
+          <mxGeometry x="0.4167" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-4" value="&lt;div&gt;人工归纳可能出现的报告类型：&lt;/div&gt;&lt;div&gt;铁路、电力、建筑。。。。。。&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-5" value="可被不断扩充" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpNSDFRgm4avGdtvMv96-6" target="fpNSDFRgm4avGdtvMv96-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-6" value="人工智能分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fpNSDFRgm4avGdtvMv96-11" value="选择合适的" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
