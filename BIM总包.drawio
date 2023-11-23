@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T03:03:49.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="wzZ4Jyfjs0v_7oUMdw-S" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T03:05:52.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="-n5wwMf_gtWc7-kc2IbI" version="22.1.3" type="github">
   <diagram id="_444KMjF0R_JeEPrCnwJ" name="第 1 页">
     <mxGraphModel dx="1195" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -308,8 +308,16 @@
         <mxCell id="b8Y-zz4C_BAveQWGTimN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.68;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="b8Y-zz4C_BAveQWGTimN-1" target="IrjwPeZLxQH9oHeEekAO-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="b8Y-zz4C_BAveQWGTimN-5" value="BIM提资" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b8Y-zz4C_BAveQWGTimN-3">
+          <mxGeometry x="0.011" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="b8Y-zz4C_BAveQWGTimN-1" value="BIM吸收方案设计成果，提供设计控制性条件，如结构边界、板边界、景观边界、幕墙边界、室内边界等" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="810" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b8Y-zz4C_BAveQWGTimN-6" value="提资反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="778" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
