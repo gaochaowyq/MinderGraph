@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T07:11:50.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="PHO1VM_N0oYHF7Ec25ht" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T07:19:00.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="ACq1h0JFrJ_kKvmMsmI4" version="22.1.11" type="github">
   <diagram name="第 1 页" id="n09VF-qtBlfTQfdAx5i1">
-    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,11 +187,26 @@
         <mxCell id="VT3gKNCmVINdVj35agG4-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-58" target="VT3gKNCmVINdVj35agG4-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-58" value="&lt;h1&gt;灵活化验证机制&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、只验证两两的关系&lt;/p&gt;&lt;p&gt;2、数据流的基础上补充控制流&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VT3gKNCmVINdVj35agG4-58" value="&lt;h1&gt;灵活化验证机制&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、只验证两两的关系&lt;/p&gt;&lt;p&gt;2、数据流的基础上补充控制流&lt;/p&gt;&lt;p&gt;3、添加补充节点&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="601" width="190" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-60" value="&lt;h1&gt;灵活化验证机制&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、只验证两两的关系&lt;/p&gt;&lt;p&gt;2、数据流的基础上补充控制流&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1121" width="190" height="139" as="geometry" />
+        <mxCell id="VT3gKNCmVINdVj35agG4-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-60" target="VT3gKNCmVINdVj35agG4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VT3gKNCmVINdVj35agG4-60" value="&lt;h1&gt;提供常用软件包&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、Rhino、SU、Revit&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1011" width="190" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="VT3gKNCmVINdVj35agG4-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-62" target="VT3gKNCmVINdVj35agG4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VT3gKNCmVINdVj35agG4-62" value="&lt;h1&gt;深化有偿机制&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、新服务链有偿机制（类似Plugin）&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="688" width="210" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="VT3gKNCmVINdVj35agG4-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-64" target="VT3gKNCmVINdVj35agG4-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VT3gKNCmVINdVj35agG4-64" value="&lt;h1&gt;有偿使用&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、深化有偿描述，简化有偿分配方式&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="610" width="210" height="139" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
