@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T06:58:46.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="dZqFoFo1RX7dzyOC_Xco" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T07:00:46.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="8kwQwM8lMkB7C4nC3qLc" version="22.1.11" type="github">
   <diagram name="第 1 页" id="n09VF-qtBlfTQfdAx5i1">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-44" value="模型验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-46" target="VT3gKNCmVINdVj35agG4-31">
           <mxGeometry relative="1" as="geometry" />
@@ -187,7 +187,7 @@
         <mxCell id="VT3gKNCmVINdVj35agG4-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-58" target="VT3gKNCmVINdVj35agG4-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-58" value="&lt;h1&gt;灵活化验证机制&lt;br&gt;&lt;/h1&gt;&lt;p&gt;引入可视化编程，代替“透明链”&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VT3gKNCmVINdVj35agG4-58" value="&lt;h1&gt;灵活化验证机制&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、只验证两两的关系&lt;/p&gt;&lt;p&gt;2、数据流的基础上补充控制流&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="601" width="190" height="139" as="geometry" />
         </mxCell>
       </root>
