@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T05:45:20.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="E1-78j7Ps6DjydEEqJ_q" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T05:52:31.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="dS8FBNcdG7IVGtZZUBEv" version="22.1.11" type="github">
   <diagram name="第 1 页" id="n09VF-qtBlfTQfdAx5i1">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         <mxCell id="VT3gKNCmVINdVj35agG4-1" value="资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-2" target="VT3gKNCmVINdVj35agG4-3">
+        <mxCell id="VT3gKNCmVINdVj35agG4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-13" target="VT3gKNCmVINdVj35agG4-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-2" value="语义描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -25,22 +25,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-3" value="发现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-4" target="VT3gKNCmVINdVj35agG4-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-4" value="链构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-8" value="链复用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-10" target="VT3gKNCmVINdVj35agG4-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-10" value="&lt;div&gt;WSDL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VT3gKNCmVINdVj35agG4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-2" target="VT3gKNCmVINdVj35agG4-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="560" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VT3gKNCmVINdVj35agG4-13" value="发现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
