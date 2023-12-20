@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T06:03:13.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="pj4M7inMzSIwHKC4FytG" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T06:56:31.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="AQnBJv9AzoP2I6Q3fEdt" version="22.1.11" type="github">
   <diagram name="第 1 页" id="n09VF-qtBlfTQfdAx5i1">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -157,6 +157,26 @@
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-48" value="复用与可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VT3gKNCmVINdVj35agG4-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-50" target="VT3gKNCmVINdVj35agG4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VT3gKNCmVINdVj35agG4-50" value="&lt;h1&gt;资源类型扩展&lt;/h1&gt;&lt;p&gt;由地理信息向建筑信息与IOT信息服务扩展&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="1030" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VT3gKNCmVINdVj35agG4-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VT3gKNCmVINdVj35agG4-52" value="&lt;h1&gt;接口规范扩展&lt;br&gt;&lt;/h1&gt;&lt;p&gt;由SOAP向RESTful 扩展&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1121" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VT3gKNCmVINdVj35agG4-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT3gKNCmVINdVj35agG4-54" target="VT3gKNCmVINdVj35agG4-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VT3gKNCmVINdVj35agG4-54" value="&lt;h1&gt;利用人工智能替换MDS机制&lt;br&gt;&lt;/h1&gt;&lt;p&gt;MDS方法与人工智能机制很类似，可以用更通用和成熟的方案代替该环节&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1121" width="190" height="139" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
