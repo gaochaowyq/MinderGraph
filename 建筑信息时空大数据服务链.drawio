@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T02:10:04.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="zl3Lwr1ygcFqjQw45yVv" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T02:20:27.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Vs8Bd7zhmOa-w-xt0C49" version="22.1.15" type="github">
   <diagram name="第 1 页" id="n09VF-qtBlfTQfdAx5i1">
-    <mxGraphModel dx="2449" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2849" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,7 +117,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-36" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;WSDL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="165" y="999" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-29" target="VT3gKNCmVINdVj35agG4-38" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -172,23 +172,23 @@
         <mxCell id="VT3gKNCmVINdVj35agG4-52" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;接口规范扩展&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;由SOAP向RESTful 扩展&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="215" y="1410" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-54" target="VT3gKNCmVINdVj35agG4-38" edge="1">
+        <mxCell id="VT3gKNCmVINdVj35agG4-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VT3gKNCmVINdVj35agG4-54" target="VT3gKNCmVINdVj35agG4-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-54" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;利用人工智能替换MDS机制&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;MDS方法与人工智能机制很类似，可以用更通用和成熟的方案代替该环节&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="455" y="1410" width="190" height="139" as="geometry" />
+          <mxGeometry x="430" y="1450" width="305" height="160" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VT3gKNCmVINdVj35agG4-56" target="VT3gKNCmVINdVj35agG4-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-56" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;引入可视化编程&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;引入可视化编程，代替“透明链”&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="780" y="1410" width="190" height="139" as="geometry" />
+        <mxCell id="VT3gKNCmVINdVj35agG4-56" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;可视化编程与节点设计提升&lt;/h1&gt;&lt;div&gt;拆分“数据流”与控制流&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="780" y="1410" width="190" height="200" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VT3gKNCmVINdVj35agG4-58" target="VT3gKNCmVINdVj35agG4-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-58" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;灵活化验证机制&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;1、只验证两两的关系&lt;/p&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;2、数据流的基础上补充控制流&lt;/p&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;3、添加补充节点&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="880" y="800" width="190" height="139" as="geometry" />
+        <mxCell id="VT3gKNCmVINdVj35agG4-58" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;灵活化验证机制&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;简化验证机制，提高可视化编程的灵活度和复杂度，将重点放在模型复用" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="870" y="770" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-60" target="VT3gKNCmVINdVj35agG4-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -199,14 +199,14 @@
         <mxCell id="VT3gKNCmVINdVj35agG4-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-62" target="VT3gKNCmVINdVj35agG4-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-62" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;深化有偿机制&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;1、新服务链有偿机制（类似Plugin）&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="1155" y="977" width="210" height="139" as="geometry" />
+        <mxCell id="VT3gKNCmVINdVj35agG4-62" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;深化有偿机制&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;新服务链有偿机制&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="1155" y="977" width="425" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-64" target="VT3gKNCmVINdVj35agG4-29" edge="1">
+        <mxCell id="VT3gKNCmVINdVj35agG4-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-64" target="VT3gKNCmVINdVj35agG4-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-64" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;有偿使用&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;1、深化有偿描述，简化有偿分配方式&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="345" y="899" width="210" height="150" as="geometry" />
+        <mxCell id="VT3gKNCmVINdVj35agG4-64" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;有偿机制&lt;/h1&gt;&lt;div&gt;有偿机制不应过于复杂，但应包含有偿机制&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="320" y="840" width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="AEXm9rrZLJ3IoN8SJLd9-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEXm9rrZLJ3IoN8SJLd9-1" target="VT3gKNCmVINdVj35agG4-1">
           <mxGeometry relative="1" as="geometry" />
@@ -228,17 +228,31 @@
         <mxCell id="AEXm9rrZLJ3IoN8SJLd9-5" value="路由转发机制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-40" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEXm9rrZLJ3IoN8SJLd9-8" target="VT3gKNCmVINdVj35agG4-27">
+        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEXm9rrZLJ3IoN8SJLd9-12" target="AEXm9rrZLJ3IoN8SJLd9-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-8" value="P2P" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="1250" width="120" height="60" as="geometry" />
+        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-12" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;资源节点建设模式选择&lt;/h1&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;节点建设方案的选择，适用性与经济效益的关系&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-415" y="1010" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEXm9rrZLJ3IoN8SJLd9-9" target="VT3gKNCmVINdVj35agG4-27">
+        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEXm9rrZLJ3IoN8SJLd9-19" target="VT3gKNCmVINdVj35agG4-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-9" value="路由转发机制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1250" width="120" height="60" as="geometry" />
+        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-19" value="网格网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="1269" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEXm9rrZLJ3IoN8SJLd9-21" target="AEXm9rrZLJ3IoN8SJLd9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-21" value="P2P" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="1419" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEXm9rrZLJ3IoN8SJLd9-23" target="AEXm9rrZLJ3IoN8SJLd9-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-140" y="1388.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-23" value="路由转发机制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="1419" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
