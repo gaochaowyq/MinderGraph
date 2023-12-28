@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T02:08:10.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="eTgftYO1NfUd2FfUNPHu" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T02:10:04.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="zl3Lwr1ygcFqjQw45yVv" version="22.1.15" type="github">
   <diagram name="第 1 页" id="n09VF-qtBlfTQfdAx5i1">
     <mxGraphModel dx="2449" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -48,14 +48,14 @@
             <mxPoint x="560" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-13" value="分类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="VT3gKNCmVINdVj35agG4-13" value="注册/分类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="450" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-15" target="VT3gKNCmVINdVj35agG4-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-15" value="MDS降维后特征提取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="380" y="460" width="250" height="60" as="geometry" />
+          <mxGeometry x="320" y="470" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-17" target="VT3gKNCmVINdVj35agG4-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-27" value="资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="45" y="1139" width="120" height="60" as="geometry" />
+          <mxGeometry x="-35" y="1139" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-38" target="VT3gKNCmVINdVj35agG4-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -125,7 +125,7 @@
             <mxPoint x="565" y="1169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-38" value="分类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="VT3gKNCmVINdVj35agG4-38" value="注册/分类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="455" y="1139" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-40" target="VT3gKNCmVINdVj35agG4-38" edge="1">
@@ -162,7 +162,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-50" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;资源类型扩展&lt;/h1&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;由地理信息向建筑信息与IOT信息服务扩展&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1319" width="190" height="120" as="geometry" />
+          <mxGeometry y="1410" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-52" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -178,17 +178,17 @@
         <mxCell id="VT3gKNCmVINdVj35agG4-54" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;利用人工智能替换MDS机制&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;MDS方法与人工智能机制很类似，可以用更通用和成熟的方案代替该环节&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="455" y="1410" width="190" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-56" target="VT3gKNCmVINdVj35agG4-33" edge="1">
+        <mxCell id="VT3gKNCmVINdVj35agG4-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VT3gKNCmVINdVj35agG4-56" target="VT3gKNCmVINdVj35agG4-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-56" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;引入可视化编程&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;引入可视化编程，代替“透明链”&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="785" y="1410" width="190" height="139" as="geometry" />
+          <mxGeometry x="780" y="1410" width="190" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="VT3gKNCmVINdVj35agG4-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-58" target="VT3gKNCmVINdVj35agG4-33" edge="1">
+        <mxCell id="VT3gKNCmVINdVj35agG4-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VT3gKNCmVINdVj35agG4-58" target="VT3gKNCmVINdVj35agG4-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-58" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;灵活化验证机制&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;1、只验证两两的关系&lt;/p&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;2、数据流的基础上补充控制流&lt;/p&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;3、添加补充节点&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="895" y="890" width="190" height="139" as="geometry" />
+          <mxGeometry x="880" y="800" width="190" height="139" as="geometry" />
         </mxCell>
         <mxCell id="VT3gKNCmVINdVj35agG4-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=24;" parent="1" source="VT3gKNCmVINdVj35agG4-60" target="VT3gKNCmVINdVj35agG4-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -227,6 +227,18 @@
         </mxCell>
         <mxCell id="AEXm9rrZLJ3IoN8SJLd9-5" value="路由转发机制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-40" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEXm9rrZLJ3IoN8SJLd9-8" target="VT3gKNCmVINdVj35agG4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-8" value="P2P" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEXm9rrZLJ3IoN8SJLd9-9" target="VT3gKNCmVINdVj35agG4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEXm9rrZLJ3IoN8SJLd9-9" value="路由转发机制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
