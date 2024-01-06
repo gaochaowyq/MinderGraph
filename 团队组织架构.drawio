@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T05:23:15.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Q0MRnODhj6GA41P1aGkz" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-06T05:24:53.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="1ReI6V3ZHVtGmUMRN5Hg" version="22.1.15" type="github">
   <diagram name="第 1 页" id="8YTZ6w2VcloBYaFF-o3J">
-    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2603" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-LqaI-b5l2ttmITCtSE-1" value="&lt;br/&gt;&lt;br/&gt;&lt;div style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size:24.0pt&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size:24.0pt;&lt;br/&gt;font-family:仿宋;mso-ascii-font-family:仿宋;mso-fareast-font-family:仿宋;language:&lt;br/&gt;zh-CN&quot;&gt;河南大学王家耀院士创新团队“两院两中心”&lt;/span&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="130" width="690" height="60" as="geometry" />
+          <mxGeometry x="350" y="130" width="690" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-LqaI-b5l2ttmITCtSE-3" value="&lt;br&gt;&lt;br&gt;&lt;div style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;br/&gt;&lt;br/&gt;&lt;div style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size:20.0pt&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size:20.0pt;&lt;br/&gt;font-family:仿宋;mso-ascii-font-family:仿宋;mso-fareast-font-family:仿宋;color:red;&lt;br/&gt;language:zh-CN;mso-style-textfill-type:solid;mso-style-textfill-fill-color:&lt;br/&gt;red;mso-style-textfill-fill-alpha:100.0%&quot;&gt;全球人文与建筑时空数据融合（广东、北京）研究中心&lt;/span&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="260" width="690" height="60" as="geometry" />
+          <mxGeometry x="350" y="260" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-LqaI-b5l2ttmITCtSE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-LqaI-b5l2ttmITCtSE-5" target="N-LqaI-b5l2ttmITCtSE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-LqaI-b5l2ttmITCtSE-5" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;中国规划设计研究院&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="130" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-LqaI-b5l2ttmITCtSE-6" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;中国规划设计研究院（北京公司）&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="260" width="510" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
