@@ -1,14 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T02:27:36.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="zqZ1l0SHTnbdaRjQzQmO" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T02:35:32.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="NVKQ524YPsDiev8SZsAZ" version="22.1.17" type="github">
   <diagram name="第 1 页" id="zkXlzNXMupYskvnwvL7l">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PJvlCIirkV0077DgXP1W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJvlCIirkV0077DgXP1W-1" target="PJvlCIirkV0077DgXP1W-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PJvlCIirkV0077DgXP1W-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;深圳市CIM基础平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJvlCIirkV0077DgXP1W-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;深圳市CIM基础平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="360" width="240" height="60" as="geometry" />
+        <mxCell id="PJvlCIirkV0077DgXP1W-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;坪山区 CIM 平台规划会商系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJvlCIirkV0077DgXP1W-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="PJvlCIirkV0077DgXP1W-3" target="PJvlCIirkV0077DgXP1W-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PJvlCIirkV0077DgXP1W-3" value="&lt;h1&gt;BS架构，市政内网&lt;br&gt;&lt;/h1&gt;&lt;p&gt;以接入全市规划相关的现状与历史数据&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PJvlCIirkV0077DgXP1W-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJvlCIirkV0077DgXP1W-5" target="PJvlCIirkV0077DgXP1W-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PJvlCIirkV0077DgXP1W-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJvlCIirkV0077DgXP1W-5" target="PJvlCIirkV0077DgXP1W-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PJvlCIirkV0077DgXP1W-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;坪山区CIM基础平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJvlCIirkV0077DgXP1W-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;坪山区 CIM 平台规划会商系统可视化系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="440" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJvlCIirkV0077DgXP1W-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="PJvlCIirkV0077DgXP1W-11" target="PJvlCIirkV0077DgXP1W-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PJvlCIirkV0077DgXP1W-11" value="&lt;h1&gt;基于UE5.1&lt;br&gt;&lt;/h1&gt;&lt;p&gt;基于UE5.1开发的可视化系统，由深圳大学智慧城市研究院开发&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="290" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
