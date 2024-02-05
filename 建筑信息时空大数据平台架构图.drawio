@@ -1,46 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T02:14:45.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="wpK54ivu3GvCAuL0GT21" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T02:16:50.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="nKHPseWAXQTeaPMoCwWu" version="23.0.0" type="github">
   <diagram id="kzi67lXi-NrXoAS8o9gu" name="第 1 页">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nltCtTxTrXQfKwKJxCPT-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;XTec建筑信息时空大数据管理平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="310" width="160" height="60" as="geometry" />
+        <mxCell id="nltCtTxTrXQfKwKJxCPT-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;XTec建筑信息时空大数据管理系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="310" width="105" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="nltCtTxTrXQfKwKJxCPT-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nltCtTxTrXQfKwKJxCPT-2" target="nltCtTxTrXQfKwKJxCPT-1">
+        <mxCell id="nltCtTxTrXQfKwKJxCPT-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nltCtTxTrXQfKwKJxCPT-2" target="nltCtTxTrXQfKwKJxCPT-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nltCtTxTrXQfKwKJxCPT-2" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Revit实时协同系统&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="160" height="40" as="geometry" />
+          <mxGeometry x="650" y="190" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nltCtTxTrXQfKwKJxCPT-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nltCtTxTrXQfKwKJxCPT-4">
+        <mxCell id="nltCtTxTrXQfKwKJxCPT-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nltCtTxTrXQfKwKJxCPT-4" target="nltCtTxTrXQfKwKJxCPT-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nltCtTxTrXQfKwKJxCPT-4" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;定额数据管理系统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="260" width="160" height="40" as="geometry" />
+          <mxGeometry x="400" y="190" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nltCtTxTrXQfKwKJxCPT-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nltCtTxTrXQfKwKJxCPT-6" target="nltCtTxTrXQfKwKJxCPT-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nltCtTxTrXQfKwKJxCPT-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;工程进度管理系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="320" width="160" height="40" as="geometry" />
+          <mxGeometry x="330" y="340" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nltCtTxTrXQfKwKJxCPT-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nltCtTxTrXQfKwKJxCPT-8" target="nltCtTxTrXQfKwKJxCPT-1">
+        <mxCell id="nltCtTxTrXQfKwKJxCPT-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nltCtTxTrXQfKwKJxCPT-8" target="nltCtTxTrXQfKwKJxCPT-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nltCtTxTrXQfKwKJxCPT-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BIM数据管理系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="370" width="160" height="40" as="geometry" />
+          <mxGeometry x="560" y="480" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nltCtTxTrXQfKwKJxCPT-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nltCtTxTrXQfKwKJxCPT-11" target="nltCtTxTrXQfKwKJxCPT-1">
+        <mxCell id="nltCtTxTrXQfKwKJxCPT-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nltCtTxTrXQfKwKJxCPT-11" target="nltCtTxTrXQfKwKJxCPT-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nltCtTxTrXQfKwKJxCPT-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;地理信息数据管理系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="430" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nltCtTxTrXQfKwKJxCPT-14" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;定额数据管理系统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="320" width="160" height="40" as="geometry" />
+          <mxGeometry x="780" y="345" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
