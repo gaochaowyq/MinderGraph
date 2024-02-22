@@ -1,11 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T05:40:51.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="6hzaGFhsN9u0m3MXgGRD" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T05:42:12.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="7KFZnOlTOKdthxInaN2M" version="23.1.1" type="github">
   <diagram name="第 1 页" id="n8LWS-MoS3wE_tCHsdFM">
     <mxGraphModel dx="1434" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4nuF2kWgVF-aEByMuvn9-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4nuF2kWgVF-aEByMuvn9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4nuF2kWgVF-aEByMuvn9-1" target="4nuF2kWgVF-aEByMuvn9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nuF2kWgVF-aEByMuvn9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4nuF2kWgVF-aEByMuvn9-1" target="4nuF2kWgVF-aEByMuvn9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nuF2kWgVF-aEByMuvn9-1" value="公司业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nuF2kWgVF-aEByMuvn9-2" value="鲲特科技" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nuF2kWgVF-aEByMuvn9-4" value="百特绿源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
