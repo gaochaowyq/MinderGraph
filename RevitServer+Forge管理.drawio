@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T07:56:13.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="JahWPZQRLTpwkmMWilFK" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T07:57:21.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="q-QcglpAHsgcowVLxfaV" version="23.1.1" type="github">
   <diagram name="第 1 页" id="C5rgSx3-8mp9NiyUPTNc">
     <mxGraphModel dx="2603" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -120,6 +120,12 @@
         <mxCell id="2CLAxyI6eMahFZpv97hf-14" value="folderinfo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2CLAxyI6eMahFZpv97hf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2CLAxyI6eMahFZpv97hf-16" target="2CLAxyI6eMahFZpv97hf-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2CLAxyI6eMahFZpv97hf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2CLAxyI6eMahFZpv97hf-16" target="2CLAxyI6eMahFZpv97hf-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2CLAxyI6eMahFZpv97hf-16" value="listmodel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1410" y="720" width="120" height="60" as="geometry" />
         </mxCell>
@@ -128,6 +134,12 @@
         </mxCell>
         <mxCell id="2CLAxyI6eMahFZpv97hf-18" value="folderinfo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2CLAxyI6eMahFZpv97hf-21" value="preview" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2CLAxyI6eMahFZpv97hf-23" value="toforge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
