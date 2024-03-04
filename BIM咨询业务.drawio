@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T02:01:31.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" version="23.1.7" etag="n5yOop_vHzmZST592Chc" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T02:02:30.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="tln90rRL-9my6bEWNfWs" version="23.1.7" type="github">
   <diagram name="第 1 页" id="Farywq133jAkmJhaP7cw">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9B7ypN3GQHfcQZD_DzmT-1" target="9B7ypN3GQHfcQZD_DzmT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-1" value="建筑设计数字化与信息化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-2" value="总体要求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
