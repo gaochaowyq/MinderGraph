@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T02:05:09.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="Xhw_hzETESw9BH4kbepN" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T02:07:20.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="mngFbjEFuTk_jfkhSfdT" version="23.1.7" type="github">
   <diagram name="第 1 页" id="Farywq133jAkmJhaP7cw">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,6 +13,9 @@
         <mxCell id="9B7ypN3GQHfcQZD_DzmT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9B7ypN3GQHfcQZD_DzmT-2" target="9B7ypN3GQHfcQZD_DzmT-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9B7ypN3GQHfcQZD_DzmT-2" target="9B7ypN3GQHfcQZD_DzmT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9B7ypN3GQHfcQZD_DzmT-2" value="总体要求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -25,8 +28,11 @@
         <mxCell id="9B7ypN3GQHfcQZD_DzmT-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9B7ypN3GQHfcQZD_DzmT-5" target="9B7ypN3GQHfcQZD_DzmT-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9B7ypN3GQHfcQZD_DzmT-5" value="总体要求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9B7ypN3GQHfcQZD_DzmT-5" target="9B7ypN3GQHfcQZD_DzmT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-5" value="数字化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9B7ypN3GQHfcQZD_DzmT-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9B7ypN3GQHfcQZD_DzmT-7" target="9B7ypN3GQHfcQZD_DzmT-2">
           <mxGeometry relative="1" as="geometry" />
@@ -42,6 +48,32 @@
         </mxCell>
         <mxCell id="9B7ypN3GQHfcQZD_DzmT-13" value="建筑施工图设计数字化（BIM）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-15" value="建筑施工设计数字化（BIM）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="9B7ypN3GQHfcQZD_DzmT-17" target="9B7ypN3GQHfcQZD_DzmT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-20" value="相互的" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9B7ypN3GQHfcQZD_DzmT-19">
+          <mxGeometry x="0.1636" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9B7ypN3GQHfcQZD_DzmT-17" target="9B7ypN3GQHfcQZD_DzmT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9B7ypN3GQHfcQZD_DzmT-17" target="9B7ypN3GQHfcQZD_DzmT-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-17" value="信息化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-21" value="数据共享平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9B7ypN3GQHfcQZD_DzmT-23" value="可视化系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
