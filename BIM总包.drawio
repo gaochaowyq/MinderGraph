@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T03:52:21.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="uL8wmQZEtENr2xZ9_0n1" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T06:26:54.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="GmIzAg_qAva6Wv9a41_H" version="24.0.1" type="github">
   <diagram id="_444KMjF0R_JeEPrCnwJ" name="第 1 页">
     <mxGraphModel dx="1434" dy="774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2pAdNBix7doNy72w-4oj-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="6z5tFiYWaeQXX5f0UAhT-1" target="2pAdNBix7doNy72w-4oj-1">
+        <mxCell id="2pAdNBix7doNy72w-4oj-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="6z5tFiYWaeQXX5f0UAhT-1" target="2pAdNBix7doNy72w-4oj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6z5tFiYWaeQXX5f0UAhT-1" value="设计BIM总包" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -73,7 +73,7 @@
         <mxCell id="IrjwPeZLxQH9oHeEekAO-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6z5tFiYWaeQXX5f0UAhT-9" target="IrjwPeZLxQH9oHeEekAO-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2pAdNBix7doNy72w-4oj-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6z5tFiYWaeQXX5f0UAhT-9" target="2pAdNBix7doNy72w-4oj-1">
+        <mxCell id="2pAdNBix7doNy72w-4oj-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6z5tFiYWaeQXX5f0UAhT-9" target="2pAdNBix7doNy72w-4oj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6z5tFiYWaeQXX5f0UAhT-9" value="业主" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -315,13 +315,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b8Y-zz4C_BAveQWGTimN-1" value="BIM吸收方案设计成果，提供设计控制性条件，如结构边界、板边界、景观边界、幕墙边界、室内边界等" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="b8Y-zz4C_BAveQWGTimN-1" value="BIM吸收概念方案设计成果，提供设计控制性条件，如结构边界、板边界、景观边界、幕墙边界、室内边界等" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="810" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8Y-zz4C_BAveQWGTimN-6" value="提资反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="45" y="778" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2pAdNBix7doNy72w-4oj-1" value="施工BIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2pAdNBix7doNy72w-4oj-1" value="施工BIM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="575" y="230" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
