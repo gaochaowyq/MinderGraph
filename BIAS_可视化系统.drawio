@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T01:17:39.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="n5SAUpM6-QsGaknCJ1n1" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T01:35:40.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="iaNZTyZhn0z-_IMXdmru" version="24.4.13" type="github">
   <diagram id="nwSjNLSLKTwTbHizwymB" name="Page-1">
     <mxGraphModel dx="1974" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -301,6 +301,9 @@
         <mxCell id="icHpgwOC2srWcYEuz9qP-1" value="前期研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="icHpgwOC2srWcYEuz9qP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHpgwOC2srWcYEuz9qP-2" target="icHpgwOC2srWcYEuz9qP-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="icHpgwOC2srWcYEuz9qP-2" value="城市关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
@@ -342,6 +345,15 @@
         </mxCell>
         <mxCell id="icHpgwOC2srWcYEuz9qP-18" value="对既有方案影响研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="icHpgwOC2srWcYEuz9qP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHpgwOC2srWcYEuz9qP-19" target="icHpgwOC2srWcYEuz9qP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="icHpgwOC2srWcYEuz9qP-19" value="&lt;div&gt;相机位置调整，&lt;/div&gt;&lt;div&gt;大范围2维平面&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="icHpgwOC2srWcYEuz9qP-21" value="加标注+二维轮廓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
