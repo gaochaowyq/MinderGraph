@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T13:53:31.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="iQKxbydV8jk8ORjDBhv3" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T14:20:00.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ep8lM2-eqqbTZNXO7j4o" version="24.6.3" type="github">
   <diagram id="nwSjNLSLKTwTbHizwymB" name="Page-1">
     <mxGraphModel dx="2110" dy="1986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -389,7 +389,7 @@
           <mxGeometry x="1730" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CuFwo586nDkS36i29zTy-12" value="区位介绍：1、从大到小 的整体位置关系&lt;div&gt;通过媒体控制？&lt;/div&gt;&lt;div&gt;展示方式，采用UE？WEB？&lt;/div&gt;&lt;div&gt;WEB的好处是可以复用，数据处理简单。&amp;nbsp;&lt;/div&gt;&lt;div&gt;难度：控制复杂，且需要重写。&lt;/div&gt;&lt;div&gt;还有风格问题&lt;/div&gt;&lt;div&gt;标注问题&lt;/div&gt;&lt;div&gt;以及标注的存储问题。&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2010" y="950" width="320" height="100" as="geometry" />
+          <mxGeometry x="2010" y="900" width="390" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
