@@ -712,8 +712,14 @@
         <mxCell id="FI4J-V0L0RBUP5NJowjF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FI4J-V0L0RBUP5NJowjF-4" target="FI4J-V0L0RBUP5NJowjF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FI4J-V0L0RBUP5NJowjF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FI4J-V0L0RBUP5NJowjF-8" target="FI4J-V0L0RBUP5NJowjF-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="FI4J-V0L0RBUP5NJowjF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FI4J-V0L0RBUP5NJowjF-18" target="FI4J-V0L0RBUP5NJowjF-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3070" y="1720" />
+              <mxPoint x="2898" y="1720" />
+              <mxPoint x="2898" y="1840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FI4J-V0L0RBUP5NJowjF-4" value="Get Bprices By Mcoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2690" y="1500" width="120" height="60" as="geometry" />
@@ -731,16 +737,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FI4J-V0L0RBUP5NJowjF-10" value="Select Sub Bprice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2918" y="1685" width="120" height="60" as="geometry" />
+          <mxGeometry x="2950" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FI4J-V0L0RBUP5NJowjF-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FI4J-V0L0RBUP5NJowjF-14" target="FI4J-V0L0RBUP5NJowjF-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FI4J-V0L0RBUP5NJowjF-14" value="Use String To Express How to Add Sub Bprice" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3038" y="1805" width="270" height="30" as="geometry" />
+          <mxGeometry x="3030" y="1910" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FI4J-V0L0RBUP5NJowjF-16" value="Set Sub Bprice Priciple " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3148" y="1685" width="120" height="60" as="geometry" />
+          <mxGeometry x="3180" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI4J-V0L0RBUP5NJowjF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FI4J-V0L0RBUP5NJowjF-8" target="FI4J-V0L0RBUP5NJowjF-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3190" y="1560" as="sourcePoint" />
+            <mxPoint x="2918" y="1715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI4J-V0L0RBUP5NJowjF-18" value="is Sub" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="1610" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
