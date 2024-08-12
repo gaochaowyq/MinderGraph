@@ -703,8 +703,26 @@
         <mxCell id="FI4J-V0L0RBUP5NJowjF-1" value="Set BPrice In Revit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2361" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FI4J-V0L0RBUP5NJowjF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FI4J-V0L0RBUP5NJowjF-2" target="FI4J-V0L0RBUP5NJowjF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FI4J-V0L0RBUP5NJowjF-2" value="Select Element Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2620" y="1500" width="120" height="60" as="geometry" />
+          <mxGeometry x="2530" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI4J-V0L0RBUP5NJowjF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FI4J-V0L0RBUP5NJowjF-4" target="FI4J-V0L0RBUP5NJowjF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FI4J-V0L0RBUP5NJowjF-4" value="Get Bprices By Mcoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI4J-V0L0RBUP5NJowjF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FI4J-V0L0RBUP5NJowjF-6" target="FI4J-V0L0RBUP5NJowjF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FI4J-V0L0RBUP5NJowjF-6" value="Select Main BPrice " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI4J-V0L0RBUP5NJowjF-8" value="Set Main BPrice As Instace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3130" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
