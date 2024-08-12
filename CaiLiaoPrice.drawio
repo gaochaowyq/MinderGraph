@@ -700,7 +700,7 @@
         <mxCell id="FI4J-V0L0RBUP5NJowjF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FI4J-V0L0RBUP5NJowjF-1" target="FI4J-V0L0RBUP5NJowjF-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FI4J-V0L0RBUP5NJowjF-1" value="Set BPrice In Revit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FI4J-V0L0RBUP5NJowjF-1" value="Set BPrice In Revit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2361" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FI4J-V0L0RBUP5NJowjF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FI4J-V0L0RBUP5NJowjF-2" target="FI4J-V0L0RBUP5NJowjF-4">
