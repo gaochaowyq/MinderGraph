@@ -306,7 +306,7 @@
         <mxCell id="j58EPWAzB8WPeg4I2Kty-103" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
           <mxGeometry x="330" y="933.5" width="140" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="j58EPWAzB8WPeg4I2Kty-105" value="桌面应用系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-105" value="桌面应用系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=1;strokeWidth=3;strokeColor=#ff0000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1022" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-108" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-67" target="j58EPWAzB8WPeg4I2Kty-104">
@@ -339,7 +339,12 @@
         <mxCell id="j58EPWAzB8WPeg4I2Kty-120" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-116" target="j58EPWAzB8WPeg4I2Kty-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j58EPWAzB8WPeg4I2Kty-116" value="会商应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;dashed=1;strokeWidth=3;strokeColor=#FF8000;" vertex="1" parent="1">
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-178" value="嵌入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j58EPWAzB8WPeg4I2Kty-120">
+          <mxGeometry x="-0.0842" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-116" value="会商应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;dashed=1;strokeWidth=3;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="750" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-121" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-117" target="j58EPWAzB8WPeg4I2Kty-103">
@@ -486,6 +491,18 @@
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-174" value="感知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;dashed=1;strokeWidth=3;strokeColor=#FF8000;" vertex="1" parent="j58EPWAzB8WPeg4I2Kty-176">
           <mxGeometry x="540" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-181" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-180" target="j58EPWAzB8WPeg4I2Kty-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-180" value="全息应用系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;dashed=1;strokeWidth=3;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="750" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-183" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-182" target="j58EPWAzB8WPeg4I2Kty-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-182" value="中山大学，李雄交流" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="690" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
