@@ -321,7 +321,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-109" value="指挥决策应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="267.5" y="750" width="60" height="120" as="geometry" />
+          <mxGeometry x="240" y="750" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-110" target="j58EPWAzB8WPeg4I2Kty-73">
           <mxGeometry relative="1" as="geometry" />
@@ -345,7 +345,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-116" value="会商应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="350" y="750" width="60" height="120" as="geometry" />
+          <mxGeometry x="337.5" y="750" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-121" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-117" target="j58EPWAzB8WPeg4I2Kty-103">
           <mxGeometry relative="1" as="geometry" />
@@ -414,7 +414,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-139" value="河南大学" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1080" width="60" height="30" as="geometry" />
+          <mxGeometry x="137.5" y="1080" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-142" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-141" target="j58EPWAzB8WPeg4I2Kty-110">
           <mxGeometry relative="1" as="geometry" />
