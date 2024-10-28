@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.7">
   <diagram name="第 1 页" id="kIEYbvfMVvp7eRZ-XGNE">
-    <mxGraphModel dx="3218" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4037" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -523,8 +523,8 @@
         <mxCell id="j58EPWAzB8WPeg4I2Kty-185" value="北理工，夏元清团队" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="82.5" y="972" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j58EPWAzB8WPeg4I2Kty-187" value="时空云控管理系统（夏元清团队）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="2000" width="1240" height="60" as="geometry" />
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-187" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;时空云控管理系统（夏元清团队）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2000" width="1380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-188" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;网络与硬件安全&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="720" width="90" height="2150" as="geometry" />
