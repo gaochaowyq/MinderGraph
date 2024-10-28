@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="j58EPWAzB8WPeg4I2Kty-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现场救援指挥车使用要求&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、基本用途：现场 指挥决策&lt;/p&gt;&lt;p&gt;2、电信业务：固定电话、固定会议电话、电视、图像。&lt;/p&gt;&lt;p&gt;3、工作环境：突发现场&lt;/p&gt;&lt;p&gt;4、设计目标：感知、智算、通信、执行&lt;/p&gt;&lt;p&gt;5、使用配置：移动指挥车&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="420" width="420" height="190" as="geometry" />
+          <mxGeometry y="300" width="420" height="190" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现场救援指挥通信系统主要功能&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、对外通信：卫星通信、会商、时空大数据&lt;/p&gt;&lt;p&gt;2、智能决策：现场实时监控、显示、分析综合处理。提供指挥员及时了解事件发展态势。&lt;/p&gt;&lt;p&gt;3、信息现场采集：应急通信、无人机遥感&lt;/p&gt;&lt;p&gt;4、现场办公：扩展局域网、支持现场办公&lt;br&gt;&lt;/p&gt;&lt;p&gt;5、平台协同：构建点对多局域网，汇聚多部门指挥车&lt;/p&gt;&lt;p&gt;6、会商：实现异地会商，听取上级，调度下级&lt;/p&gt;&lt;p&gt;7、视频图像功能&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="420" width="420" height="250" as="geometry" />
+          <mxGeometry x="460" y="300" width="420" height="250" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-107" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-67" target="j58EPWAzB8WPeg4I2Kty-103">
           <mxGeometry relative="1" as="geometry" />
@@ -87,7 +87,7 @@
           <mxGeometry x="380.00000000000006" y="1780" width="156.42" height="123" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-93" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-150" y="2030" width="1300" height="635" as="geometry" />
+          <mxGeometry y="2180" width="1300" height="635" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="j58EPWAzB8WPeg4I2Kty-93" source="j58EPWAzB8WPeg4I2Kty-4" target="j58EPWAzB8WPeg4I2Kty-14">
           <mxGeometry relative="1" as="geometry" />
@@ -116,7 +116,7 @@
         <mxCell id="j58EPWAzB8WPeg4I2Kty-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="j58EPWAzB8WPeg4I2Kty-93" source="j58EPWAzB8WPeg4I2Kty-4" target="j58EPWAzB8WPeg4I2Kty-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j58EPWAzB8WPeg4I2Kty-46" value="语音" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j58EPWAzB8WPeg4I2Kty-45">
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-46" value="集群通信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j58EPWAzB8WPeg4I2Kty-45">
           <mxGeometry x="0.1954" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -297,6 +297,20 @@
         <mxCell id="j58EPWAzB8WPeg4I2Kty-97" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.car;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="j58EPWAzB8WPeg4I2Kty-93">
           <mxGeometry x="640" y="515" width="85" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-194" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j58EPWAzB8WPeg4I2Kty-93" source="j58EPWAzB8WPeg4I2Kty-192" target="j58EPWAzB8WPeg4I2Kty-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-195" value="军事通信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j58EPWAzB8WPeg4I2Kty-194">
+          <mxGeometry x="-0.0653" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-192" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" vertex="1" parent="j58EPWAzB8WPeg4I2Kty-93">
+          <mxGeometry x="80" y="515" width="70.59" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-193" value="微波通信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="j58EPWAzB8WPeg4I2Kty-93">
+          <mxGeometry x="80" y="575" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-95" target="j58EPWAzB8WPeg4I2Kty-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -347,11 +361,10 @@
         <mxCell id="j58EPWAzB8WPeg4I2Kty-116" value="会商应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;dashed=1;strokeWidth=3;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="750" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j58EPWAzB8WPeg4I2Kty-121" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-117" target="j58EPWAzB8WPeg4I2Kty-103">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j58EPWAzB8WPeg4I2Kty-117" value="其它&lt;br&gt;？" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="428.21" y="750" width="60" height="120" as="geometry" />
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-121" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-198" target="j58EPWAzB8WPeg4I2Kty-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="437" y="870" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-127" target="j58EPWAzB8WPeg4I2Kty-95">
           <mxGeometry relative="1" as="geometry" />
@@ -512,6 +525,29 @@
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-185" value="北理工，夏元清团队" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="82.5" y="972" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-187" value="时空云控管理系统（夏元清团队）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2000" width="1240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-188" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;网络与硬件安全&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="720" width="90" height="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-190" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-189" target="j58EPWAzB8WPeg4I2Kty-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-189" value="覆盖方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-198" target="j58EPWAzB8WPeg4I2Kty-172">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="660" />
+              <mxPoint x="1190" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-198" value="智慧执行" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;dashed=1;strokeWidth=3;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="750" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
