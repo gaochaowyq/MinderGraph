@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.7">
   <diagram name="第 1 页" id="kIEYbvfMVvp7eRZ-XGNE">
-    <mxGraphModel dx="4037" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3559" dy="1290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="j58EPWAzB8WPeg4I2Kty-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现场救援指挥车使用要求&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、基本用途：现场 指挥决策&lt;/p&gt;&lt;p&gt;2、电信业务：固定电话、固定会议电话、电视、图像。&lt;/p&gt;&lt;p&gt;3、工作环境：突发现场&lt;/p&gt;&lt;p&gt;4、设计目标：感知、智算、通信、执行&lt;/p&gt;&lt;p&gt;5、使用配置：移动指挥车&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="300" width="420" height="190" as="geometry" />
+          <mxGeometry x="-5" y="370" width="420" height="190" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现场救援指挥通信系统主要功能&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、对外通信：卫星通信、会商、时空大数据&lt;/p&gt;&lt;p&gt;2、智能决策：现场实时监控、显示、分析综合处理。提供指挥员及时了解事件发展态势。&lt;/p&gt;&lt;p&gt;3、信息现场采集：应急通信、无人机遥感&lt;/p&gt;&lt;p&gt;4、现场办公：扩展局域网、支持现场办公&lt;br&gt;&lt;/p&gt;&lt;p&gt;5、平台协同：构建点对多局域网，汇聚多部门指挥车&lt;/p&gt;&lt;p&gt;6、会商：实现异地会商，听取上级，调度下级&lt;/p&gt;&lt;p&gt;7、视频图像功能&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="300" width="420" height="250" as="geometry" />
+          <mxGeometry x="885" y="370" width="420" height="250" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-107" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-67" target="j58EPWAzB8WPeg4I2Kty-103">
           <mxGeometry relative="1" as="geometry" />
@@ -423,7 +423,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-139" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;河南大学&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1080" width="137.5" height="30" as="geometry" />
+          <mxGeometry y="1080" width="137.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-142" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-141" target="j58EPWAzB8WPeg4I2Kty-110">
           <mxGeometry relative="1" as="geometry" />
@@ -437,19 +437,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-141" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;河南大学&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="1600" width="120" height="30" as="geometry" />
+          <mxGeometry y="1550" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-150" value="有合作意向" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ff0000;strokeWidth=3;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="760" width="120" height="50" as="geometry" />
+          <mxGeometry x="-150" y="750" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-151" value="待寻找" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ff8040;strokeWidth=3;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="840" width="120" height="50" as="geometry" />
+          <mxGeometry x="-150" y="830" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-152" value="硬件厂商提供接口" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000FF;strokeWidth=3;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="922" width="120" height="50" as="geometry" />
+          <mxGeometry x="-150" y="912" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-153" value="根据具体需求扩展" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=3;dashed=1;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="1002" width="120" height="50" as="geometry" />
+          <mxGeometry x="-150" y="992" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-161" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-158" target="j58EPWAzB8WPeg4I2Kty-77">
           <mxGeometry relative="1" as="geometry" />
@@ -533,7 +533,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-189" value="覆盖方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2880" width="60" height="30" as="geometry" />
+          <mxGeometry x="240" y="2850" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-198" target="j58EPWAzB8WPeg4I2Kty-172">
           <mxGeometry relative="1" as="geometry">
