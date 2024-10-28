@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.7">
   <diagram name="第 1 页" id="kIEYbvfMVvp7eRZ-XGNE">
-    <mxGraphModel dx="4037" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3055" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j58EPWAzB8WPeg4I2Kty-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现场救援指挥车使用要求&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、基本用途：支持林区，指挥员实施现场指挥抢险&lt;/p&gt;&lt;p&gt;2、电信业务：固定电话、固定会议电话、电视、图像。&lt;/p&gt;&lt;p&gt;3、工作环境：覆盖整个灾区&lt;/p&gt;&lt;p&gt;4、设计目标：可靠、高安全、机动、简明；业务质量、信息安全、高资源使用效率&lt;/p&gt;&lt;p&gt;5、使用配置：移动指挥车&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现场救援指挥车使用要求&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、基本用途：现场 指挥决策&lt;/p&gt;&lt;p&gt;2、电信业务：固定电话、固定会议电话、电视、图像。&lt;/p&gt;&lt;p&gt;3、工作环境：突发现场&lt;/p&gt;&lt;p&gt;4、设计目标：感知、智算、通信、执行&lt;/p&gt;&lt;p&gt;5、使用配置：移动指挥车&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="420" width="420" height="190" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现场救援指挥通信系统主要功能&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、对外通信：卫星通信、会商、时空大数据&lt;/p&gt;&lt;p&gt;2、智能决策：现场实时监控、显示、分析综合处理。提供指挥员及时了解事件发展态势。&lt;/p&gt;&lt;p&gt;3、信息现场采集：应急通信、无人机遥感&lt;/p&gt;&lt;p&gt;4、现场办公：扩展局域网、支持现场办公&lt;br&gt;&lt;/p&gt;&lt;p&gt;5、平台协同：构建点对多局域网，汇聚多部门指挥车&lt;/p&gt;&lt;p&gt;6、会商：实现异地会商，听取上级，调度下级&lt;/p&gt;&lt;p&gt;7、视频图像功能&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
