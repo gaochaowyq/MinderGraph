@@ -101,7 +101,7 @@
           <mxGeometry x="585" y="580" width="55" height="100" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-19" value="指挥中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="750" width="60" height="30" as="geometry" />
+          <mxGeometry x="860" y="750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-20" value="图传基站" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="680" width="60" height="30" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry x="590" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-33" value="" style="group;fillColor=default;strokeColor=default;strokeWidth=5;container=1;rounded=1;pointerEvents=0;moveCells=1;connectable=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="830" y="510" width="260" height="240" as="geometry" />
+          <mxGeometry x="860" y="510" width="260" height="240" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-26" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.supercomputer;" vertex="1" parent="j58EPWAzB8WPeg4I2Kty-33">
           <mxGeometry x="12.38" y="93.59526462395543" width="123.8095238095238" height="133.70473537604457" as="geometry" />
