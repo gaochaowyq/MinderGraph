@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.7">
   <diagram name="第 1 页" id="kIEYbvfMVvp7eRZ-XGNE">
-    <mxGraphModel dx="2603" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3218" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,11 +159,21 @@
         <mxCell id="j58EPWAzB8WPeg4I2Kty-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-4" target="j58EPWAzB8WPeg4I2Kty-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-66" value="IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j58EPWAzB8WPeg4I2Kty-50">
+          <mxGeometry x="0.0629" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-51" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.users;" vertex="1" parent="1">
           <mxGeometry x="476.25" y="900" width="67.5" height="75" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="j58EPWAzB8WPeg4I2Kty-4" target="j58EPWAzB8WPeg4I2Kty-51">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-65" value="视频、语音" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j58EPWAzB8WPeg4I2Kty-52">
+          <mxGeometry x="-0.3275" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-53" value="单兵装备、通信、视频等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="980" width="100" height="30" as="geometry" />
@@ -196,6 +206,9 @@
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-63" value="单兵" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="j58EPWAzB8WPeg4I2Kty-57">
           <mxGeometry x="18.340000000000003" y="105" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-64" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
