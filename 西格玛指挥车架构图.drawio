@@ -458,7 +458,7 @@
         <mxCell id="j58EPWAzB8WPeg4I2Kty-168" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="j58EPWAzB8WPeg4I2Kty-166" target="j58EPWAzB8WPeg4I2Kty-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j58EPWAzB8WPeg4I2Kty-166" value="无人车管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;dashed=1;strokeWidth=3;strokeColor=#ff0000;" parent="1" vertex="1">
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-166" value="无人装备管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;dashed=1;strokeWidth=3;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="740" y="1580" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-176" value="" style="group;container=1;strokeColor=#ff8040;dashed=1;strokeWidth=3;" parent="1" vertex="1" connectable="0">
