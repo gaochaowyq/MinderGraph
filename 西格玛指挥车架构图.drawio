@@ -96,8 +96,9 @@
         <mxCell id="j58EPWAzB8WPeg4I2Kty-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="j58EPWAzB8WPeg4I2Kty-91" target="j58EPWAzB8WPeg4I2Kty-87" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="1842" />
-              <mxPoint x="570" y="1700" />
+              <mxPoint x="570" y="1841" />
+              <mxPoint x="570" y="1730" />
+              <mxPoint x="630" y="1730" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -577,8 +578,8 @@
         <mxCell id="PR7PHx-iXV9CsEg4K1BT-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="PR7PHx-iXV9CsEg4K1BT-1" target="j58EPWAzB8WPeg4I2Kty-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PR7PHx-iXV9CsEg4K1BT-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size:18.0pt;font-family:黑体;&lt;br/&gt;mso-bidi-font-family:黑体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;西格玛场景算法&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;基于一定的自然环境状态，通过与其他智能体（指挥机构、无人机、其他车辆，以及目标等）进行实时信息交互，从而形成决策方案并采取相应行动。针对这种智能体场景推演，需要构建其推理、规划和学习的智能模型。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="1360" width="180" height="240" as="geometry" />
+        <mxCell id="PR7PHx-iXV9CsEg4K1BT-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size:18.0pt;font-family:黑体;&lt;br/&gt;mso-bidi-font-family:黑体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;西格玛场景算法&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;基于一定的自然环境状态，通过与其他智能体（指挥机构、无人机、其他车辆，以及目标等）进行实时信息交互，从而形成决策方案并采取相应行动。针对这种智能体场景推演，需要构建其推理、规划和学习的智能模型。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;Python&amp;nbsp; &lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;源码部署&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1360" width="180" height="330" as="geometry" />
         </mxCell>
         <mxCell id="PR7PHx-iXV9CsEg4K1BT-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="PR7PHx-iXV9CsEg4K1BT-3" target="j58EPWAzB8WPeg4I2Kty-139">
           <mxGeometry relative="1" as="geometry" />
