@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="第 1 页" id="kIEYbvfMVvp7eRZ-XGNE">
-    <mxGraphModel dx="2962" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3375" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
         <mxCell id="j58EPWAzB8WPeg4I2Kty-67" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=default;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.web_server;" parent="1" vertex="1">
           <mxGeometry x="520" y="1100" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="j58EPWAzB8WPeg4I2Kty-69" value="时空大数据平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#ff0000;fontSize=24;dashed=1;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="j58EPWAzB8WPeg4I2Kty-69" value="时空大数据移动平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#ff0000;fontSize=24;dashed=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="450" y="1115" width="60" height="150" as="geometry" />
         </mxCell>
         <mxCell id="j58EPWAzB8WPeg4I2Kty-79" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j58EPWAzB8WPeg4I2Kty-73" target="j58EPWAzB8WPeg4I2Kty-67" edge="1">
