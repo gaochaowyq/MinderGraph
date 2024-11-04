@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="第 1 页" id="kIEYbvfMVvp7eRZ-XGNE">
-    <mxGraphModel dx="2762" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2962" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -591,10 +591,10 @@
           <mxGeometry x="-150" y="670" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xmWs1qeqbL5B71ETsnK6-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1、西格玛时空智算云控移动平台&lt;/h1&gt;&lt;p style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; color: black;&quot;&gt;移动算力是将服务器等布置于载具之上，以便机动灵活地派遣到任何需要的地点。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="186" width="220" height="250" as="geometry" />
+          <mxGeometry x="-150" y="200" width="220" height="250" as="geometry" />
         </mxCell>
         <mxCell id="xmWs1qeqbL5B71ETsnK6-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2、分两期实施&lt;br&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 22px;&quot;&gt;一期，森林消防指挥车&lt;/li&gt;&lt;li style=&quot;font-size: 22px;&quot;&gt;二期，军用指挥作战车&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="186" width="280" height="184" as="geometry" />
+          <mxGeometry x="100" y="200" width="280" height="184" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
