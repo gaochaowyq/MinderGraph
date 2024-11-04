@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="第 1 页" id="8o8XvhP2dbl5_3nsmxD9">
-    <mxGraphModel>
+    <mxGraphModel dx="670" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-1" value="检索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="150" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-2" value="筛选" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-3" value="包括" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="330" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-4" value="检索：时空大数据平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-5" value="检索：智慧城市平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wGT_a7te1NiHUHG1gqh5-6" target="wGT_a7te1NiHUHG1gqh5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-6" value="文献检索：&lt;br&gt;中国知网（n=）&lt;br&gt;万方网（n=）&lt;br&gt;Web of Science (n=)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-7" value="文献筛选后：&lt;br&gt;重复文献（n=）&lt;br&gt;其它原因排除的（n=）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-9" value="通过名称与摘要筛选（n=）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
