@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="kIEYbvfMVvp7eRZ-XGNE">
-    <mxGraphModel dx="5884" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2856" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -598,6 +598,111 @@
         </mxCell>
         <mxCell id="xmWs1qeqbL5B71ETsnK6-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2、分两期实施&lt;br&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 22px;&quot;&gt;一期，森林消防指挥车&lt;/li&gt;&lt;li style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="192" width="280" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-24" value="网络传输" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2509" y="860.75" width="611" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-25" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;通信卫星&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-24">
+          <mxGeometry x="14" y="36" width="96" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-26" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;图传基站&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-24">
+          <mxGeometry x="121" y="35" width="96" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-27" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;4G/5G移动基站&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-24">
+          <mxGeometry x="231" y="35" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-51" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;GSM基站&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-24">
+          <mxGeometry x="359" y="35" width="97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-52" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;现场WIFI覆盖&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-24">
+          <mxGeometry x="460" y="36" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-28" value="时空大数据平台" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2509" y="400" width="611" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-29" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;基础地理信息数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-28">
+          <mxGeometry x="14" y="35" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-30" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;BIM数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-28">
+          <mxGeometry x="144" y="35" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-31" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;控规数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-28">
+          <mxGeometry x="244" y="35" width="96" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-32" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;其它&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-28">
+          <mxGeometry x="344" y="35" width="56" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-33" value="应用层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2509" y="210.5" width="414" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-34" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;碳排放计算&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-33">
+          <mxGeometry x="14" y="35" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-35" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;业务预警&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-33">
+          <mxGeometry x="142" y="35" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-36" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;人工智能碳评估报告&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-33">
+          <mxGeometry x="274" y="35" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-37" value="用户层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2509" y="70" width="414" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-38" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;江东新区零碳可视化系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-37">
+          <mxGeometry x="14" y="35" width="386" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-40" value="提供动态数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2728" y="471.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v3TowMZGrOWBCMkP7qMs-28" target="v3TowMZGrOWBCMkP7qMs-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2723" y="377.5" as="sourcePoint" />
+            <mxPoint x="2723" y="332.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-42" value="提供以数字孪生为基础的统一数据索引" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2733" y="322.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v3TowMZGrOWBCMkP7qMs-33" target="v3TowMZGrOWBCMkP7qMs-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2723" y="212.5" as="sourcePoint" />
+            <mxPoint x="2753" y="192.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-44" value="提供业务数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2733" y="182.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-45" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;制度安全保障体系&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3190" y="72.5" width="27" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-46" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;政策标准保障体系&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="72.5" width="31" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-47" value="感知层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2509" y="982.25" width="611" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-48" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;天：卫星&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-47">
+          <mxGeometry x="14" y="36" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-49" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;空：无人机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-47">
+          <mxGeometry x="170" y="35" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-50" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;地：有人装备、无人装备&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-47">
+          <mxGeometry x="331" y="35" width="266" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-53" value="时空大数据平台" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="630" width="611" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-54" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;基础地理信息数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-53">
+          <mxGeometry x="14" y="35" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-55" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;BIM数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-53">
+          <mxGeometry x="144" y="35" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-56" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;控规数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-53">
+          <mxGeometry x="244" y="35" width="96" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3TowMZGrOWBCMkP7qMs-57" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;其它&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3TowMZGrOWBCMkP7qMs-53">
+          <mxGeometry x="344" y="35" width="56" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
