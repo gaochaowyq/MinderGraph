@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="_T4felxnx_LwUqQVISCd">
-    <mxGraphModel dx="736" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-507" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry x="455" y="100" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kPluAjkh61skHfV6UnEY-14" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;服务评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-7">
-          <mxGeometry x="429" y="30" width="80" height="60" as="geometry" />
+          <mxGeometry x="481" y="30" width="59" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kPluAjkh61skHfV6UnEY-15" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;有偿服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-7">
           <mxGeometry x="531" y="100" width="70" height="60" as="geometry" />
@@ -52,17 +52,20 @@
         <mxCell id="kPluAjkh61skHfV6UnEY-16" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;服务匹配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-7">
           <mxGeometry x="303" y="100" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kPluAjkh61skHfV6UnEY-17" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;人工智能生成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-7">
-          <mxGeometry x="151" y="30" width="80" height="60" as="geometry" />
+        <mxCell id="kPluAjkh61skHfV6UnEY-17" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;生成式人工智能&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-7">
+          <mxGeometry x="151" y="30" width="99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kPluAjkh61skHfV6UnEY-18" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;服务复用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-7">
-          <mxGeometry x="521" y="30" width="80" height="60" as="geometry" />
+          <mxGeometry x="540" y="30" width="61" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kPluAjkh61skHfV6UnEY-19" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;无监督分类&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-7">
-          <mxGeometry x="336" y="30" width="80" height="60" as="geometry" />
+          <mxGeometry x="397" y="30" width="76" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kPluAjkh61skHfV6UnEY-20" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;可视化生成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-7">
-          <mxGeometry x="244" y="30" width="80" height="60" as="geometry" />
+        <mxCell id="kPluAjkh61skHfV6UnEY-20" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;可视化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-7">
+          <mxGeometry x="341" y="30" width="49" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPluAjkh61skHfV6UnEY-71" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;自然语言交互&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-7">
+          <mxGeometry x="257" y="30" width="74" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kPluAjkh61skHfV6UnEY-21" value="应用层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1764" y="180" width="611" height="110" as="geometry" />
@@ -97,17 +100,20 @@
         <mxCell id="kPluAjkh61skHfV6UnEY-31" value="用户层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1763" y="20" width="611" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="kPluAjkh61skHfV6UnEY-32" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;森林消防车载系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-31">
-          <mxGeometry x="11" y="35" width="117" height="60" as="geometry" />
+        <mxCell id="kPluAjkh61skHfV6UnEY-32" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;森林消防车载系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-31">
+          <mxGeometry x="11" y="35" width="99" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kPluAjkh61skHfV6UnEY-33" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;森林消防单兵系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-31">
-          <mxGeometry x="159" y="35" width="135" height="60" as="geometry" />
+        <mxCell id="kPluAjkh61skHfV6UnEY-33" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;森林消防单兵系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-31">
+          <mxGeometry x="129" y="35" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kPluAjkh61skHfV6UnEY-34" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;森林消防无人系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-31">
-          <mxGeometry x="318" y="35" width="130" height="60" as="geometry" />
+        <mxCell id="kPluAjkh61skHfV6UnEY-34" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;森林消防无人系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-31">
+          <mxGeometry x="247" y="35" width="103" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kPluAjkh61skHfV6UnEY-35" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;三维全息可视化系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-31">
-          <mxGeometry x="481" y="35" width="117" height="60" as="geometry" />
+        <mxCell id="kPluAjkh61skHfV6UnEY-35" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;三维全息可视化系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-31">
+          <mxGeometry x="477" y="35" width="118" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPluAjkh61skHfV6UnEY-72" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;人工智能交互系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="kPluAjkh61skHfV6UnEY-31">
+          <mxGeometry x="366" y="35" width="103" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kPluAjkh61skHfV6UnEY-36" value="提供动态数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2084" y="540" width="90" height="30" as="geometry" />
