@@ -118,20 +118,20 @@
         <mxCell id="Ga_25ECGAeg3foyq6_LB-90" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;政府部门既有数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Ga_25ECGAeg3foyq6_LB-88" vertex="1">
           <mxGeometry x="10" y="35" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ga_25ECGAeg3foyq6_LB-91" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;物联网感知数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Ga_25ECGAeg3foyq6_LB-88" vertex="1">
-          <mxGeometry x="200" y="35" width="90" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Ga_25ECGAeg3foyq6_LB-116" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;遥感数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Ga_25ECGAeg3foyq6_LB-88" vertex="1">
-          <mxGeometry x="130" y="35" width="60" height="60" as="geometry" />
+          <mxGeometry x="243" y="35" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ga_25ECGAeg3foyq6_LB-117" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;互联网数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Ga_25ECGAeg3foyq6_LB-88" vertex="1">
-          <mxGeometry x="300" y="35" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ga_25ECGAeg3foyq6_LB-118" value="标准知识图谱" style="rounded=1;whiteSpace=wrap;html=1;" parent="Ga_25ECGAeg3foyq6_LB-88" vertex="1">
-          <mxGeometry x="390" y="35" width="110" height="60" as="geometry" />
+        <mxCell id="Ga_25ECGAeg3foyq6_LB-118" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;政策标准数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Ga_25ECGAeg3foyq6_LB-88" vertex="1">
+          <mxGeometry x="127" y="35" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ga_25ECGAeg3foyq6_LB-119" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;其他数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Ga_25ECGAeg3foyq6_LB-88" vertex="1">
           <mxGeometry x="510" y="35" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga_25ECGAeg3foyq6_LB-91" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;地面监测数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Ga_25ECGAeg3foyq6_LB-88" vertex="1">
+          <mxGeometry x="309" y="35" width="86" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga_25ECGAeg3foyq6_LB-117" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;互联网数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Ga_25ECGAeg3foyq6_LB-88" vertex="1">
+          <mxGeometry x="402" y="35" width="98" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ga_25ECGAeg3foyq6_LB-92" value="时空大数据资源池" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2510" y="630" width="610" height="260" as="geometry" />
