@@ -1226,16 +1226,31 @@
           <mxGeometry x="-520" y="3240" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-205zwH8-cznGE4Tv16E-17" value="任何数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="3170" width="70" height="40" as="geometry" />
+          <mxGeometry x="-360" y="3160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-205zwH8-cznGE4Tv16E-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-205zwH8-cznGE4Tv16E-21" target="-205zwH8-cznGE4Tv16E-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-205zwH8-cznGE4Tv16E-21" value="空间表达" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="3250" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-205zwH8-cznGE4Tv16E-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-205zwH8-cznGE4Tv16E-23" target="-205zwH8-cznGE4Tv16E-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-205zwH8-cznGE4Tv16E-23" value="时间表达" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="3310" width="70" height="40" as="geometry" />
+          <mxGeometry x="-360" y="3330" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-205zwH8-cznGE4Tv16E-25" value="数据描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="3380" width="70" height="40" as="geometry" />
+          <mxGeometry x="-360" y="3410" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-205zwH8-cznGE4Tv16E-28" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;Tablename&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;uniqueId&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;foreignKey&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;fieldname&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3450" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-205zwH8-cznGE4Tv16E-29" value="空间密度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="3250" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-205zwH8-cznGE4Tv16E-31" value="时间密度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="3330" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
