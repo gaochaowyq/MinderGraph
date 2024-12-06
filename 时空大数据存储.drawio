@@ -1211,7 +1211,12 @@
           <mxGeometry x="-1000" y="3860" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-205zwH8-cznGE4Tv16E-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-205zwH8-cznGE4Tv16E-17" target="-205zwH8-cznGE4Tv16E-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-540" y="3800" />
+              <mxPoint x="-540" y="3745" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-205zwH8-cznGE4Tv16E-17" value="任何数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-840" y="3780" width="70" height="40" as="geometry" />
