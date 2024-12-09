@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.9" pages="3">
   <diagram id="8f4IC6x40EGdw_nBkvUM" name="Page-1">
-    <mxGraphModel dx="3806" dy="718" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2662" dy="139" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1189,11 +1189,8 @@
         <mxCell id="-EGTEatCMaqPggblF5fd-21" value="人工智能文本输出" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1650" y="3860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-205zwH8-cznGE4Tv16E-7" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="160" y="3860" width="60" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="-205zwH8-cznGE4Tv16E-8" value="FileBase" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="160" y="4050" width="60" height="80" as="geometry" />
+          <mxGeometry x="-920" y="3500" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-205zwH8-cznGE4Tv16E-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-205zwH8-cznGE4Tv16E-16" target="-205zwH8-cznGE4Tv16E-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1234,12 +1231,12 @@
           <mxGeometry x="-1250" y="3960" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-205zwH8-cznGE4Tv16E-25" value="数据描述" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1250" y="4130" width="70" height="40" as="geometry" />
+          <mxGeometry x="-1250" y="4070" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-205zwH8-cznGE4Tv16E-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-205zwH8-cznGE4Tv16E-28" target="-205zwH8-cznGE4Tv16E-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-205zwH8-cznGE4Tv16E-28" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;DataSource&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;hash&lt;/td&gt;&lt;td&gt;uniqueId&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;locaiton&lt;/td&gt;&lt;td&gt;foreignKey&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;fieldname&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="-205zwH8-cznGE4Tv16E-28" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;DataService&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;hash&lt;/td&gt;&lt;td&gt;uniqueId&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;meta&lt;br&gt;&lt;/td&gt;&lt;td&gt;Meta #TODO&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-840" y="3710" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-205zwH8-cznGE4Tv16E-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-205zwH8-cznGE4Tv16E-29" target="-205zwH8-cznGE4Tv16E-38" edge="1">
@@ -1270,8 +1267,29 @@
         <mxCell id="-205zwH8-cznGE4Tv16E-40" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;Time&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;hash&lt;/td&gt;&lt;td&gt;uniqueId&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;starttime&lt;/td&gt;&lt;td&gt;Date&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;endtime&lt;/td&gt;&lt;td&gt;Date&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-840" y="3950" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-205zwH8-cznGE4Tv16E-45" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;Spatio-Temoory-data&lt;/div&gt;&lt;div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;datasource&lt;/td&gt;&lt;td&gt;DataSource&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;locaiton&lt;/td&gt;&lt;td&gt;Locaiton&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;time&lt;/td&gt;&lt;td&gt;Time&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="4Jp1ydU_PbeQt4QK9rF4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-205zwH8-cznGE4Tv16E-45" target="4Jp1ydU_PbeQt4QK9rF4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-205zwH8-cznGE4Tv16E-45" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;Spatio-Temoory-data&lt;/div&gt;&lt;div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;datameta&lt;/td&gt;&lt;td&gt;DataMeta&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;locaiton&lt;/td&gt;&lt;td&gt;Locaiton&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;time&lt;/td&gt;&lt;td&gt;Time&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-560" y="3840" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4Jp1ydU_PbeQt4QK9rF4-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Database&lt;/h1&gt;&lt;p&gt;Relation database used to divide time and spatial,like supermarket data shelf. which create 3/4 dimensional base to index different data service&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="3610" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4Jp1ydU_PbeQt4QK9rF4-3" value="OSS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="3490" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Jp1ydU_PbeQt4QK9rF4-4" value="Hadoop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="3530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Jp1ydU_PbeQt4QK9rF4-5" value="Hadoop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="3570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Jp1ydU_PbeQt4QK9rF4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Jp1ydU_PbeQt4QK9rF4-6" target="-205zwH8-cznGE4Tv16E-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Jp1ydU_PbeQt4QK9rF4-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DataService&lt;br&gt;&lt;/h1&gt;&lt;p&gt;DataMeta present the web api(soa,restful...),auth method,&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="3610" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
