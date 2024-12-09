@@ -1332,13 +1332,13 @@
         <mxCell id="4Jp1ydU_PbeQt4QK9rF4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Jp1ydU_PbeQt4QK9rF4-23" target="4Jp1ydU_PbeQt4QK9rF4-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Jp1ydU_PbeQt4QK9rF4-23" value="&lt;div&gt;RESTful:&lt;/div&gt;&lt;div&gt;return custom format with meta like Forge&lt;br&gt;#TODO&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4Jp1ydU_PbeQt4QK9rF4-23" value="&lt;div&gt;RESTful&amp;nbsp;&amp;nbsp; Get:&lt;br&gt;&lt;/div&gt;&lt;div&gt;return custom format with meta like Forge&lt;br&gt;#TODO&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="3160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Jp1ydU_PbeQt4QK9rF4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Jp1ydU_PbeQt4QK9rF4-25" target="4Jp1ydU_PbeQt4QK9rF4-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Jp1ydU_PbeQt4QK9rF4-25" value="&lt;div&gt;RESTful:&lt;/div&gt;&lt;div&gt;return origional format with meta&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4Jp1ydU_PbeQt4QK9rF4-25" value="&lt;div&gt;RESTful Get:&lt;/div&gt;&lt;div&gt;return origional format with meta&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="3280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Jp1ydU_PbeQt4QK9rF4-32" value="Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
