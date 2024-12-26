@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="第 1 页" id="8o8XvhP2dbl5_3nsmxD9">
-    <mxGraphModel dx="548" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="947" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,13 +55,10 @@
         <mxCell id="wGT_a7te1NiHUHG1gqh5-15" value="Exclued less then Q1&lt;br&gt;（n=1302）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lo8Q3yd1pTkiiWMSKk8t-1" value="Identification of studies via other mehtods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="120" width="270" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Lo8Q3yd1pTkiiWMSKk8t-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lo8Q3yd1pTkiiWMSKk8t-2" target="wGT_a7te1NiHUHG1gqh5-12">
+        <mxCell id="Lo8Q3yd1pTkiiWMSKk8t-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Lo8Q3yd1pTkiiWMSKk8t-2" target="wGT_a7te1NiHUHG1gqh5-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lo8Q3yd1pTkiiWMSKk8t-2" value="Grey Liteature&lt;br&gt;（n=14）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lo8Q3yd1pTkiiWMSKk8t-2" value="Grey Liteature&lt;br&gt;（n=14）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="470" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
