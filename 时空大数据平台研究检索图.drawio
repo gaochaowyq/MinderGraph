@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="第 1 页" id="8o8XvhP2dbl5_3nsmxD9">
-    <mxGraphModel dx="957" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="548" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-1" value="检索" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="150" width="20" height="80" as="geometry" />
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-1" value="Identification" style="rounded=1;html=1;whiteSpace=wrap;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="150" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-2" value="筛选" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-2" value="Screen" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="300" width="20" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-3" value="包括" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-3" value="Included" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="460" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-4" value="检索：时空大数据平台架构设计" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="120" width="270" height="20" as="geometry" />
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-4" value="Identification of studies via database" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wGT_a7te1NiHUHG1gqh5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wGT_a7te1NiHUHG1gqh5-6" target="wGT_a7te1NiHUHG1gqh5-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -22,44 +22,47 @@
         <mxCell id="wGT_a7te1NiHUHG1gqh5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wGT_a7te1NiHUHG1gqh5-6" target="wGT_a7te1NiHUHG1gqh5-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-6" value="文献检索：&lt;br&gt;IEEE（n=379）&lt;br&gt;ACM（n=340）&lt;br&gt;&lt;div&gt;WOS (n=2046)&lt;/div&gt;&lt;div&gt;Scopus (n=2375)&lt;/div&gt;&lt;div&gt;ScienceDirect (n=948)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="150" width="120" height="120" as="geometry" />
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-6" value="Records identified from：&lt;br&gt;IEEE（n=379）&lt;br&gt;ACM（n=340）&lt;br&gt;&lt;div&gt;WOS (n=2046)&lt;/div&gt;&lt;div&gt;Scopus (n=2375)&lt;/div&gt;&lt;div&gt;ScienceDirect (n=948)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="150" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-7" value="文献筛选后：&lt;br&gt;重复文献（n=2164）&lt;br&gt;其它原因排除的（n=）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="150" width="120" height="120" as="geometry" />
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-7" value="Records removed before screen：&lt;br&gt;Duplicate removed（n=2164）&lt;br&gt;Removed for no jcr rank（n=2382）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="150" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wGT_a7te1NiHUHG1gqh5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wGT_a7te1NiHUHG1gqh5-9" target="wGT_a7te1NiHUHG1gqh5-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-9" value="通过名称与摘要筛选（n=3924）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="300" width="120" height="40" as="geometry" />
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-9" value="Screened Title And Abstract By GPT4（n=1542）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="300" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wGT_a7te1NiHUHG1gqh5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wGT_a7te1NiHUHG1gqh5-10" target="wGT_a7te1NiHUHG1gqh5-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-10" value="合适检索的文献（n=）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="350" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wGT_a7te1NiHUHG1gqh5-11" target="wGT_a7te1NiHUHG1gqh5-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-10" value="Selected（n=1432）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="350" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wGT_a7te1NiHUHG1gqh5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wGT_a7te1NiHUHG1gqh5-11" target="wGT_a7te1NiHUHG1gqh5-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-11" value="可用的文献&lt;br&gt;（n=）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-11" value="Inclued&lt;br&gt;（n=130）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="400" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-12" value="包含在研究中的文献&lt;br&gt;（n=）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="470" width="120" height="40" as="geometry" />
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-12" value="Result&lt;br&gt;（n=144）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="470" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-13" value="排除的文献&lt;br&gt;（n=）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="300" width="120" height="40" as="geometry" />
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-13" value="No Realtion&lt;br&gt;（n=110）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-15" value="不包含的文献&lt;br&gt;（n=）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="350" width="120" height="40" as="geometry" />
+        <mxCell id="wGT_a7te1NiHUHG1gqh5-15" value="Exclued less then Q1&lt;br&gt;（n=1302）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wGT_a7te1NiHUHG1gqh5-17" value="不包含的文献&lt;br&gt;（n=）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="Lo8Q3yd1pTkiiWMSKk8t-1" value="Identification of studies via other mehtods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="120" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lo8Q3yd1pTkiiWMSKk8t-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lo8Q3yd1pTkiiWMSKk8t-2" target="wGT_a7te1NiHUHG1gqh5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lo8Q3yd1pTkiiWMSKk8t-2" value="Grey Liteature&lt;br&gt;（n=14）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="470" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
