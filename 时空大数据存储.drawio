@@ -1414,9 +1414,6 @@
         <mxCell id="Oi3izATuYaozCQdKrPcS-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Storage Node&lt;br&gt;&lt;/h1&gt;&lt;p&gt;simple.&amp;nbsp;&lt;/p&gt;&lt;p&gt;respostry&lt;/p&gt;&lt;p&gt;meta&lt;/p&gt;&lt;p&gt;data transform&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1890" y="4160" width="180" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Oi3izATuYaozCQdKrPcS-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Oi3izATuYaozCQdKrPcS-10" target="Oi3izATuYaozCQdKrPcS-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oi3izATuYaozCQdKrPcS-10" target="Oi3izATuYaozCQdKrPcS-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
