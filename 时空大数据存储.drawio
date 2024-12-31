@@ -1396,6 +1396,9 @@
         <mxCell id="Oi3izATuYaozCQdKrPcS-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Oi3izATuYaozCQdKrPcS-3" target="Oi3izATuYaozCQdKrPcS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Oi3izATuYaozCQdKrPcS-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Oi3izATuYaozCQdKrPcS-3" target="Oi3izATuYaozCQdKrPcS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Main Node&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1450" y="4150" width="110" height="70" as="geometry" />
         </mxCell>
@@ -1408,6 +1411,9 @@
         <mxCell id="Oi3izATuYaozCQdKrPcS-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oi3izATuYaozCQdKrPcS-7" target="Oi3izATuYaozCQdKrPcS-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Oi3izATuYaozCQdKrPcS-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;flowAnimation=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Oi3izATuYaozCQdKrPcS-7" target="Oi3izATuYaozCQdKrPcS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Storge Node&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1670" y="4290" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1418,7 +1424,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-10" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Third&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Party Node&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1860" y="4510" width="120" height="100" as="geometry" />
+          <mxGeometry x="-1900" y="4410" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Oi3izATuYaozCQdKrPcS-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Oi3izATuYaozCQdKrPcS-16" target="Oi3izATuYaozCQdKrPcS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oi3izATuYaozCQdKrPcS-16" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Client Node&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="4300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oi3izATuYaozCQdKrPcS-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Client Node&lt;br&gt;&lt;/h1&gt;&lt;p&gt;use data&lt;br&gt;&lt;/p&gt;&lt;p&gt;grab data&lt;/p&gt;&lt;p&gt;boundary by index&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="4250" width="180" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
