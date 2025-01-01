@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.1" pages="3">
   <diagram id="8f4IC6x40EGdw_nBkvUM" name="Page-1">
-    <mxGraphModel dx="3543" dy="487" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3323" dy="360" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -446,7 +446,7 @@
             <mxPoint x="-18" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CWsnnPazkkyhk1xtJGiJ-5" value="时空大数据可视化" style="swimlane;" parent="CWsnnPazkkyhk1xtJGiJ-1" vertex="1">
+        <mxCell id="CWsnnPazkkyhk1xtJGiJ-5" value="建筑信息时空大数据可视化" style="swimlane;" parent="CWsnnPazkkyhk1xtJGiJ-1" vertex="1">
           <mxGeometry x="650" y="40" width="200" height="550" as="geometry" />
         </mxCell>
         <mxCell id="CWsnnPazkkyhk1xtJGiJ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="CWsnnPazkkyhk1xtJGiJ-5" source="CWsnnPazkkyhk1xtJGiJ-49" target="CWsnnPazkkyhk1xtJGiJ-52" edge="1">
