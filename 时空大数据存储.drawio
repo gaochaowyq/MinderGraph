@@ -1430,7 +1430,7 @@
           <mxGeometry x="-1540" y="4280" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Main Node(Cloud)&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;time spatial index.&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;auth.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;data entity:{st-index,}&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;general service&lt;/p&gt;&lt;p&gt;security&lt;/p&gt;&lt;p&gt;block chain&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-2100" y="4070" width="230" height="210" as="geometry" />
+          <mxGeometry x="-2280" y="4010" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="Oi3izATuYaozCQdKrPcS-7" target="Oi3izATuYaozCQdKrPcS-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1466,7 +1466,7 @@
           <mxGeometry x="-1540" y="4650" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Storage Node(Edge)&lt;br&gt;&lt;/h1&gt;&lt;p&gt;repository&lt;/p&gt;&lt;p&gt;meta&lt;/p&gt;&lt;p&gt;data transform&lt;/p&gt;&lt;p&gt;dispart&lt;/p&gt;&lt;p&gt;big compute&amp;nbsp; banlance between compute and volume&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fixDash=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-2130" y="4390" width="260" height="200" as="geometry" />
+          <mxGeometry x="-2270" y="4300" width="260" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ZH40biw1I0aSuTA4DNSm-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Oi3izATuYaozCQdKrPcS-10" target="ZH40biw1I0aSuTA4DNSm-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1558,7 +1558,7 @@
           <mxGeometry x="-1470" y="4420" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZH40biw1I0aSuTA4DNSm-30" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Compute&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Node&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1220" y="4830" width="110" height="60" as="geometry" />
+          <mxGeometry x="-1170" y="4830" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZH40biw1I0aSuTA4DNSm-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="ZH40biw1I0aSuTA4DNSm-34" target="Oi3izATuYaozCQdKrPcS-3">
           <mxGeometry relative="1" as="geometry">
