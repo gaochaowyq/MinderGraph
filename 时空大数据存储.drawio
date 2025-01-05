@@ -1508,7 +1508,7 @@
         <mxCell id="ZH40biw1I0aSuTA4DNSm-18" value="Save To Data Laker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1800" y="5030" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZH40biw1I0aSuTA4DNSm-21" value="DataRequirement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZH40biw1I0aSuTA4DNSm-21" value="&lt;div&gt;DataRequirement&lt;/div&gt;&lt;div&gt;st information&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1290" y="4390" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
