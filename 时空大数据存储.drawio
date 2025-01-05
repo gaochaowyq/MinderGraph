@@ -1423,6 +1423,9 @@
         <mxCell id="ZH40biw1I0aSuTA4DNSm-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="Oi3izATuYaozCQdKrPcS-3" target="ZH40biw1I0aSuTA4DNSm-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZH40biw1I0aSuTA4DNSm-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="Oi3izATuYaozCQdKrPcS-3" target="ZH40biw1I0aSuTA4DNSm-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Main Node&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="-1540" y="4280" width="110" height="70" as="geometry" />
         </mxCell>
@@ -1574,10 +1577,10 @@
           <mxGeometry x="-1270" y="4330" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZH40biw1I0aSuTA4DNSm-41" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;StIndex&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;uniqueId&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;boundary&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK2&lt;/td&gt;&lt;td&gt;timeinterval&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;description&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;hashvalue&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nonce&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1700" y="3930" width="180" height="140" as="geometry" />
+          <mxGeometry x="-1790" y="3950" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ZH40biw1I0aSuTA4DNSm-43" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;NodeMeta&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;uniqueId&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;url&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;meta&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;token&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="4010" width="220" height="140" as="geometry" />
+        <mxCell id="ZH40biw1I0aSuTA4DNSm-43" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;NodeMeta&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;uniqueId&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;url&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;meta&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;token&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;glass=0;treeFolding=0;treeMoving=0;enumerate=0;comic=0;absoluteArcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="4000" width="220" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
