@@ -1406,7 +1406,7 @@
           <mxGeometry x="-1540" y="4280" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Main Node(Cloud)&lt;br&gt;&lt;/h1&gt;&lt;p&gt;time spatial index.&amp;nbsp;&lt;/p&gt;&lt;p&gt;auth.&lt;/p&gt;&lt;p&gt;data entity&lt;/p&gt;&lt;p&gt;general service&lt;/p&gt;&lt;p&gt;security&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1720" y="4000" width="180" height="170" as="geometry" />
+          <mxGeometry x="-1770" y="4000" width="230" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="Oi3izATuYaozCQdKrPcS-7" target="Oi3izATuYaozCQdKrPcS-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
