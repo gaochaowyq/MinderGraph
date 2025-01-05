@@ -1418,7 +1418,7 @@
           <mxGeometry x="-1540" y="4280" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Main Node(Cloud)&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;time spatial index.&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;auth.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;data entity:{st-index,}&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;general service&lt;/p&gt;&lt;p&gt;security&lt;/p&gt;&lt;p&gt;block chain&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-1770" y="3960" width="230" height="210" as="geometry" />
+          <mxGeometry x="-1900" y="4080" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="Oi3izATuYaozCQdKrPcS-7" target="Oi3izATuYaozCQdKrPcS-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1467,7 +1467,7 @@
         <mxCell id="Oi3izATuYaozCQdKrPcS-16" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Client Node&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="-1150" y="4500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Oi3izATuYaozCQdKrPcS-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Client Node&lt;br&gt;&lt;/h1&gt;&lt;p&gt;use data&lt;br&gt;&lt;/p&gt;&lt;p&gt;grab data&lt;/p&gt;&lt;p&gt;boundary by index&lt;/p&gt;&lt;p&gt;small compute&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=none;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="Oi3izATuYaozCQdKrPcS-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Client Node&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;use data&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;grab data&lt;/p&gt;&lt;p&gt;boundary by index&lt;/p&gt;&lt;p&gt;small compute&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=none;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="-870" y="4450" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-23" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;UAV&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
