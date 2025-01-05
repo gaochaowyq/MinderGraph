@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3" pages="3">
   <diagram id="8f4IC6x40EGdw_nBkvUM" name="Page-1">
-    <mxGraphModel dx="3462" dy="159" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3647" dy="256" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1399,6 +1399,14 @@
         <mxCell id="ZH40biw1I0aSuTA4DNSm-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Oi3izATuYaozCQdKrPcS-3" target="Oi3izATuYaozCQdKrPcS-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZH40biw1I0aSuTA4DNSm-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;curved=0;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZH40biw1I0aSuTA4DNSm-28" target="Oi3izATuYaozCQdKrPcS-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1450" y="4470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZH40biw1I0aSuTA4DNSm-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Oi3izATuYaozCQdKrPcS-3" target="ZH40biw1I0aSuTA4DNSm-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Oi3izATuYaozCQdKrPcS-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Main Node&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1540" y="4280" width="110" height="70" as="geometry" />
         </mxCell>
@@ -1508,8 +1516,17 @@
         <mxCell id="ZH40biw1I0aSuTA4DNSm-18" value="Save To Data Laker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1800" y="5030" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZH40biw1I0aSuTA4DNSm-21" value="&lt;div&gt;DataRequirement&lt;/div&gt;&lt;div&gt;st information&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1290" y="4390" width="120" height="30" as="geometry" />
+        <mxCell id="ZH40biw1I0aSuTA4DNSm-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="ZH40biw1I0aSuTA4DNSm-21" target="Oi3izATuYaozCQdKrPcS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZH40biw1I0aSuTA4DNSm-21" value="&lt;div&gt;DataRequirement&lt;/div&gt;&lt;div&gt;{st-index,&lt;/div&gt;&lt;div&gt;requirement,&lt;/div&gt;&lt;div&gt;funciton&amp;nbsp;&lt;/div&gt;&lt;div&gt;/language}&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="4350" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZH40biw1I0aSuTA4DNSm-28" value="Data Chain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1450" y="4480" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZH40biw1I0aSuTA4DNSm-30" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Compute&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Node&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="4740" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
