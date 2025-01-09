@@ -1558,7 +1558,7 @@
           <mxGeometry x="-3180" y="4860" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZH40biw1I0aSuTA4DNSm-30" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Compute&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Node&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2880" y="5270" width="110" height="60" as="geometry" />
+          <mxGeometry x="-3080" y="5400" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZH40biw1I0aSuTA4DNSm-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="ZH40biw1I0aSuTA4DNSm-34" target="Oi3izATuYaozCQdKrPcS-3" edge="1">
           <mxGeometry relative="1" as="geometry">
