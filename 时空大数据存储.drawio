@@ -1586,7 +1586,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lLWtguAWGiL_cyRxpLg6-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;EdgeNode&lt;/h1&gt;&lt;p&gt;这个node 应该是一个DataLake&lt;/p&gt;&lt;p&gt;基于地块的一系列数据的集合&lt;/p&gt;&lt;p&gt;每个node通过获取ST-Index 来存储数据。ST-Index 的获取是具有建议性的。即初始化的过程中，通过位置、时间尺度、数据类型推荐ST-Indx。ST-Index可以利用人工智能推荐。通过在MainNode获取ST-Index后初始化，形成具体的存储仓库&lt;/p&gt;&lt;p&gt;每个存储仓库中，通过DataLyaer作为货架来存储具体的数据。每个仓库中，包含多个DataLayer，DataLayer是无序的&lt;br&gt;&lt;/p&gt;&lt;p&gt;每一个DataLayer是一种数据，即数据格式、元数据、是一致的。每个DataLayer中包含三个内容，即元数据、样例数据与真实数据。这些内容应该在DataLayer 初始化的时候被创建。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2810" y="5210" width="180" height="420" as="geometry" />
+          <mxGeometry x="-2800" y="5400" width="180" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
