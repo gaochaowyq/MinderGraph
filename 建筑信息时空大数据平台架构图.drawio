@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.5">
   <diagram id="kzi67lXi-NrXoAS8o9gu" name="第 1 页">
-    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,23 +57,29 @@
         <mxCell id="nltCtTxTrXQfKwKJxCPT-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;可视化系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="560" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-3" target="k4bysfWG0cwB1rlPcwAL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-3" value="建筑信息数据类型/格式" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="800" width="460" height="180" as="geometry" />
+          <mxGeometry x="80" y="800" width="280" height="180" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-4" value="图片：.png \ .jpg \ .jpeg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="k4bysfWG0cwB1rlPcwAL-3">
-          <mxGeometry y="30" width="460" height="30" as="geometry" />
+          <mxGeometry y="30" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-5" value="&lt;div&gt;文档：.pdf \.ppt \.pptx \. word&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="k4bysfWG0cwB1rlPcwAL-3">
-          <mxGeometry y="60" width="460" height="30" as="geometry" />
+          <mxGeometry y="60" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-6" value="表格：.xls \ .xlsx" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="k4bysfWG0cwB1rlPcwAL-3">
-          <mxGeometry y="90" width="460" height="30" as="geometry" />
+          <mxGeometry y="90" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-8" value="图纸：.dwg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="k4bysfWG0cwB1rlPcwAL-3">
-          <mxGeometry y="120" width="460" height="30" as="geometry" />
+          <mxGeometry y="120" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-7" value="BIM：.rvt \ .ifc" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="k4bysfWG0cwB1rlPcwAL-3">
-          <mxGeometry y="150" width="460" height="30" as="geometry" />
+          <mxGeometry y="150" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-9" value="Project" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
