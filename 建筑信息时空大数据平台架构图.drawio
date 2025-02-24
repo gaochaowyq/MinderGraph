@@ -150,7 +150,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-31" value="Service Chain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1150" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-33" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="800" width="120" height="60" as="geometry" />
