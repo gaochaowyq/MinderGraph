@@ -65,7 +65,7 @@
             <mxPoint x="850" y="1230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="220" y="1040" />
-              <mxPoint x="850" y="1040" />
+              <mxPoint x="830" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -138,7 +138,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-24" value="Data Lake" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="820" y="910" width="60" height="80" as="geometry" />
+          <mxGeometry x="800" y="910" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-29" target="k4bysfWG0cwB1rlPcwAL-31">
           <mxGeometry relative="1" as="geometry" />
@@ -154,6 +154,12 @@
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-33" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-35" target="k4bysfWG0cwB1rlPcwAL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;NoSql&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="830" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
