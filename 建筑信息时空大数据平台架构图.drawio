@@ -75,6 +75,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-3" target="k4bysfWG0cwB1rlPcwAL-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="1150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-3" value="建筑信息数据类型/格式" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="800" width="280" height="180" as="geometry" />
         </mxCell>
@@ -164,17 +172,17 @@
         <mxCell id="k4bysfWG0cwB1rlPcwAL-33" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k4bysfWG0cwB1rlPcwAL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-35" target="k4bysfWG0cwB1rlPcwAL-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k4bysfWG0cwB1rlPcwAL-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;NoSql&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="760" width="180" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-37" target="k4bysfWG0cwB1rlPcwAL-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-37" value="Data Lake" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="800" y="1100" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-9" target="k4bysfWG0cwB1rlPcwAL-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-43" value="&lt;div&gt;Reference Data&amp;nbsp; Keep Location&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="430.0033333333335" y="1140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
