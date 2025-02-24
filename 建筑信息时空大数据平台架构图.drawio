@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.5">
   <diagram id="kzi67lXi-NrXoAS8o9gu" name="第 1 页">
-    <mxGraphModel dx="819" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,20 @@
         <mxCell id="k4bysfWG0cwB1rlPcwAL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-3" target="k4bysfWG0cwB1rlPcwAL-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-3" target="k4bysfWG0cwB1rlPcwAL-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="1230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="1040" />
+              <mxPoint x="850" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-28" value="&lt;div&gt;Reference Data&amp;nbsp; Keep Location&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k4bysfWG0cwB1rlPcwAL-27">
+          <mxGeometry x="-0.2782" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-3" value="建筑信息数据类型/格式" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="800" width="280" height="180" as="geometry" />
         </mxCell>
@@ -77,6 +91,9 @@
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-7" value="BIM：.rvt \ .ifc" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="k4bysfWG0cwB1rlPcwAL-3">
           <mxGeometry y="150" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-9" target="k4bysfWG0cwB1rlPcwAL-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-9" value="Project" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="920" width="330" height="60" as="geometry" />
@@ -116,6 +133,27 @@
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-22" value="Temporal_Fake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="700" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-24" target="k4bysfWG0cwB1rlPcwAL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-24" value="Data Lake" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="820" y="910" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-29" target="k4bysfWG0cwB1rlPcwAL-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-29" value="Web Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-31" target="k4bysfWG0cwB1rlPcwAL-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-31" value="Service Chain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-33" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
