@@ -93,6 +93,30 @@
         <mxCell id="k4bysfWG0cwB1rlPcwAL-13" value="ST-index_Fake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="800" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-15" target="k4bysfWG0cwB1rlPcwAL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-15" value="Spatial Slice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="700" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-16" target="k4bysfWG0cwB1rlPcwAL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-16" value="Temporal Slice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="700" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-20" target="k4bysfWG0cwB1rlPcwAL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-20" value="Spatial Slice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="700" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-22" target="k4bysfWG0cwB1rlPcwAL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k4bysfWG0cwB1rlPcwAL-22" value="Temporal_Fake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="700" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
