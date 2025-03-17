@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
   <diagram name="第 1 页" id="8o8XvhP2dbl5_3nsmxD9">
-    <mxGraphModel dx="947" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="979" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,63 @@
         </mxCell>
         <mxCell id="Lo8Q3yd1pTkiiWMSKk8t-2" value="Grey Liteature&lt;br&gt;（n=14）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-1" value="Identification" style="rounded=1;html=1;whiteSpace=wrap;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-2" value="Screen" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-3" value="Included" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="460" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-4" value="Identification of studies via database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTdYP_ob4YdQUdbvaLEM-7" target="UTdYP_ob4YdQUdbvaLEM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTdYP_ob4YdQUdbvaLEM-7" target="UTdYP_ob4YdQUdbvaLEM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-7" value="Records identified from：&lt;div&gt;WOS (n=762)&lt;/div&gt;&lt;div&gt;CNKI (n=286)&lt;/div&gt;&lt;div&gt;total=1048&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-8" value="Records removed before screen：&lt;br&gt;Duplicate removed（n=-29）&lt;br&gt;Total=1019" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="150" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTdYP_ob4YdQUdbvaLEM-10" target="UTdYP_ob4YdQUdbvaLEM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-10" value="Screened Title And Abstract By GPT4（n=1542）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTdYP_ob4YdQUdbvaLEM-12" target="UTdYP_ob4YdQUdbvaLEM-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-12" value="Selected（n=1432）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTdYP_ob4YdQUdbvaLEM-14" target="UTdYP_ob4YdQUdbvaLEM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-14" value="Inclued&lt;br&gt;（n=130）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-15" value="Result&lt;br&gt;（n=144）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="470" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-16" value="No Realtion&lt;br&gt;（n=110）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-17" value="Exclued less then Q1&lt;br&gt;（n=1302）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTdYP_ob4YdQUdbvaLEM-19" target="UTdYP_ob4YdQUdbvaLEM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-19" value="Grey Liteature&lt;br&gt;（n=14）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="470" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
