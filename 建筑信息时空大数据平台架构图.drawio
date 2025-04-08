@@ -679,11 +679,19 @@
         <mxCell id="z2B-Rcah4dHe3UsBWNlj-15" value="功能布局" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z2B-Rcah4dHe3UsBWNlj-10" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B6ag2zjZWW22Zz8-JqLK-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6ag2zjZWW22Zz8-JqLK-3" target="k4bysfWG0cwB1rlPcwAL-29">
+        <mxCell id="B6ag2zjZWW22Zz8-JqLK-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6ag2zjZWW22Zz8-JqLK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6ag2zjZWW22Zz8-JqLK-3" value="P2P技术" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1140" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B6ag2zjZWW22Zz8-JqLK-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6ag2zjZWW22Zz8-JqLK-6" target="k4bysfWG0cwB1rlPcwAL-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B6ag2zjZWW22Zz8-JqLK-3" value="分层接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="900" y="815" width="160" height="30" as="geometry" />
+        <mxCell id="B6ag2zjZWW22Zz8-JqLK-6" value="分层接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="900" y="830" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
