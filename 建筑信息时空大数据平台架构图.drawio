@@ -84,7 +84,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-3" value="建筑信息数据类型/格式" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="800" width="280" height="180" as="geometry" />
+          <mxGeometry x="80" y="800" width="280" height="210" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-4" value="图片：.png \ .jpg \ .jpeg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="k4bysfWG0cwB1rlPcwAL-3" vertex="1">
           <mxGeometry y="30" width="280" height="30" as="geometry" />
@@ -100,6 +100,9 @@
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-7" value="BIM：.rvt \ .ifc" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="k4bysfWG0cwB1rlPcwAL-3" vertex="1">
           <mxGeometry y="150" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B6ag2zjZWW22Zz8-JqLK-8" value="其它：.*" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="k4bysfWG0cwB1rlPcwAL-3">
+          <mxGeometry y="180" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k4bysfWG0cwB1rlPcwAL-9" target="k4bysfWG0cwB1rlPcwAL-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -173,7 +176,7 @@
           <mxGeometry x="1080" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-33" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1250" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k4bysfWG0cwB1rlPcwAL-37" target="k4bysfWG0cwB1rlPcwAL-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
