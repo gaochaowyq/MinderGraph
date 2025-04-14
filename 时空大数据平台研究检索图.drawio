@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.9">
   <diagram name="第 1 页" id="8o8XvhP2dbl5_3nsmxD9">
-    <mxGraphModel dx="1428" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="985" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,10 +65,10 @@
           <mxGeometry x="510" y="150" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UTdYP_ob4YdQUdbvaLEM-2" value="Screen" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="300" width="20" height="150" as="geometry" />
+          <mxGeometry x="510" y="300" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="UTdYP_ob4YdQUdbvaLEM-3" value="Included" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="460" width="20" height="60" as="geometry" />
+          <mxGeometry x="510" y="480" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTdYP_ob4YdQUdbvaLEM-4" value="Identification of studies via database" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="120" width="340" height="20" as="geometry" />
@@ -94,29 +94,29 @@
         <mxCell id="UTdYP_ob4YdQUdbvaLEM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UTdYP_ob4YdQUdbvaLEM-12" target="UTdYP_ob4YdQUdbvaLEM-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UTdYP_ob4YdQUdbvaLEM-12" value="Selected（n=1432）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="350" width="150" height="40" as="geometry" />
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-12" value="Report sougth for retrieval（n=1432）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="350" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTdYP_ob4YdQUdbvaLEM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UTdYP_ob4YdQUdbvaLEM-14" target="UTdYP_ob4YdQUdbvaLEM-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UTdYP_ob4YdQUdbvaLEM-14" value="Inclued&lt;br&gt;（n=130）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="400" width="150" height="40" as="geometry" />
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-14" value="Inclued&lt;br&gt;（n=79）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="420" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UTdYP_ob4YdQUdbvaLEM-15" value="Result&lt;br&gt;（n=144）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="470" width="150" height="40" as="geometry" />
+          <mxGeometry x="560" y="490" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UTdYP_ob4YdQUdbvaLEM-16" value="No Realtion&lt;br&gt;（n=110）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UTdYP_ob4YdQUdbvaLEM-17" value="Exclued less then Q1&lt;br&gt;（n=1302）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="350" width="120" height="40" as="geometry" />
+        <mxCell id="UTdYP_ob4YdQUdbvaLEM-17" value="&lt;div&gt;Remove main topic no relation to research topic&lt;/div&gt;&lt;div&gt; (n=79)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTdYP_ob4YdQUdbvaLEM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UTdYP_ob4YdQUdbvaLEM-19" target="UTdYP_ob4YdQUdbvaLEM-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTdYP_ob4YdQUdbvaLEM-19" value="Grey Liteature&lt;br&gt;（n=14）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="470" width="120" height="40" as="geometry" />
+          <mxGeometry x="780" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7u2R2iz1aB_nDEzt7f6u-1" value="易用与移植" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1329.37" y="130" width="80" height="80" as="geometry" />
@@ -156,6 +156,9 @@
         </mxCell>
         <mxCell id="7u2R2iz1aB_nDEzt7f6u-13" value="时空大数据平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1346.83" y="277" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="21tQJuZGTOGQ_svhbv5I-20" value="Identification of studies via other methods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="120" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
