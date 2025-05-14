@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5">
   <diagram id="kzi67lXi-NrXoAS8o9gu" name="第 1 页">
-    <mxGraphModel dx="2160" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2837" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
         <mxCell id="k4bysfWG0cwB1rlPcwAL-7" value="BIM：.rvt \ .ifc" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="k4bysfWG0cwB1rlPcwAL-3" vertex="1">
           <mxGeometry y="150" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B6ag2zjZWW22Zz8-JqLK-8" value="其它：.*" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="k4bysfWG0cwB1rlPcwAL-3">
+        <mxCell id="B6ag2zjZWW22Zz8-JqLK-8" value="其它：.*" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="k4bysfWG0cwB1rlPcwAL-3" vertex="1">
           <mxGeometry y="180" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k4bysfWG0cwB1rlPcwAL-9" target="k4bysfWG0cwB1rlPcwAL-24" edge="1">
@@ -682,18 +682,18 @@
         <mxCell id="z2B-Rcah4dHe3UsBWNlj-15" value="功能布局" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z2B-Rcah4dHe3UsBWNlj-10" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B6ag2zjZWW22Zz8-JqLK-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6ag2zjZWW22Zz8-JqLK-3">
+        <mxCell id="B6ag2zjZWW22Zz8-JqLK-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B6ag2zjZWW22Zz8-JqLK-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B6ag2zjZWW22Zz8-JqLK-3" value="P2P技术" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1140" width="160" height="30" as="geometry" />
+        <mxCell id="B6ag2zjZWW22Zz8-JqLK-3" value="P2P技术" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="900" y="670" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B6ag2zjZWW22Zz8-JqLK-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6ag2zjZWW22Zz8-JqLK-6" target="k4bysfWG0cwB1rlPcwAL-29">
+        <mxCell id="B6ag2zjZWW22Zz8-JqLK-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B6ag2zjZWW22Zz8-JqLK-6" target="k4bysfWG0cwB1rlPcwAL-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B6ag2zjZWW22Zz8-JqLK-6" value="分层接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="B6ag2zjZWW22Zz8-JqLK-6" value="分层接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="900" y="830" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
