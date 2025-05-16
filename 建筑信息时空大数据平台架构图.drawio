@@ -876,6 +876,12 @@
         <mxCell id="EakrvxYtm3ZOBwJTfIbG-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Trusted Regim&lt;/h1&gt;&lt;p&gt;regim defined by smartcontract&lt;/p&gt;&lt;p&gt;smartcontract define the spatio-temporal data range. &lt;br&gt;&lt;/p&gt;&lt;p&gt;define the data use logic and saved in node. &lt;br&gt;&lt;/p&gt;&lt;p&gt;node in the regim mean nodes choice the aggremment of data and data use.&lt;/p&gt;&lt;p&gt;node is unblanced, but response data is unified, which mean the node define the data output logic.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3240" y="460" width="180" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EakrvxYtm3ZOBwJTfIbG-15" target="EakrvxYtm3ZOBwJTfIbG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-15" value="Contract Saved In Nodes by blockchain" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3570" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
