@@ -984,6 +984,12 @@
         <mxCell id="IDYDVz7UViFvp0bttWBK-38" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="IDYDVz7UViFvp0bttWBK-35">
           <mxGeometry x="223.16172158513575" y="100.03756713601393" width="61.378850341123524" height="63.78882276092321" as="geometry" />
         </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-53" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="IDYDVz7UViFvp0bttWBK-46">
+          <mxGeometry x="165.4300000000003" y="60" width="68.97953258818406" height="64.52604151545941" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-54" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="IDYDVz7UViFvp0bttWBK-46">
+          <mxGeometry x="300" y="60" width="68.97953258818406" height="64.52604151545941" as="geometry" />
+        </mxCell>
         <mxCell id="IDYDVz7UViFvp0bttWBK-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDYDVz7UViFvp0bttWBK-49" target="IDYDVz7UViFvp0bttWBK-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
