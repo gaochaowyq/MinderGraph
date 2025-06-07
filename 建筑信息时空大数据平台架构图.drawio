@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.4">
   <diagram id="kzi67lXi-NrXoAS8o9gu" name="第 1 页">
-    <mxGraphModel dx="2040" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2994" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -835,52 +835,100 @@
         <mxCell id="_21hDOGpnUlva-PjVnkS-30" value="Add Cadidate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1970" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-1" value="BlockChain SmartContract Based Server" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-1" value="BlockChain SmartContract Based Server" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2910" y="805" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EakrvxYtm3ZOBwJTfIbG-2" target="EakrvxYtm3ZOBwJTfIbG-1">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EakrvxYtm3ZOBwJTfIbG-2" target="EakrvxYtm3ZOBwJTfIbG-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="EakrvxYtm3ZOBwJTfIbG-2" target="EakrvxYtm3ZOBwJTfIbG-3">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="EakrvxYtm3ZOBwJTfIbG-2" target="EakrvxYtm3ZOBwJTfIbG-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-7" value="Service API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EakrvxYtm3ZOBwJTfIbG-6">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-7" value="Service API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EakrvxYtm3ZOBwJTfIbG-6" vertex="1" connectable="0">
           <mxGeometry x="-0.0563" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EakrvxYtm3ZOBwJTfIbG-2" target="EakrvxYtm3ZOBwJTfIbG-8">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EakrvxYtm3ZOBwJTfIbG-2" target="EakrvxYtm3ZOBwJTfIbG-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-2" value="Client1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-2" value="Client1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2590" y="980" width="220" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EakrvxYtm3ZOBwJTfIbG-3" target="EakrvxYtm3ZOBwJTfIbG-1">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EakrvxYtm3ZOBwJTfIbG-3" target="EakrvxYtm3ZOBwJTfIbG-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-3" value="Client2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-3" value="Client2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3150" y="980" width="220" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-8" value="&lt;div&gt;Data Management&lt;/div&gt;&lt;div&gt;Data Service API&lt;/div&gt;&lt;div&gt;BlockChain &lt;br&gt;&lt;/div&gt;&lt;div&gt;SmartContract&lt;/div&gt;&lt;div&gt;Pay To Go&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-8" value="&lt;div&gt;Data Management&lt;/div&gt;&lt;div&gt;Data Service API&lt;/div&gt;&lt;div&gt;BlockChain &lt;br&gt;&lt;/div&gt;&lt;div&gt;SmartContract&lt;/div&gt;&lt;div&gt;Pay To Go&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2590" y="1230" width="220" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EakrvxYtm3ZOBwJTfIbG-10" target="EakrvxYtm3ZOBwJTfIbG-8">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EakrvxYtm3ZOBwJTfIbG-10" target="EakrvxYtm3ZOBwJTfIbG-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SmartContract As Room(Trusted DataSpace)&lt;/h1&gt;&lt;div&gt;Trusted dataspaces created by smartcontract, which define the basic logic of web service api used. view,use ,analysis and use range. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="1160" width="310" height="190" as="geometry" />
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SmartContract As Room(Trusted DataSpace)&lt;/h1&gt;&lt;div&gt;Trusted dataspaces created by smartcontract, which define the basic logic of web service api used. view,use ,analysis and use range. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1200" width="310" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EakrvxYtm3ZOBwJTfIbG-12" target="EakrvxYtm3ZOBwJTfIbG-1">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EakrvxYtm3ZOBwJTfIbG-12" target="EakrvxYtm3ZOBwJTfIbG-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Trusted Regim&lt;/h1&gt;&lt;p&gt;regim defined by smartcontract&lt;/p&gt;&lt;p&gt;smartcontract define the spatio-temporal data range. &lt;br&gt;&lt;/p&gt;&lt;p&gt;define the data use logic and saved in node. &lt;br&gt;&lt;/p&gt;&lt;p&gt;node in the regim mean nodes choice the aggremment of data and data use.&lt;/p&gt;&lt;p&gt;node is unblanced, but response data is unified, which mean the node define the data output logic.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Trusted Regim&lt;/h1&gt;&lt;p&gt;regim defined by smartcontract&lt;/p&gt;&lt;p&gt;smartcontract define the spatio-temporal data range. &lt;br&gt;&lt;/p&gt;&lt;p&gt;define the data use logic and saved in node. &lt;br&gt;&lt;/p&gt;&lt;p&gt;node in the regim mean nodes choice the aggremment of data and data use.&lt;/p&gt;&lt;p&gt;node is unblanced, but response data is unified, which mean the node define the data output logic.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3240" y="460" width="180" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EakrvxYtm3ZOBwJTfIbG-15" target="EakrvxYtm3ZOBwJTfIbG-3">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EakrvxYtm3ZOBwJTfIbG-15" target="EakrvxYtm3ZOBwJTfIbG-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EakrvxYtm3ZOBwJTfIbG-15" value="Contract Saved In Nodes by blockchain" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EakrvxYtm3ZOBwJTfIbG-15" value="Contract Saved In Nodes by blockchain" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3570" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;container=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="2134" y="1530" width="432" height="432" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="IDYDVz7UViFvp0bttWBK-1" source="IDYDVz7UViFvp0bttWBK-2" target="IDYDVz7UViFvp0bttWBK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="IDYDVz7UViFvp0bttWBK-1">
+          <mxGeometry x="176" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IDYDVz7UViFvp0bttWBK-1" source="IDYDVz7UViFvp0bttWBK-3" target="IDYDVz7UViFvp0bttWBK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="IDYDVz7UViFvp0bttWBK-1">
+          <mxGeometry x="46" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="IDYDVz7UViFvp0bttWBK-1" source="IDYDVz7UViFvp0bttWBK-4" target="IDYDVz7UViFvp0bttWBK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="IDYDVz7UViFvp0bttWBK-1">
+          <mxGeometry x="316" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-9" value="地块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="1450" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;container=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="1540" width="432" height="432" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="IDYDVz7UViFvp0bttWBK-10" source="IDYDVz7UViFvp0bttWBK-12" target="IDYDVz7UViFvp0bttWBK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="IDYDVz7UViFvp0bttWBK-10">
+          <mxGeometry x="176" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IDYDVz7UViFvp0bttWBK-10" source="IDYDVz7UViFvp0bttWBK-14" target="IDYDVz7UViFvp0bttWBK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-14" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="IDYDVz7UViFvp0bttWBK-10">
+          <mxGeometry x="46" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="IDYDVz7UViFvp0bttWBK-10" source="IDYDVz7UViFvp0bttWBK-16" target="IDYDVz7UViFvp0bttWBK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-16" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="IDYDVz7UViFvp0bttWBK-10">
+          <mxGeometry x="316" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-17" value="地块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2946" y="1450" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
