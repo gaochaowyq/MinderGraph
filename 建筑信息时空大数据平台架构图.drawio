@@ -999,8 +999,16 @@
         <mxCell id="IDYDVz7UViFvp0bttWBK-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IDYDVz7UViFvp0bttWBK-49" target="IDYDVz7UViFvp0bttWBK-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IDYDVz7UViFvp0bttWBK-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据空间&lt;/h1&gt;&lt;p&gt;以城市建设管理逻辑为基础，建立数据空间，数据空间构利用区块链技术构建。每个空间使用“智能合约”共识，约束数据使用条件。 换句话讲，节点进入空间即同意约束。利用智能合约实现数据空间自治。&lt;/p&gt;&lt;p&gt;合约的调整，需要空间中大多数节点的同意&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IDYDVz7UViFvp0bttWBK-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据空间&lt;/h1&gt;&lt;p&gt;以城市建设管理逻辑为基础，建立数据空间，数据空间构利用区块链技术构建。每个空间使用“智能合约”共识，约束数据使用条件。 换句话讲，节点进入空间即同意约束。利用智能合约实现数据空间自治。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5000" y="3100" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDYDVz7UViFvp0bttWBK-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4660" y="2990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDYDVz7UViFvp0bttWBK-55" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;共识&lt;/h1&gt;&lt;p&gt;合约分为两部分：1）空间内部共识，即数据空间内部共识 2）数据空间对外数据应用共识&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4290" y="2765" width="140" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
