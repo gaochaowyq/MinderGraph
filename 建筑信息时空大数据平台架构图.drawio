@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.4">
   <diagram id="kzi67lXi-NrXoAS8o9gu" name="第 1 页">
-    <mxGraphModel dx="3334" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1889" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1041,6 +1041,27 @@
             <mxPoint x="3440" y="1910" as="sourcePoint" />
             <mxPoint x="3531" y="2208" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oesH9uVenjZ5oTjOmsYM-37" target="oesH9uVenjZ5oTjOmsYM-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-37" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-168.97999999999954" y="2490.5" width="68.97953258818406" height="64.52604151545941" as="geometry" />
+        </mxCell>
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-38" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-81.02" y="2280" width="101.02" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oesH9uVenjZ5oTjOmsYM-39" target="oesH9uVenjZ5oTjOmsYM-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-39" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;中心服务器&lt;/h1&gt;&lt;p&gt;1、为数据节点提供唯一时空索引&lt;/p&gt;&lt;p&gt;2、协调P2P连接的信令服务器，并建立可信空间域（ROOM）&lt;/p&gt;&lt;p&gt;3、不存储具体数据&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="2160" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oesH9uVenjZ5oTjOmsYM-41" target="oesH9uVenjZ5oTjOmsYM-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-41" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-3.552713678800501e-15" y="2500" width="68.97953258818406" height="64.52604151545941" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
