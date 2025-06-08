@@ -1046,7 +1046,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oesH9uVenjZ5oTjOmsYM-37" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="-168.97999999999954" y="2490.5" width="68.97953258818406" height="64.52604151545941" as="geometry" />
+          <mxGeometry x="-179.99999999999955" y="2480" width="68.97953258818406" height="64.52604151545941" as="geometry" />
         </mxCell>
         <mxCell id="oesH9uVenjZ5oTjOmsYM-38" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-81.02" y="2280" width="101.02" height="60" as="geometry" />
@@ -1054,14 +1054,20 @@
         <mxCell id="oesH9uVenjZ5oTjOmsYM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oesH9uVenjZ5oTjOmsYM-39" target="oesH9uVenjZ5oTjOmsYM-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oesH9uVenjZ5oTjOmsYM-39" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;中心服务器&lt;/h1&gt;&lt;p&gt;1、为数据节点提供唯一时空索引&lt;/p&gt;&lt;p&gt;2、协调P2P连接的信令服务器，并建立可信空间域（ROOM）&lt;/p&gt;&lt;p&gt;3、不存储具体数据&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-39" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;中心服务器&lt;/h1&gt;&lt;p&gt;1、为数据节点提供唯一时空索引&lt;/p&gt;&lt;p&gt;2、协调P2P连接的信令服务器&lt;/p&gt;&lt;p&gt;3、不存储具体数据&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="2160" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="oesH9uVenjZ5oTjOmsYM-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oesH9uVenjZ5oTjOmsYM-41" target="oesH9uVenjZ5oTjOmsYM-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oesH9uVenjZ5oTjOmsYM-41" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="-3.552713678800501e-15" y="2500" width="68.97953258818406" height="64.52604151545941" as="geometry" />
+          <mxGeometry x="40" y="2491" width="68.97953258818406" height="64.52604151545941" as="geometry" />
+        </mxCell>
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oesH9uVenjZ5oTjOmsYM-45" target="oesH9uVenjZ5oTjOmsYM-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-45" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据节点&lt;/h1&gt;&lt;p&gt;1、通过时空索引创建/加入数据空间，数据空间创建时，创建数据空间内部合约于对外合约&lt;/p&gt;&lt;p&gt;2、节点在加入数据空间时，达成对智能合约的共识&lt;/p&gt;&lt;p&gt;3、数据节点通过数据服务在节点间交互数据&lt;/p&gt;&lt;p&gt;4、数据的每次成果使用，通过数字钱包记录并结算，&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="2527" width="180" height="233" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
