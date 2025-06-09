@@ -143,13 +143,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-29" value="Web Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k4bysfWG0cwB1rlPcwAL-31" target="k4bysfWG0cwB1rlPcwAL-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VS7wXivAOENoiinBCP72-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k4bysfWG0cwB1rlPcwAL-31" target="VS7wXivAOENoiinBCP72-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-31" value="Service Chain" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="1240" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4bysfWG0cwB1rlPcwAL-33" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1460" y="960" width="120" height="60" as="geometry" />
@@ -1070,6 +1073,15 @@
         </mxCell>
         <mxCell id="VS7wXivAOENoiinBCP72-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DataLayer&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;相当于数据模板&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;数据持有者按照特定的文件夹格式组织数据，即可成为满足要求的数据层，规避非专业人对特定存储方式知识的了解。高级用户可以自行定义数据模板。类似Hugging Face 对于数据集的处理&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="640" width="610" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VS7wXivAOENoiinBCP72-19" value="&lt;div&gt;1、工作量计算&lt;/div&gt;&lt;div&gt;2、钱包结算&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS7wXivAOENoiinBCP72-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VS7wXivAOENoiinBCP72-21" target="k4bysfWG0cwB1rlPcwAL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VS7wXivAOENoiinBCP72-21" value="智能合约约束数据使用条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
