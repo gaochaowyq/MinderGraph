@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.4">
   <diagram id="kzi67lXi-NrXoAS8o9gu" name="第 1 页">
-    <mxGraphModel dx="1889" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3523" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -641,7 +641,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z2B-Rcah4dHe3UsBWNlj-2" value="方案研究Layer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="1760" width="140" height="240" as="geometry" />
+          <mxGeometry x="540" y="2180" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="z2B-Rcah4dHe3UsBWNlj-3" value="总体规划图" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z2B-Rcah4dHe3UsBWNlj-2" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -665,7 +665,7 @@
           <mxGeometry y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z2B-Rcah4dHe3UsBWNlj-10" value="案例Layer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="1840" width="140" height="180" as="geometry" />
+          <mxGeometry x="790" y="2260" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="z2B-Rcah4dHe3UsBWNlj-11" value="设计师" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z2B-Rcah4dHe3UsBWNlj-10" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -1042,11 +1042,24 @@
             <mxPoint x="3531" y="2208" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oesH9uVenjZ5oTjOmsYM-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oesH9uVenjZ5oTjOmsYM-37" target="oesH9uVenjZ5oTjOmsYM-38">
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="oesH9uVenjZ5oTjOmsYM-37" target="oesH9uVenjZ5oTjOmsYM-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-47" value="获取信令与索引" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oesH9uVenjZ5oTjOmsYM-42">
+          <mxGeometry x="0.0443" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="oesH9uVenjZ5oTjOmsYM-37" target="oesH9uVenjZ5oTjOmsYM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-50" value="建立持续连接，并通信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oesH9uVenjZ5oTjOmsYM-49">
+          <mxGeometry x="-0.1771" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oesH9uVenjZ5oTjOmsYM-37" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="-179.99999999999955" y="2480" width="68.97953258818406" height="64.52604151545941" as="geometry" />
+          <mxGeometry x="-159.99999999999955" y="2430" width="68.97953258818406" height="64.52604151545941" as="geometry" />
         </mxCell>
         <mxCell id="oesH9uVenjZ5oTjOmsYM-38" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-81.02" y="2280" width="101.02" height="60" as="geometry" />
@@ -1054,20 +1067,23 @@
         <mxCell id="oesH9uVenjZ5oTjOmsYM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oesH9uVenjZ5oTjOmsYM-39" target="oesH9uVenjZ5oTjOmsYM-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oesH9uVenjZ5oTjOmsYM-39" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;中心服务器&lt;/h1&gt;&lt;p&gt;1、为数据节点提供唯一时空索引&lt;/p&gt;&lt;p&gt;2、协调P2P连接的信令服务器&lt;/p&gt;&lt;p&gt;3、不存储具体数据&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="2160" width="180" height="150" as="geometry" />
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-39" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;中心服务器&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1、为数据节点提供唯一时空索引&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2、协调P2P连接的信令服务器&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3、不存储具体数据&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2160" width="290" height="150" as="geometry" />
         </mxCell>
         <mxCell id="oesH9uVenjZ5oTjOmsYM-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oesH9uVenjZ5oTjOmsYM-41" target="oesH9uVenjZ5oTjOmsYM-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oesH9uVenjZ5oTjOmsYM-41" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="40" y="2491" width="68.97953258818406" height="64.52604151545941" as="geometry" />
+          <mxGeometry x="50" y="2430" width="68.97953258818406" height="64.52604151545941" as="geometry" />
         </mxCell>
         <mxCell id="oesH9uVenjZ5oTjOmsYM-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oesH9uVenjZ5oTjOmsYM-45" target="oesH9uVenjZ5oTjOmsYM-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oesH9uVenjZ5oTjOmsYM-45" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据节点&lt;/h1&gt;&lt;p&gt;1、通过时空索引创建/加入数据空间，数据空间创建时，创建数据空间内部合约于对外合约&lt;/p&gt;&lt;p&gt;2、节点在加入数据空间时，达成对智能合约的共识&lt;/p&gt;&lt;p&gt;3、数据节点通过数据服务在节点间交互数据&lt;/p&gt;&lt;p&gt;4、数据的每次成果使用，通过数字钱包记录并结算，&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="2527" width="180" height="233" as="geometry" />
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-45" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据节点&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1、通过时空索引创建/加入数据空间，数据空间创建时，创建数据空间内部合约于对外合约&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2、节点在加入数据空间时，达成对智能合约的共识&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3、数据节点通过数据服务在节点间交互数据&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;4、数据的每次成果使用，通过数字钱包记录并结算，&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="2440" width="460" height="233" as="geometry" />
+        </mxCell>
+        <mxCell id="oesH9uVenjZ5oTjOmsYM-48" value="获取信令与索引" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="2390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
