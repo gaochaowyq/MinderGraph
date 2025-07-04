@@ -1240,11 +1240,16 @@
         <mxCell id="rxzxP0664EzjzpWZppqo-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rxzxP0664EzjzpWZppqo-5" target="rxzxP0664EzjzpWZppqo-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rxzxP0664EzjzpWZppqo-13" value="consensus&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rxzxP0664EzjzpWZppqo-7">
+          <mxGeometry x="-0.1106" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rxzxP0664EzjzpWZppqo-5" value="&lt;div&gt;Mini DataHub&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="520" y="2840" width="60" height="80" as="geometry" />
+          <mxGeometry x="520" y="2810" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rxzxP0664EzjzpWZppqo-6" value="&lt;div&gt;Mini DataHub&lt;/div&gt;&lt;div&gt;2&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="520" y="3075.19" width="60" height="80" as="geometry" />
+          <mxGeometry x="480" y="3100" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rxzxP0664EzjzpWZppqo-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rxzxP0664EzjzpWZppqo-6" target="rxzxP0664EzjzpWZppqo-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1256,6 +1261,11 @@
         </mxCell>
         <mxCell id="rxzxP0664EzjzpWZppqo-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rxzxP0664EzjzpWZppqo-9" target="rxzxP0664EzjzpWZppqo-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rxzxP0664EzjzpWZppqo-12" value="smart contract" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rxzxP0664EzjzpWZppqo-10">
+          <mxGeometry x="0.007" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rxzxP0664EzjzpWZppqo-9" value="&lt;div&gt;Mini DataHub&lt;/div&gt;&lt;div&gt;3&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="685" y="3090" width="60" height="80" as="geometry" />
