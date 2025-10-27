@@ -34,7 +34,7 @@
           <mxGeometry x="650" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h19mBmi42310W65S8yJa-9" value="Price Date URI as Object" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h19mBmi42310W65S8yJa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h19mBmi42310W65S8yJa-10" target="h19mBmi42310W65S8yJa-9">
           <mxGeometry relative="1" as="geometry" />
