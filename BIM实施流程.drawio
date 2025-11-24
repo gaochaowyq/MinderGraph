@@ -1,0 +1,207 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.1.1">
+  <diagram name="第 1 页" id="-qcLayoQEOXUoayk3Nbj">
+    <mxGraphModel dx="1240" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-5" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-7" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="245" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="第一版作业图" vertex="1">
+          <mxGeometry height="30" width="80" x="40" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-3" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="建筑提资" vertex="1">
+          <mxGeometry height="30" width="80" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-13" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BIM第一版模型" vertex="1">
+          <mxGeometry height="30" width="120" x="160" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-16" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-21" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="第一版作业图深化设计" vertex="1">
+          <mxGeometry height="30" width="360" x="160" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-9" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BIM建模" vertex="1">
+          <mxGeometry height="30" width="80" x="110" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-11" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="各专业深化设计" vertex="1">
+          <mxGeometry height="30" width="110" x="190" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-15" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-17" connectable="0" parent="vwWiPpEi4y3UZhmZQQgE-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="问题报告反馈" vertex="1">
+          <mxGeometry relative="1" x="0.0619" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-19" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vwWiPpEi4y3UZhmZQQgE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="第一版问题报告" vertex="1">
+          <mxGeometry height="30" width="126" x="344" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-62" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="完成第一版BIM模型" vertex="1">
+          <mxGeometry height="30" width="120" x="520" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-25" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="vwWiPpEi4y3UZhmZQQgE-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="245" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-63" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="第二版作业图" vertex="1">
+          <mxGeometry height="30" width="80" x="560" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-23" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="建筑提资" vertex="1">
+          <mxGeometry height="30" width="80" x="470" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-33" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="vwWiPpEi4y3UZhmZQQgE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-34" connectable="0" parent="vwWiPpEi4y3UZhmZQQgE-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="问题报告反馈" vertex="1">
+          <mxGeometry relative="1" x="0.168" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-38" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="第二版作业图深化设计" vertex="1">
+          <mxGeometry height="30" width="320" x="680" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-27" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="各专业深化设计" vertex="1">
+          <mxGeometry height="30" width="110" x="660" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-32" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BIM第二版模型" vertex="1">
+          <mxGeometry height="30" width="90" x="680" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-30" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="vwWiPpEi4y3UZhmZQQgE-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BIM建模" vertex="1">
+          <mxGeometry height="30" width="80" x="600" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-36" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="第二版问题报告" vertex="1">
+          <mxGeometry height="30" width="170" x="790" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-44" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="完成第二版BIM模型" vertex="1">
+          <mxGeometry height="30" width="130" x="990" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-42" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="第三版作业图" vertex="1">
+          <mxGeometry height="30" width="90" x="1030" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-40" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="建筑提资" vertex="1">
+          <mxGeometry height="30" width="80" x="960" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-47" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vwWiPpEi4y3UZhmZQQgE-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-48" connectable="0" parent="vwWiPpEi4y3UZhmZQQgE-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="问题报告反馈" vertex="1">
+          <mxGeometry relative="1" x="-0.0357" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-55" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="第三版作业图深化设计" vertex="1">
+          <mxGeometry height="30" width="430" x="1170" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-51" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BIM第三版模型" vertex="1">
+          <mxGeometry height="30" width="120" x="1170" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-46" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="vwWiPpEi4y3UZhmZQQgE-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BIM建模" vertex="1">
+          <mxGeometry height="30" width="80" x="1120" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-53" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="第三版问题报告" vertex="1">
+          <mxGeometry height="30" width="96" x="1330" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-57" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="完成第三版BIM模型" vertex="1">
+          <mxGeometry height="30" width="130" x="1470" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="外审、招标、交底" vertex="1">
+          <mxGeometry height="30" width="130" x="1640" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-58" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="vwWiPpEi4y3UZhmZQQgE-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-59" connectable="0" parent="vwWiPpEi4y3UZhmZQQgE-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="问题报告反馈" vertex="1">
+          <mxGeometry relative="1" x="0.0857" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-61" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="模型补充与完善" vertex="1">
+          <mxGeometry height="30" width="280" x="1640" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="vwWiPpEi4y3UZhmZQQgE-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="施工交底模型" vertex="1">
+          <mxGeometry height="30" width="130" x="1980" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
