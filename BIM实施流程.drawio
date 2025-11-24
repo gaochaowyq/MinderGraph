@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.1.1">
   <diagram name="第 1 页" id="-qcLayoQEOXUoayk3Nbj">
-    <mxGraphModel dx="1240" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1501" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,6 +70,9 @@
         <mxCell id="vwWiPpEi4y3UZhmZQQgE-62" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kEUdR7BRAFOCb71B03Q--25" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="vwWiPpEi4y3UZhmZQQgE-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vwWiPpEi4y3UZhmZQQgE-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="完成第一版BIM模型" vertex="1">
           <mxGeometry height="30" width="120" x="520" y="330" as="geometry" />
         </mxCell>
@@ -86,7 +89,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kEUdR7BRAFOCb71B03Q--18" connectable="0" parent="vwWiPpEi4y3UZhmZQQgE-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="提子吊顶平面" vertex="1">
+        <mxCell id="kEUdR7BRAFOCb71B03Q--18" connectable="0" parent="vwWiPpEi4y3UZhmZQQgE-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="提资吊顶平面" vertex="1">
           <mxGeometry relative="1" x="0.1531" y="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -141,6 +144,9 @@
           <mxGeometry height="30" width="170" x="790" y="330" as="geometry" />
         </mxCell>
         <mxCell id="vwWiPpEi4y3UZhmZQQgE-44" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kEUdR7BRAFOCb71B03Q--26" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="vwWiPpEi4y3UZhmZQQgE-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vwWiPpEi4y3UZhmZQQgE-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="完成第二版BIM模型" vertex="1">
@@ -206,6 +212,9 @@
         <mxCell id="vwWiPpEi4y3UZhmZQQgE-57" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kEUdR7BRAFOCb71B03Q--27" edge="1" parent="1" source="vwWiPpEi4y3UZhmZQQgE-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="vwWiPpEi4y3UZhmZQQgE-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vwWiPpEi4y3UZhmZQQgE-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="完成第三版BIM模型" vertex="1">
           <mxGeometry height="30" width="130" x="1470" y="330" as="geometry" />
         </mxCell>
@@ -239,7 +248,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kEUdR7BRAFOCb71B03Q--4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="主要解决总体、建筑、结构、幕墙之间大构件的交接问题" vertex="1">
-          <mxGeometry height="60" width="120" x="280" y="410" as="geometry" />
+          <mxGeometry height="60" width="120" x="290" y="430" as="geometry" />
         </mxCell>
         <mxCell id="kEUdR7BRAFOCb71B03Q--7" edge="1" parent="1" source="kEUdR7BRAFOCb71B03Q--6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-31">
           <mxGeometry relative="1" as="geometry" />
@@ -251,7 +260,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kEUdR7BRAFOCb71B03Q--8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="技术经济指标、概算数据挂载与匹配" vertex="1">
-          <mxGeometry height="30" width="120" x="380" y="470" as="geometry" />
+          <mxGeometry height="30" width="120" x="420" y="470" as="geometry" />
         </mxCell>
         <mxCell id="kEUdR7BRAFOCb71B03Q--11" edge="1" parent="1" source="kEUdR7BRAFOCb71B03Q--10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-4">
           <mxGeometry relative="1" as="geometry" />
@@ -269,19 +278,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kEUdR7BRAFOCb71B03Q--14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="技术经济指标、概算追踪" vertex="1">
-          <mxGeometry height="30" width="120" x="870" y="490" as="geometry" />
+          <mxGeometry height="30" width="90" x="910" y="470" as="geometry" />
         </mxCell>
         <mxCell id="kEUdR7BRAFOCb71B03Q--22" edge="1" parent="1" source="kEUdR7BRAFOCb71B03Q--21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kEUdR7BRAFOCb71B03Q--21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="完善幕墙、景观、小市政、室内、机电末端等问题" vertex="1">
+        <mxCell id="kEUdR7BRAFOCb71B03Q--21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;完善幕墙、景观、小市政、室内、机电末端等问题&lt;/div&gt;&lt;div&gt;详细管综&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1300" y="430" as="geometry" />
         </mxCell>
         <mxCell id="kEUdR7BRAFOCb71B03Q--24" edge="1" parent="1" source="kEUdR7BRAFOCb71B03Q--23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kEUdR7BRAFOCb71B03Q--23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="补充洞口预留" vertex="1">
+        <mxCell id="kEUdR7BRAFOCb71B03Q--23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;补充洞口预留&lt;/div&gt;&lt;div&gt;补充模型深度&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="1680" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="kEUdR7BRAFOCb71B03Q--29" edge="1" parent="1" source="kEUdR7BRAFOCb71B03Q--28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwWiPpEi4y3UZhmZQQgE-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kEUdR7BRAFOCb71B03Q--28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="补充专项设计" vertex="1">
+          <mxGeometry height="30" width="120" x="1160" y="445" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
