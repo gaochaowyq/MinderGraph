@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.1.1">
   <diagram name="第 1 页" id="DPADeMGAElWZxdO6MJJW">
-    <mxGraphModel dx="1426" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-4" edge="1" parent="1" source="GL6mDv9SuOGB1eUWYO0k-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GL6mDv9SuOGB1eUWYO0k-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="非结构化/半结构化数据" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-12" edge="1" parent="1" source="GL6mDv9SuOGB1eUWYO0k-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GL6mDv9SuOGB1eUWYO0k-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="知识抽取" vertex="1">
+          <mxGeometry height="260" width="200" x="230" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-5" parent="GL6mDv9SuOGB1eUWYO0k-3" style="rounded=1;whiteSpace=wrap;html=1;" value="实体抽取" vertex="1">
+          <mxGeometry height="60" width="170" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-6" parent="GL6mDv9SuOGB1eUWYO0k-3" style="rounded=1;whiteSpace=wrap;html=1;" value="关系抽取" vertex="1">
+          <mxGeometry height="60" width="170" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-7" parent="GL6mDv9SuOGB1eUWYO0k-3" style="rounded=1;whiteSpace=wrap;html=1;" value="属性抽取" vertex="1">
+          <mxGeometry height="60" width="170" x="20" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-16" edge="1" parent="1" source="GL6mDv9SuOGB1eUWYO0k-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GL6mDv9SuOGB1eUWYO0k-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-8" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="知识融合" vertex="1">
+          <mxGeometry height="180" width="200" x="510" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-9" parent="GL6mDv9SuOGB1eUWYO0k-8" style="rounded=1;whiteSpace=wrap;html=1;" value="实体对齐" vertex="1">
+          <mxGeometry height="60" width="170" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-10" parent="GL6mDv9SuOGB1eUWYO0k-8" style="rounded=1;whiteSpace=wrap;html=1;" value="属性填充" vertex="1">
+          <mxGeometry height="60" width="170" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-14" edge="1" parent="1" source="GL6mDv9SuOGB1eUWYO0k-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GL6mDv9SuOGB1eUWYO0k-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="结构化数据" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-20" edge="1" parent="1" source="GL6mDv9SuOGB1eUWYO0k-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="GL6mDv9SuOGB1eUWYO0k-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="数据层" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-17" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="知识加工" vertex="1">
+          <mxGeometry height="180" width="200" x="230" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-18" parent="GL6mDv9SuOGB1eUWYO0k-17" style="rounded=1;whiteSpace=wrap;html=1;" value="本体构件" vertex="1">
+          <mxGeometry height="60" width="170" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GL6mDv9SuOGB1eUWYO0k-19" parent="GL6mDv9SuOGB1eUWYO0k-17" style="rounded=1;whiteSpace=wrap;html=1;" value="质量评估" vertex="1">
+          <mxGeometry height="60" width="170" x="20" y="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
