@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="Y7FRODtDjuZDlIxHhOL5">
+    <mxGraphModel dx="1414" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Awnmc_RR4j0BMAfR5ggK-3" edge="1" parent="1" source="Awnmc_RR4j0BMAfR5ggK-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Awnmc_RR4j0BMAfR5ggK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Awnmc_RR4j0BMAfR5ggK-4" connectable="0" parent="Awnmc_RR4j0BMAfR5ggK-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="application API" vertex="1">
+          <mxGeometry relative="1" x="-0.2308" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awnmc_RR4j0BMAfR5ggK-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Application&lt;/div&gt;&lt;div&gt;ds=DataSource(ds_id,admin,geo)&lt;/div&gt;&lt;div&gt;await node.publish(ds,payload,timeliness)&lt;/div&gt;&lt;div&gt;await node.subscribe(topic,handler)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="380" x="230" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Awnmc_RR4j0BMAfR5ggK-6" edge="1" parent="1" source="Awnmc_RR4j0BMAfR5ggK-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Awnmc_RR4j0BMAfR5ggK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Awnmc_RR4j0BMAfR5ggK-7" connectable="0" parent="Awnmc_RR4j0BMAfR5ggK-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Pubsub API(publish/subscribe)&lt;br&gt;+ msg_id_constructor injection(4.2.6)" vertex="1">
+          <mxGeometry relative="1" x="-0.1875" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awnmc_RR4j0BMAfR5ggK-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;stGossipSubNode&lt;/div&gt;&lt;div&gt;naming: topic=tier/admin|geohash/class(4.1)&lt;br&gt;message:header{ds_id,seq,....}||playload(4.2)&lt;/div&gt;&lt;div&gt;publish:T(ds)={legal_topic,ge_topic}(4.4)&lt;br&gt;subscribe:legal/geometry/hybird(4.3)&lt;br&gt;adaptive:split/merge geohash(local)(5.2)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="380" x="230" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Awnmc_RR4j0BMAfR5ggK-9" edge="1" parent="1" source="Awnmc_RR4j0BMAfR5ggK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Awnmc_RR4j0BMAfR5ggK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Awnmc_RR4j0BMAfR5ggK-10" connectable="0" parent="Awnmc_RR4j0BMAfR5ggK-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IPubsubRouter contract&lt;br&gt;(publish/join/leave/handle_rpc)" vertex="1">
+          <mxGeometry relative="1" x="-0.1" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awnmc_RR4j0BMAfR5ggK-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pubsub(pylibp2p)&lt;br&gt;my_topic,peer_topic&lt;br&gt;signing&lt;br&gt;seen_message(4.4)&lt;br&gt;subcription queues&lt;br&gt;validators" vertex="1">
+          <mxGeometry height="110" width="380" x="224" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="Awnmc_RR4j0BMAfR5ggK-12" edge="1" parent="1" source="Awnmc_RR4j0BMAfR5ggK-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Awnmc_RR4j0BMAfR5ggK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Awnmc_RR4j0BMAfR5ggK-13" connectable="0" parent="Awnmc_RR4j0BMAfR5ggK-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="network I/O via pubsub.peer[peer_id].stream" vertex="1">
+          <mxGeometry relative="1" x="-0.06" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awnmc_RR4j0BMAfR5ggK-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="stGossipSub(GossipSub) (5.3)&lt;br&gt;override mesh_heartbeat&amp;nbsp; by topic-class&lt;br&gt;override gossip_heartbeat D_lazy M_gsp by class&lt;br&gt;override heartbeat()&amp;nbsp; sleep=min T_hb" vertex="1">
+          <mxGeometry height="110" width="380" x="224" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="Awnmc_RR4j0BMAfR5ggK-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="libp2p Host&amp;nbsp; &amp;nbsp;transport(TCP/QUIC/ in-memory for sim)" vertex="1">
+          <mxGeometry height="110" width="380" x="224" y="1030" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
