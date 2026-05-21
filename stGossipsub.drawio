@@ -77,6 +77,54 @@
         <mxCell id="2yh1J4c5jMMJHeaXtM_8-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="stGossipSub.publish(inherited)&lt;br&gt;mcache.put(msg)&amp;nbsp; 后续服务IWANT&lt;br&gt;peers=_get_peers_to_send(topic_ids=msg.topicIDS,msg_forwarder=self,origin=self,msg_id=msg_id)&lt;br&gt;rpc=RPC(publish=[msg])&lt;br&gt;&lt;div&gt;for peer in peers:&lt;/div&gt;&lt;div&gt;write_msg(pubsub.peers[peer].stream,rpc)&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="629" x="715.5" y="900" as="geometry" />
         </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-12" edge="1" parent="1" source="2yh1J4c5jMMJHeaXtM_8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2yh1J4c5jMMJHeaXtM_8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Node A publish once with topicIDs =[legal,geo]" vertex="1">
+          <mxGeometry height="80" width="380" x="1570" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-15" edge="1" parent="1" source="2yh1J4c5jMMJHeaXtM_8-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2yh1J4c5jMMJHeaXtM_8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Node A 的 mesh 路由可能让消息走两条路径&lt;br&gt;通过 legal mesh 邻居&lt;br&gt;通过 geo mesh&amp;nbsp; 邻居&lt;br&gt;（两条路径不同步，先后到达）" vertex="1">
+          <mxGeometry height="80" width="380" x="1570" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-18" edge="1" parent="1" source="2yh1J4c5jMMJHeaXtM_8-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2yh1J4c5jMMJHeaXtM_8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-19" edge="1" parent="1" source="2yh1J4c5jMMJHeaXtM_8-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2yh1J4c5jMMJHeaXtM_8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Node B 网络入口" vertex="1">
+          <mxGeometry height="60" width="120" x="1700" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-21" edge="1" parent="1" source="2yh1J4c5jMMJHeaXtM_8-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2yh1J4c5jMMJHeaXtM_8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="第一份到达（via legal）" vertex="1">
+          <mxGeometry height="60" width="120" x="1570" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-23" edge="1" parent="1" source="2yh1J4c5jMMJHeaXtM_8-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2yh1J4c5jMMJHeaXtM_8-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="第二份到达（via geo）" vertex="1">
+          <mxGeometry height="60" width="120" x="1840" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-25" edge="1" parent="1" source="2yh1J4c5jMMJHeaXtM_8-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2yh1J4c5jMMJHeaXtM_8-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pubsub 入站处理&lt;br&gt;验签&lt;br&gt;msg_id=MID(ds_id,seq)&lt;br&gt;seen_message[mid]? NO&lt;br&gt;mark seen&lt;br&gt;run validators&lt;br&gt;&lt;div&gt;for t in msg.topicIDs:&lt;/div&gt;&lt;div&gt;if t in my_topics:&lt;/div&gt;&lt;div&gt;Subscription[t].put&lt;br&gt;router.publish(forward)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="190" x="1570" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-26" edge="1" parent="1" source="2yh1J4c5jMMJHeaXtM_8-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2yh1J4c5jMMJHeaXtM_8-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pubsub 入站处理&lt;br&gt;验签&lt;br&gt;msg_id=MID(ds_id,seq)&lt;br&gt;&lt;div&gt;seen_message[mid]? YES&lt;/div&gt;DROP-return early&lt;br&gt;应用层只收到1次&lt;br&gt;不论订阅1个还是2个与wire msg 相关的 topic" vertex="1">
+          <mxGeometry height="240" width="190" x="1770" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="应用handler 被调用1次&lt;br&gt;收到（topic=legal 或 geo，header，payload）&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="190" x="1690" y="1110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
