@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Y7FRODtDjuZDlIxHhOL5">
-    <mxGraphModel dx="1414" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,6 +50,32 @@
         </mxCell>
         <mxCell id="Awnmc_RR4j0BMAfR5ggK-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="libp2p Host&amp;nbsp; &amp;nbsp;transport(TCP/QUIC/ in-memory for sim)" vertex="1">
           <mxGeometry height="110" width="380" x="224" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-4" edge="1" parent="1" source="2yh1J4c5jMMJHeaXtM_8-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2yh1J4c5jMMJHeaXtM_8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Application&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="380" x="840" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-6" edge="1" parent="1" source="2yh1J4c5jMMJHeaXtM_8-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2yh1J4c5jMMJHeaXtM_8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-7" connectable="0" parent="2yh1J4c5jMMJHeaXtM_8-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="pubsub.publish(topics,wire_bytes)" vertex="1">
+          <mxGeometry relative="1" x="-0.0533" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="stGossipSubNode.publish&lt;br&gt;topics=compute_topic_set(ds,ALERT)=[&quot;legal/110108/alert&quot;,&quot;geo/wx4g0e/alert&quot;]&lt;br&gt;header=MessageHeader.create(ds_id,ALERT,producer,.....)&lt;br&gt;wire_bytes=encode(header||payload)(4.2)" vertex="1">
+          <mxGeometry height="80" width="380" x="841" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-9" edge="1" parent="1" source="2yh1J4c5jMMJHeaXtM_8-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2yh1J4c5jMMJHeaXtM_8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pubsub.publish&lt;br&gt;msg=rpc_pb2.Message(from_id=host.get_id(),seqno=next_seqno(),data=wire_bytes,topicIDs=topics)&lt;br&gt;sign(msg) if strict_signing&lt;br&gt;msg_id=msg_id_constructor(msg)=sha256(header.ds_id||header.seq)(4.2.6)&lt;br&gt;seen_messages[msg_id]=True&lt;br&gt;&lt;div&gt;for t in topics+my_topics:&lt;/div&gt;&lt;div&gt;deriver to local Subscription[t]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="629" x="716.5" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="2yh1J4c5jMMJHeaXtM_8-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="stGossipSub.publish(inherited)&lt;br&gt;mcache.put(msg)&amp;nbsp; 后续服务IWANT&lt;br&gt;peers=_get_peers_to_send(topic_ids=msg.topicIDS,msg_forwarder=self,origin=self,msg_id=msg_id)&lt;br&gt;rpc=RPC(publish=[msg])&lt;br&gt;&lt;div&gt;for peer in peers:&lt;/div&gt;&lt;div&gt;write_msg(pubsub.peers[peer].stream,rpc)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="629" x="715.5" y="900" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
