@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Y7FRODtDjuZDlIxHhOL5">
-    <mxGraphModel dx="808" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1025" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,6 +124,27 @@
         </mxCell>
         <mxCell id="2yh1J4c5jMMJHeaXtM_8-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="应用handler 被调用1次&lt;br&gt;收到（topic=legal 或 geo，header，payload）&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="240" width="190" x="1665" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="0nZeBFnhmh2lzN9kRy4G-3" edge="1" parent="1" source="0nZeBFnhmh2lzN9kRy4G-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0nZeBFnhmh2lzN9kRy4G-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0nZeBFnhmh2lzN9kRy4G-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Build Swarm&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="-490" as="geometry" />
+        </mxCell>
+        <mxCell id="0nZeBFnhmh2lzN9kRy4G-6" edge="1" parent="1" source="0nZeBFnhmh2lzN9kRy4G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="0nZeBFnhmh2lzN9kRy4G-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0nZeBFnhmh2lzN9kRy4G-7" edge="1" parent="1" source="0nZeBFnhmh2lzN9kRy4G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0nZeBFnhmh2lzN9kRy4G-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0nZeBFnhmh2lzN9kRy4G-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Build Host&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="-490" as="geometry" />
+        </mxCell>
+        <mxCell id="0nZeBFnhmh2lzN9kRy4G-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Build PubSub" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="-600" as="geometry" />
+        </mxCell>
+        <mxCell id="0nZeBFnhmh2lzN9kRy4G-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Build GossipSub" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="-380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
